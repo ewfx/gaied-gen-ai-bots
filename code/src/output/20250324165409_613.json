@@ -1,0 +1,12 @@
+{
+    "request_type": "collateral review",
+    "sub_request_type": "insurance verification",
+    "from": "frontoffice.team@bankofnorthamerica.com",
+    "to": "backoffice.operations@bankofnorthamerica.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to review Henderson Industries' lending arrangements and updated insurance policy (BAP2023-10-004 with Allied Protection). Coverage increased from $5,000,000 to $7,500,000.",
+    "confidence_score": 95,
+    "reason": "The email explicitly requests a review of security aspects of loans and insurance policy updates, and mentions policy number and coverage details, all pointing towards insurance verification as part of collateral review.",
+    "other_comments": ""
+}

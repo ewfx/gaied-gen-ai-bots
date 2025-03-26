@@ -1,0 +1,21 @@
+Hi Brenda,Just circling back on the transfer request. Everything looks good on my end, and the client has confirmed receipt of the funds. See attached transaction confirmation for your records.Thanks,RicardoOn Thu, Oct 26, 2023 at 4:32 PM Brenda Lawson <brenda.lawson@examplebank.com> wrote:Hi Ricardo,Thanks for sending over the information. I have reviewed it all, and it looks like we have everything we need to move forward. I've also attached the client's wire instructions, just to make sure all of the details are correct.Let me know if you have any questions. Once you give me the go-ahead, I'll forward this to our processing team.Thanks,BrendaOn Thu, Oct 26, 2023 at 2:15 PM Ricardo Gomez <ricardo.gomez@examplebank.com> wrote:Hi Brenda,Following up on Mr. Olsen's request. As discussed, he wishes to remit $25,000.00 USD to an account with Bank of Switzerland. See attached statement for a record of the available funds in his account (ending in 7890). He is aware of the applicable fees associated with this type of transfer. Also attached is the required authorization form signed by Mr. Olsen.Let me know if you need anything else from my end.Thanks,RicardoAttached Documents:report_LN-879387.pdfreport_LN-146303.docxreport_LN-100605.docx
+Mr. Olsen's account statement, dated October 25, 2023, indicates a balance of $75,422.18
+USD. The statement covers the period from October 1, 2023, to October 25, 2023. There were
+no unusual transactions during this period. Funds are sufficient to cover the $25,000.00
+USD transfer and associated fees. The account number is 1234567890. Please see attached
+report 1 for more details.
+Detailed Narrative Report
+Authorization form signed by Mr. Olsen on October 26, 2023, authorizing the transfer of $25,000.00 USD from account 1234567890 to the following beneficiary account:
+Bank Name: Bank of Switzerland
+Account Number: CH56 0483 5012 3456 7800 9
+SWIFT Code: CRESOCHZZ80A
+Beneficiary Name: Global Tech Solutions AG
+Beneficiary Address: Bahnhofstrasse 1, 8001 Zurich, Switzerland. Please see attached report 2 for more details.
+Detailed Narrative Report
+Transaction Confirmation:
+Date: October 27, 2023
+Amount: $25,000.00 USD
+Sender Account: 1234567890
+Recipient Bank: Bank of Switzerland
+Transaction ID: 20231027-XYZ789
+Status: Completed. Please see attached report 3 for more details.

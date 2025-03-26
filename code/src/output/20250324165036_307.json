@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "foreign currency",
+    "from": "Anya Sharma",
+    "to": "First National Trust",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to process funds transfer of 55,000 USD to First National Trust from Anya Sharma's investment account. Beneficiary details and proof of funds provided.",
+    "confidence_score": 95,
+    "reason": "Funds transfer is being requested with attached beneficiary details and proof of funds.",
+    "other_comments": ""
+}

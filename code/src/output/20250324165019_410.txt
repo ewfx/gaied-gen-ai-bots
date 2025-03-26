@@ -1,0 +1,71 @@
+
+
+
+
+
+Hi Team,
+
+
+I've compiled all the required documentation and forwarded the customer's initial request below.
+Please review the attached documents and process the incoming funds. Let me know if you need anything else.
+
+
+
+Thanks,
+Amelia Davis
+Front Office Associate
+
+
+
+
+
+
+---------- Forwarded message ---------From: Amelia Davis <amelia.davis@examplebank.com>Date: Tue, Oct 27, 2023 at 10:30 AMTo: Randall Garcia <randall.garcia@examplebank.com>
+
+
+Hi Randall,
+
+As requested, I've gathered the necessary information and attached the supporting documents provided by the client. please see attached report 1 and 2.
+This pertains to Mr. Harrison's request to deposit a significant amount into his account. Please find all the required information attached. Let me know if you need anything else.
+
+
+Thanks,
+Amelia Davis
+Front Office Associate
+
+
+
+---------- Forwarded message ---------From: harrison.cole@externaldomain.com <harrison.cole@externaldomain.com>Date: Tue, Oct 27, 2023 at 09:00 AMTo: Amelia Davis <amelia.davis@examplebank.com>
+
+
+Dear Amelia,
+
+I hope this email finds you well.
+
+I'm writing to inform you of an expected incoming deposit of $450,000.00. This sum represents a distribution from the estate of my late aunt. The funds will be transferred from 'Henderson Investments'. My account details are as follows:
+
+Account Name: Harrison Cole
+Account Number: 9876543210
+Swift Code: EXMPLXXX
+
+The transaction should be visible under Transaction ID: INV-2023-10-27-HC-001. Please confirm once the funds are successfully credited to my account.
+
+Thank you for your assistance.
+
+Sincerely,
+Harrison Cole
+
+
+Attached Documents:report_LN-495432.docxreport_LN-267323.docx
+Detailed Narrative Report
+Subject: Supporting Documentation for Harrison Cole - Account 9876543210
+This report summarizes the documentation provided by Mr. Harrison Cole for the anticipated incoming funds of $450,000.00. The source of funds is indicated as a distribution from the estate of his late aunt, transferred from Henderson Investments. Attached is the letter from Henderson Investments confirming the distribution, along with a copy of Mr. Cole's identification. Further due diligence may be required upon receipt of the funds to ensure compliance with regulatory requirements.
+Detailed Narrative Report
+Subject: Funds Reconciliation - INV-2023-10-27-HC-001
+Account Name: Harrison Cole
+Account Number: 9876543210
+Transaction ID: INV-2023-10-27-HC-001
+Amount: $450,000.00
+Source: Henderson Investments - Estate Distribution
+Date Expected: 2023-10-27
+This document serves as confirmation and reconciliation of the expected incoming funds for Mr. Cole. Please verify the information upon receipt of the transaction.

@@ -1,0 +1,43 @@
+From: Amelia Rodriguez <amelia.rodriguez@bankfrontier.com>Sent: Tuesday, October 27, 2023 11:42 AMTo: Regulatory Backoffice <regulatory.backoffice@bankfrontier.com>Cc: John Davies <john.davies@bankfrontier.com>; Michael Chen <michael.chen@bankfrontier.com>Subject: FW: Inquiry regarding Account 789012345 - Willow Creek HoldingsHi Backoffice Team,Forwarding you the request from Willow Creek Holdings. John and Michael have already reviewed the documentation and confirmed everything is in order. They've been incredibly responsive to our requests and patient during the information-gathering process. They're one of our key clients, so please prioritize this.We’ve included all supporting documents – the statement from Q3, the vendor list as of October 20th, and the signed acknowledgment form.Let me know if you need anything else from our end.Thanks,Amelia RodriguezSenior Account Manager | BankFrontieramelia.rodriguez@bankfrontier.comFrom: John Davies <john.davies@bankfrontier.com>Sent: Tuesday, October 27, 2023 10:15 AMTo: Amelia Rodriguez <amelia.rodriguez@bankfrontier.com>Cc: Michael Chen <michael.chen@bankfrontier.com>Subject: RE: Inquiry regarding Account 789012345 - Willow Creek HoldingsHi Amelia,Michael and I have finished compiling all the necessary information requested by Willow Creek. We've double-checked against our internal logs and external sources. Everything appears to be consistent and accurate.Attached, please find the Q3 statement, the updated vendor list as requested, and the completed acknowledgment form signed by Mr. Harrison at Willow Creek. Account number is 789012345.Please let us know if there's anything further we can provide.Best regards,John DaviesAssociate | BankFrontierjohn.davies@bankfrontier.comFrom: Willow Creek Holdings <info@willowcreekholdings.com>Sent: Monday, October 26, 2023 4:30 PMTo: frontoffice@bankfrontier.comSubject: Inquiry regarding Account 789012345To Whom It May Concern,I am writing to request information pertaining to our account, number 789012345, for internal auditing purposes. We specifically require the statement for the third quarter of 2023 (July 1st - September 30th, 2023). Also, a complete vendor list as of October 20th, 2023, would be greatly appreciated. Finally, could you please provide us with the standard acknowledgment form that we need to sign and return?We understand the sensitive nature of this information and appreciate your prompt attention to this matter. Mr. Harrison will be the point of contact for any follow-up questions.Sincerely,Willow Creek HoldingsAttached Documents:report_LN-822988.pngreport_LN-504205.pdf
+JPMorgan Cha:
+Willow Creek Hafdings - Vendor List as of October 20, 2023
+
+Account: 789012345
+
+This document outlines all vendors with whom Willow Creek
+Holdings conducted transactions totaling over $10,000 during
+the period of January 1, 2023, to October 20, 2023.
+
+Vendor Name Transaction Amount (USD)
+Transaction Date ‘Transaction ID
+
+Ace Supplies $15,500.00 August 15,
+2023 TXN-2023-08-15-AS155
+
+Beta Technologies $22,750.00 September 5,
+2023 TXN-2023-09-05-BT227
+
+Gamma Solutions $12,200.00 October 3,
+2023 © TXN-2023-10-03-GS122
+
+Omega Industries $18,000.00 July 22,
+
+2023 © TXN-2023-07-22-01180
+
+Note: This list excludes transactions under $10,000.
+Willow Creek Holdings - Q3 2023 Statement Reconciliation
+Account: 789012345
+Statement Period: July 1, 2023 - September 30, 2023
+Beginning Balance (July 1, 2023): $545,230.78
+Summary of Transactions:
+Total Deposits: $125,000.00
+Total Withdrawals: $87,500.00
+Detailed Transactions:
+Date            Description             Amount (USD)    Type
+July 5, 2023    Deposit - Transfer from Savings $50,000.00      Deposit
+July 18, 2023   Withdrawal - Beta Technologies  $22,750.00      Withdrawal
+August 10, 2023 Deposit - Client Payment                $25,000.00      Deposit
+August 25, 2023 Withdrawal - Office Supplies    $15,000.00      Withdrawal
+September 1, 2023       Deposit - Loan Disbursement     $50,000.00      Deposit
+September 15, 2023      Withdrawal - Payroll            $49,750.00      Withdrawal
+Ending Balance (September 30, 2023): $582,730.78

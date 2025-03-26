@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "foreign currency",
+    "from": "Ricardo Gomez",
+    "to": "Brenda Lawson",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Transfer request of $25,000.00 USD to Bank of Switzerland for Mr. Olsen.",
+    "confidence_score": 95,
+    "reason": "The email chain discusses a transfer of funds to a foreign bank (Bank of Switzerland) on behalf of a client, Mr. Olsen. The amounts and beneficiaries were clearly specified.",
+    "other_comments": ""
+}

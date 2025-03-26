@@ -1,0 +1,37 @@
+
+
+
+On Tue, Oct 29, 2024, 10:35 AM Amelia Rodriguez <amelia.rodriguez@bankmail.com> wrote:
+
+
+
+
+Hi Team,
+
+Please find attached the documents related to the international trade facilitation request from Global Dynamics Inc. (Account: 892-555-0122). I have attached their initial request and a summary of their previous transactions as requested by Ms. Davenport.
+
+Could you please initiate the necessary internal procedure? Please let me know if anything else is required from my end.
+
+Thanks!
+
+Amelia Rodriguez
+Front Office Associate
+First Mercantile Bank
+
+
+
+
+
+Dear Amelia,Thank you for forwarding this request. I've reviewed the documentation you've provided for Global Dynamics Inc. and have a couple of questions before proceeding.Firstly, could you confirm the beneficiary details for transaction ID TXN-20241028-GDInc? I need to verify the receiving party's bank and account information. Also, it would be helpful to have a more detailed breakdown of the fees associated with the transaction request. Please see attached draft letter.Regards,Daniel ChenTrade Finance DepartmentFirst Mercantile BankAttached Documents:report_LN-942073.pdf
+Global Dynamics Inc. - Trade Facilitation Analysis
+Date: October 29, 2024
+Account: 892-555-0122
+Client Overview:
+Global Dynamics Inc. is requesting a trade facilitation service for an upcoming
+international shipment. Their account has shown consistent activity over the past year,
+primarily involving import/export transactions.
+Fee Calculation:
+The requested fee structure for this transaction involves:
+Issuance Fee: Based on 0.125% of the transaction amount (USD 500,000)
+Handling Fee: Fixed rate of USD 150
+Total Estimated Fee: USD 775

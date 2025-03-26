@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "timebound",
+    "from": "Jeremy Clarkson",
+    "to": "Global Investments LLC",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Payment request from account 4567890123 to Global Investments LLC for $250,000.00 due November 15, 2023. Funds to be transferred to account 9876543210 at First National Bank, routing number 123456789.",
+    "confidence_score": 95,
+    "reason": "Request for payment of a specified amount ($250,000.00) from a specific account (4567890123) to a vendor (Global Investments LLC) by a specific date (November 15, 2023) to an external account. Mention of amounts, dates and instructions for fund transfer explicitly indicate money movement outbound.",
+    "other_comments": ""
+}

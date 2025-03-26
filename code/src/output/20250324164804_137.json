@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "foreign currency",
+    "from": "Amelia Schneider <amelia.schneider@bankalpha.com>",
+    "to": "Back Office Team <backoffice@bankalpha.com>",
+    "last_date": "2024-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to remit $175,000.00 USD to Global Solutions Ltd. on behalf of Brenda Li, Account Number: 7890123456",
+    "confidence_score": 95,
+    "reason": "The email explicitly states that the client is looking to remit funds overseas, the amount, the beneficiary, and the account details are included.",
+    "other_comments": "Brenda Li is also requesting to transfer $5,000 USD to her sister's account, Evelyn Reed, but this part of the request is not being handled by the back office team. Passport copy attached for verification"
+}

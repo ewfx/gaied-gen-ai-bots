@@ -1,0 +1,41 @@
+From: Amelia Rodriguez <amelia.rodriguez@bankingservices.com>Date: Tue, Oct 27, 2023 at 3:45 PMTo: BackOffice Team <backoffice@bankingservices.com>Hi Back Office Team,Forwarding the attached request from Mr. Henderson regarding his commercial loan. We’ve gathered all the requested documentation. Please see attached: Henderson_Financial_Statements_2022.pdfHenderson_Business_Plan_Update.pdfHenderson_Account_Summary.pdfCould you please prioritize this as Mr. Henderson is looking to make some significant investments in Q1 of next year? Let me know if you require any further information from our side.Thanks,Amelia RodriguezCommercial Account ManagerBanking Services---------- Forwarded message ----------From: David Henderson <david.henderson@hendersonindustries.com>Date: Tue, Oct 27, 2023 at 10:15 AMSubject: Commercial Loan Review RequestTo: Amelia Rodriguez <amelia.rodriguez@bankingservices.com>Dear Amelia,Following our conversation last week, I'm officially requesting a review of our current commercial loan terms, account number 7890123456. We're planning a significant expansion of Henderson Industries and want to ensure our financing structure remains optimal. We’re particularly interested in exploring options that will allow us to leverage existing assets effectively.As discussed, please let me know what documentation you require from our side. I can have my team prepare the necessary reports promptly.Best regards,David HendersonCEO, Henderson IndustriesAttached Documents:report_LN-309142.docxreport_LN-440549.docxreport_LN-455834.pdf
+Detailed Narrative Report
+Henderson Industries - Financial Statement Summary (2022)
+Revenue: $5,750,000
+Cost of Goods Sold: $3,200,000
+Gross Profit: $2,550,000
+Operating Expenses: $1,500,000
+Operating Income: $1,050,000
+Interest Expense: $150,000
+Net Income Before Taxes: $900,000
+Income Taxes: $225,000
+Net Income: $675,000
+Assets:
+Current Assets: $2,000,000
+Fixed Assets: $3,500,000
+Total Assets: $5,500,000
+Liabilities & Equity:
+Current Liabilities: $800,000
+Long-Term Debt: $1,500,000
+Equity: $3,200,000
+Total Liabilities & Equity: $5,500,000
+Note: These figures are unaudited.
+Detailed Narrative Report
+Henderson Industries - Business Plan Update (October 2023)
+Executive Summary:
+Henderson Industries plans to expand its manufacturing facility to increase production capacity by 40% within the next 12 months. This expansion will require additional capital investment. We project that this expansion will lead to an increase of $2,000,000 in revenue in the next fiscal year.
+Funding Request:
+We are seeking a commercial loan increase of $750,000 to cover the costs associated with the facility expansion. We anticipate using the loan to purchase new equipment (approximately $500,000) and cover construction costs ($250,000).
+Henderson Industries - Account Summary (as of 10/26/2023)
+Account Number: 7890123456
+Account Type: Commercial Loan
+Current Balance: $1,450,000
+Interest Rate: 4.75%
+Last Payment Date: 10/15/2023
+Last Payment Amount: $8,250
+Average Monthly Transactions: 25
+Transaction Highlights:
+- 09/29/2023: Payment received - $8,250 (Transaction ID: TXN-0929-123)
+- 09/15/2023: Material Purchase from Vendor ABC Corp - $15,000 (Transaction ID:
+TXN-0915-456)
+- 08/31/2023: Payment received - $8,250 (Transaction ID: TXN-0831-789)

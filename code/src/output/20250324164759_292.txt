@@ -1,0 +1,32 @@
+Hi Team,Could you please process the transfer request I forwarded below, along with all the supporting documents? They're all attached and contain all the necessary information.Thanks,Emily CarterFront Office AgentOn Thu, Oct 26, 2023 at 3:15 PM, John Smith <john.smith@examplecustomer.com> wrote:Dear Emily,Following our conversation earlier today, I'm sending the required documentation to initiate the movement of funds. Please see attached report 1, which contains the details of the beneficiary account and supporting rationale for the transaction. I’ve also included attached report 2, containing the summary of funds in our account which will be used for this movement. Kindly confirm receipt and subsequent action.Thanks,John SmithAttached Documents:report_LN-590498.pngreport_LN-496487.png
+Bank of America
+Beneficiary Accopnt Details and Transaction Rationale:
+
+Account Name: Australian Business Consulting Pty Ltd
+BSB: 082-057
+
+Account Number: 7492836152
+
+Amount: AUD 150,000.00
+
+Transaction Date: 2023-10-27
+
+Reference: Invoice #ABC2023-10-05,
+
+Rationale: Payment for consulting services rendered as per
+contract agreement dated 2023-07-15.
+
+Confirmation Required: Please verify all details before
+initiating the transfer to ensure accuracy and prevent
+delays.
+
+Transaction ID: Pending
+Bank of America
+‘Summary of funds available:
+Date: 2023-10-26
+
+Account Number: 1234567890
+Beginning Balance: $200,000.00
+
+Ending Balance: $50,000.00
+Total Amount available: $150,000.00

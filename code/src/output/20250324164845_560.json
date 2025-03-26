@@ -1,0 +1,12 @@
+{
+    "request_type": "document request",
+    "sub_request_type": "identity verification",
+    "from": "thomas.thompson@email.com",
+    "to": "backoffice@bankabc.com",
+    "last_date": "2023-08-15",
+    "urgency": "High",
+    "shortened_description": "Mr. Thompson requests status of loan LN2023-08-14-TT, including outstanding balance, pending fees, and payoff amount. Identity confirmed.",
+    "confidence_score": 95,
+    "reason": "Request for loan status with attached driver's license copy and mention of identity confirmation.",
+    "other_comments": ""
+}

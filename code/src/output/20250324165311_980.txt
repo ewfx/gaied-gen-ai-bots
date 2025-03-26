@@ -1,0 +1,57 @@
+From: Eleanor Vance <eleanor.vance@bankfrontoffice.example.com>Sent: Tuesday, October 24, 2023 3:15 PMTo: ProcessingTeam <processingteam@bankbackoffice.example.com>Cc: Janice Avery <janice.avery@bankfrontoffice.example.com>, Robert Dudley <robert.dudley@bank.example.com>Subject: FW: Re: Inquiry about Commercial Account 7890123456Hi Processing Team,Could you please take a look at this request? Robert Dudley from Gillingham Enterprises is looking to adjust the repayment schedule on their existing loan. We've gathered all the relevant documentation, including their latest financial statements and updated projections. Attached are the account summary, projected cash flow analysis for the next 18 months, and the current loan agreement.Thanks for your help!Eleanor VanceCommercial Account ManagerFirst National BankFrom: Janice Avery <janice.avery@bankfrontoffice.example.com>Sent: Tuesday, October 24, 2023 1:48 PMTo: Eleanor Vance <eleanor.vance@bankfrontoffice.example.com>Subject: Re: Inquiry about Commercial Account 7890123456Eleanor,I've attached the account summary and the projected cash flow analysis Robert sent over. Let me know if you need anything else before forwarding this to the back office.Janice AveryClient Support SpecialistFirst National BankFrom: Robert Dudley <robert.dudley@bank.example.com>Sent: Tuesday, October 24, 2023 10:30 AMTo: Janice Avery <janice.avery@bankfrontoffice.example.com>Subject: Inquiry about Commercial Account 7890123456Dear Janice,I hope this email finds you well.As we discussed last week, Gillingham Enterprises is exploring options to adjust our current loan repayment schedule for commercial account 7890123456. Due to some unexpected market shifts, our projected cash flow for the next year has been slightly impacted. I have attached a detailed cash flow forecast. As you know, we secured the initial loan of $500,000 on July 15, 2022, with an interest rate of 6.75%. The loan was structured for a 5 year repayment period.Would it be possible to re-evaluate the repayment terms? I have attached the updated financial projections for the next 18 months. Please let me know what documentation is required to formally submit this request.Thank you for your assistance.Sincerely,Robert DudleyCFO, Gillingham EnterprisesAttached Documents:report_LN-559166.pdfreport_LN-924934.pngreport_LN-469332.pdf
+Account Summary for Gillingham Enterprises (Account: 7890123456)
+Date: October 24, 2023
+Opening Balance (July 15, 2022): $0.00
+Loan Amount: $500,000.00
+Interest Rate: 6.75%
+Term: 5 years (60 months)
+Transaction History:
+- July 15, 2022: Loan Disbursement: $500,000.00
+- August 15, 2022 - September 15, 2023: Monthly Payments (14 payments): $9,856.05 each
+Current Balance (as of October 24, 2023): $396,015.30
+Next Payment Due: November 15, 2023
+Additional Notes:
+- Account is in good standing.
+- No past due payments.
+- Current amortization schedule attached separately (original loan agreement).
+JPMorgan Cha:
+Gillingham Enterprises
+Projected Cash Flow Analysis (Next 18 Months)
+Prepared: October 24, 2023
+
+This analysis projects the anticipated cash inflows and
+outflows for Gillingham Enterprises over the next 18 months,
+starting November 1, 2023. All figures are expressed in USD.
+
+Month | Beginning Balance | Inflows | Outflows | Net Cash
+Flow | Ending Balance
+
+——|——|-——|-——|!-—|
+
+Nov-23 | $150,000 | $80,000 | $95,000 | -815,000 | $135,000
+Dec-23 | $135,000 | $90,000 | $100,000 | -$10,000 | $125,000
+Jan-24 | $125,000 | $75,000 | $80,000 | -$5,000 | $120,000
+Feb-24 | $120,000 | $85,000 | $90,000 | -$5,000 | $115,000
+Mar-24 | $115,000 | $95,000 | $105,000 | -$10,000 | $105,000
+Apr-24 | $105,000 | $80,000 | $85,000 | -$5,000 | $100,000
+May-24 | $100,000 | $90,000 | $95,000 | -$5,000 | $95,000
+Jun-24 | $95,000 | $75,000 | $80,000 | -$5,000 | $90,000
+Jul-24 | $90,000 | $85,000 | $90,000 | -$5,000 | $85,000
+Aug-24 | $85,000 | $95,000 | $105,000 | -$10,000 | $75,000
+Sep-24 | $75,000 | $80,000 | $85,000 | -$5,000 | $70,000
+Oct-24 | $70,000 | $90,000 | $95,000 | -$5,000 | $65,000
+Nov-24 | $65,000 | $75,000 | $80,000 | -$5,000 | $60,000
+Dec-24 | $60,000 | $85,000 | $90,000 | -$5,000 | $55,000
+Jan-25 | $55,000 | $95,000 | $105,000 | -$10,000 | $45,000
+Feb-25 | $45,000 | $80,000 | $85,000 | -85,000 | $40,000
+Mar-25 | $40,000 | $90,000 | $95,000 | -$5,000 | $35,000
+Apr-25 | $35,000 | $75,000 | $80,000 | -$5,000 | $30,000
+Original Loan Agreement
+Account: 7890123456
+Date: July 15, 2022
+Borrower: Gillingham Enterprises
+Lender: First National Bank
+Loan Amount: $500,000.00
+Interest Rate: 6.75% fixed
+Loan Term: 60 months
+Amortization Schedule: Available upon request

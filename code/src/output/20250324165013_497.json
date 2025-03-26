@@ -1,0 +1,12 @@
+{
+    "request_type": "fee payment",
+    "sub_request_type": "ongoing fee",
+    "from": "Sarah Chen",
+    "to": "Penelope Cruz",
+    "last_date": "2023-10-25",
+    "urgency": "Normal",
+    "shortened_description": "Request to initiate payment for invoice #INV-20231024-ABC to Global Trade Solutions for $12,500 USD due October 31, 2023.",
+    "confidence_score": 95,
+    "reason": "Initiate payment request with vendor, amount and date specified.",
+    "other_comments": ""
+}

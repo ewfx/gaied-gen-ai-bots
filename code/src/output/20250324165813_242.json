@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "decrease limit",
+    "from": "eleanor.vance@vanceindustries.com",
+    "to": "frontoffice@examplebank.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Eleanor Vance of Vance Industries requests a review and potential reduction of parameters linked to account #7890-1234-5678 due to excess capacity.",
+    "confidence_score": 95,
+    "reason": "The email explicitly states a desire to reduce parameters, which implies a decrease in the credit line or financial flexibility associated with the account. Supporting documents point to a strong financial position.",
+    "other_comments": ""
+}

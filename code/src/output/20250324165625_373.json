@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "risk profiling",
+    "from": "eleanor.vance@bankingsolutions.com",
+    "to": "william.jones@bankingsolutions.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Portfolio analysis request from Mr. Davis, including questionnaire and transaction history.",
+    "confidence_score": 95,
+    "reason": "Client (Robert Davis) requests an analysis of his portfolio with a focus on potential impact of current events and market conditions on specific assets, indicating risk profiling.",
+    "other_comments": ""
+}

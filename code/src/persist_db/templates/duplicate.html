@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duplicate Email - Wells Fargo Email Classification</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <style>
+        :root {
+            --wf-red: #d71e28;
+            --wf-yellow: #ffb81c;
+            --wf-dark: #333333;
+            --wf-light: #f8f9fa;
+            --wf-purple: #6f42c1;
+            --wf-green: #198754;
+        }
+        body {
+            background-color: #f5f5f5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .navbar {
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .navbar-brand img {
+            height: 30px;
+        }
+        .card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+        .btn-purple {
+            background-color: var(--wf-purple);
+            border-color: var(--wf-purple);
+        }
+        .btn-purple:hover {
+            background-color: #5a32a3;
+            border-color: #5a32a3;
+        }
+        .btn-green {
+            background-color: var(--wf-green);
+            border-color: var(--wf-green);
+        }
+        .btn-green:hover {
+            background-color: #146c43;
+            border-color: #146c43;
+        }
+        .btn-red {
+            background-color: var(--wf-red);
+            border-color: var(--wf-red);
+        }
+        .btn-red:hover {
+            background-color: #b51822;
+            border-color: #b51822;
+        }
+        .page-title {
+            color: var(--wf-dark);
+            font-weight: 600;
+            margin-bottom: 30px;
+        }
+        .email-property {
+            margin-bottom: 20px;
+        }
+        .property-label {
+            font-weight: 600;
+            color: var(--wf-dark);
+            margin-bottom: 5px;
+        }
+        .property-value {
+            background-color: white;
+            padding: 10px 15px;
+            border-radius: 8px;
+            border: 1px solid #eee;
+        }
+        .badge-urgency {
+            background-color: var(--wf-yellow);
+            color: var(--wf-dark);
+            font-size: 0.9rem;
+            padding: 5px 10px;
+        }
+        .btn-back {
+            color: var(--wf-dark);
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+        }
+        .btn-back:hover {
+            color: var(--wf-red);
+        }
+        .btn-edit {
+            background-color: var(--wf-yellow);
+            color: var(--wf-dark);
+            border: none;
+        }
+        .btn-edit:hover {
+            background-color: #e6a618;
+            color: var(--wf-dark);
+        }
+        .chain-card {
+            margin-bottom: 15px;
+        }
+        .chain-card .card-header {
+            background-color: var(--wf-light);
+            font-weight: bold;
+        }
+        .chain-card .card-body {
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <span>✉️ Email Classification</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+             <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('add_email') }}">
+                    <span class="badge rounded-pill" style="background-color: var(--wf-yellow);">
+                        <i class="bi bi-plus-lg"></i> Add New Email
+                    </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('manage_requests') }}">
+                    <span class="badge rounded-pill" style="background-color: var(--wf-red);">
+                        Manage Request Types
+                    </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container py-5">
+        <h2 class="page-title text-center">⚠️ Duplicate Email Detected</h2>
+
+        <div class="d-flex justify-content-center mb-4">
+            <button class="btn btn-purple me-2" id="updateExistingBtn">
+                <i class="bi bi-pencil-square me-2"></i> Update Existing Email
+            </button>
+            <button class="btn btn-green me-2" id="addNewBtn">
+                <i class="bi bi-plus-circle me-2"></i> Add as New Email
+            </button>
+            <button class="btn btn-red" id="discardBtn">
+                <i class="bi bi-trash me-2"></i> Discard
+            </button>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h3 class="text-center">New Email Data</h3>
+                {% for part in new_email %}
+                <div class="card chain-card">
+                    <div class="card-header">
+                        {% if part.type == 'email' %}
+                        <i class="bi bi-envelope-fill me-2"></i> Email
+                        {% elif part.type == 'attachment' %}
+                        <i class="bi bi-paperclip me-2"></i> Attachment: {{ part.attachment_name }}
+                        {% else %}
+                        Message
+                        {% endif %}
+                    </div>
+                    <div class="card-body">
+                        {% if part.type == 'email' %}
+                        <p><strong>From:</strong> {{ part.from }}</p>
+                        <p><strong>To:</strong> {{ part.to }}</p>
+                        <p><strong>Subject:</strong> {{ part.subject }}</p>
+                        <p><strong>Time:</strong> {{ part.time }}</p>
+                        <p><strong>Body:</strong></p>
+                        <div>{{ part.body }}</div>
+                        {% elif part.type == 'attachment' %}
+                        <p><strong>Attachment Name:</strong> {{ part.attachment_name }}</p>
+                        <p><strong>Content:</strong></p>
+                        <div>{{ part.attachment_content }}</div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="col-md-6">
+                <h3 class="text-center">Existing Email Data</h3>
+                {% for part in old_email.extracted_texts %}
+                <div class="card chain-card">
+                    <div class="card-header">
+                        {% if part.type == 'email' %}
+                        <i class="bi bi-envelope-fill me-2"></i> Email
+                        {% elif part.type == 'attachment' %}
+                        <i class="bi bi-paperclip me-2"></i> Attachment: {{ part.attachment_name }}
+                        {% else %}
+                        Message
+                        {% endif %}
+                    </div>
+                    <div class="card-body">
+                        {% if part.type == 'email' %}
+                        <p><strong>From:</strong> {{ part.from }}</p>
+                        <p><strong>To:</strong> {{ part.to }}</p>
+                        <p><strong>Subject:</strong> {{ part.subject }}</p>
+                        <p><strong>Time:</strong> {{ part.time }}</p>
+                        <p><strong>Body:</strong></p>
+                        <div>{{ part.body }}</div>
+                        {% elif part.type == 'attachment' %}
+                        <p><strong>Attachment Name:</strong> {{ part.attachment_name }}</p>
+                        <p><strong>Content:</strong></p>
+                        <div>{{ part.attachment_content }}</div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.getElementById('updateExistingBtn').addEventListener('click', function() {
+            const emailChain = {{ new_email | tojson }};
+            const duplicateId = "{{ duplicate_id }}";
+            fetch('/api/email/update_existing', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ email_chain: emailChain, duplicate_id: duplicateId })
+            }).then(response => response.json())
+            .then(data => {
+                if(data.message){
+                    window.location.href = "/";
+                } else {
+                    alert("Error: " + JSON.stringify(data));
+                }
+            });
+        });
+
+        document.getElementById('addNewBtn').addEventListener('click', function() {
+            const emailChain = {{ new_email | tojson }};
+            fetch('/api/email/add_new', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ email_chain: emailChain })
+            }).then(response => response.json())
+            .then(data => {
+                if(data.message){
+                    window.location.href = "/";
+                } else {
+                    alert("Error: " + JSON.stringify(data));
+                }
+            });
+        });
+
+        document.getElementById('discardBtn').addEventListener('click', function() {
+            fetch('/api/email/discard', {
+                method: 'POST'
+            }).then(response => response.json())
+            .then(data => {
+                if(data.message){
+                    window.location.href = "/";
+                } else {
+                    alert("Error: " + JSON.stringify(data));
+                }
+            });
+        });
+    </script>
+</body>
+</html>

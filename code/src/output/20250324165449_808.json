@@ -1,0 +1,12 @@
+{
+    "request_type": "regulatory compliance",
+    "sub_request_type": "report submission",
+    "from": "John Thompson <john.thompson@example.com>",
+    "to": "Sarah Miller <sarah.miller@bank.com>",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Submission of vendor payment breakdown for September 2024 and 2023 tax return for account ending in 4567.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions attaching 'report 1' which is a detailed breakdown of vendor payments and 'report 2' which is a tax return, both requested by Sarah, indicating a report submission for compliance.",
+    "other_comments": ""
+}

@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "contact details",
+    "from": "jane.doe@bank.example.com",
+    "to": "backoffice@bank.example.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Acme Corp requests modifications to account access parameters due to internal security protocols. Requires review and adjustment by November 8th. Account number is 1234567890.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions 'modification to the permitted parameters for our account' and attached list of users with modified roles. User roles also comes under contact details",
+    "other_comments": ""
+}

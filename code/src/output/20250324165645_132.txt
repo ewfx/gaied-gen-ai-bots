@@ -1,0 +1,33 @@
+
+From: Amelia.Stone@examplebank.comSent: Tuesday, October 27, 2023 11:45 AMTo: BackOfficeTeam@examplebank.comSubject: FW: Account Update Request - Martin Ltd.Hi Team,Following up on the Martin Ltd. request. They've sent over all the necessary documentation, which I've compiled and attached. The customer wants to ensure a seamless transition for their upcoming vendor payments and has detailed their current setup. Please prioritize this as the deadline is approaching.Specifically, their payments to "Apex Solutions" (vendor ID: AXS-789) need to be processed without interruption after the scheduled system enhancement. They are also concerned about recurring payments to "Global Supplies" (vendor ID: GLS-123) scheduled for November 15th. The attached documents provide a detailed breakdown of these recurring payments, including invoice numbers and amounts.Please let me know if you need any further information from my end.Thanks,Amelia StoneFront Office - Commercial Banking
+
+
+From: Amelia.Stone@examplebank.comSent: Tuesday, October 27, 2023 9:00 AMTo: David.Martin@martinltd.comCc: FrontOfficeTeam@examplebank.comSubject: Re: Account Update RequestDear Mr. Martin,Thank you for providing the requested documentation. I have received everything and forwarded it to our back office team for processing. Please find attached report 1 which is a summary of this email chain.Please also see the attached report 2, which is the bank's confirmation of receipt for these. I will keep you updated on the progress.Regards,Amelia StoneFront Office - Commercial Banking
+
+
+From: David.Martin@martinltd.comSent: Tuesday, October 27, 2023 8:00 AMTo: FrontOfficeTeam@examplebank.comSubject: Account Update RequestDear Sir/Madam,As discussed, I am sending you the information regarding the adjustments we need on our account. Specifically, we are upgrading our internal systems and need to ensure that our payments continue to flow smoothly, with no interruption of service. The company is Martin Ltd.Please find attached report 3 outlining our current vendor payment setup. This report should cover all payment setups and requirements.Many thanks for your attention to this request, the attached reports are vital for this to be completed on time and accurately.Sincerely,David MartinMartin Ltd.
+Attached Documents:report_LN-536005.docxreport_LN-858401.docxreport_LN-502627.pdf
+Detailed Narrative Report
+This report is a summary of the chain of emails that have been exchanged between the involved parties: David Martin of Martin Ltd, Amelia Stone and the Front Office Team, and the Back Office Team. It is intended as a reference for the involved parties to have clarity regarding the status of the account update request. It details all of the pertinent information and attachments to the requests, as well as some other miscellaneous information.
+Detailed Narrative Report
+This is a confirmation receipt. The bank acknowledges the receipt of the documents sent by Mr. David Martin of Martin Ltd on October 27th 2023, at 08:00 am. A request has been forwarded to the back office team for processing. This document is an attestation of the details mentioned, to be used for further reconciliation, should such an event occur.
+Vendor Payment Setup Report for Martin Ltd.
+This document outlines the current vendor payment setup for Martin Ltd. as of October 27,
+2023. It provides details necessary for ensuring a seamless transition during planned
+system upgrades.
+Recurring Payments:
+Vendor: Global Supplies
+Vendor ID: GLS-123
+Payment Frequency: Monthly
+Next Payment Date: November 15, 2023
+Amount: $12,500.00
+Invoice Number: GS-20231027-001
+Critical Payments:
+Vendor: Apex Solutions
+Vendor ID: AXS-789
+Payment Date: November 1, 2023
+Amount: $25,000.00
+Invoice Number: AS-20231027-002
+Note: Please ensure these payments are processed without interruption during the system
+update. Any issues should be immediately reported to David Martin
+(David.Martin@martinltd.com).

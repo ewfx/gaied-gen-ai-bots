@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement inbound",
+    "sub_request_type": "principal + interest",
+    "from": "Apex Corporation",
+    "to": "Evelyn Reed",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Confirmation of receipt of funds from Apex Corporation to client account 9876543210, including principal and interest.",
+    "confidence_score": 95,
+    "reason": "Keywords: payment from Apex Corporation, account 9876543210, Original Investment, Interest Earned, Total Received.",
+    "other_comments": ""
+}

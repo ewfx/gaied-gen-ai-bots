@@ -1,0 +1,12 @@
+{
+    "request_type": "customer onboarding",
+    "sub_request_type": "document submission",
+    "from": "eliza.banks@bankera.com",
+    "to": "backoffice.onboarding@bankera.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Client file for Westward Expansion Inc. forwarded for account setup.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly states that the client file for Westward Expansion Inc. is being forwarded to the back office for processing after receiving necessary documents. The attached documents and content described are related to the company incorporation and EIN, which are standard documents for onboarding.",
+    "other_comments": ""
+}

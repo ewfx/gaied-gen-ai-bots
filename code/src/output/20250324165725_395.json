@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "daily reconciliation",
+    "from": "backoffice.payments@bank.com",
+    "to": "frontoffice.support@bank.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Reconciliation discrepancies for account ending in 7890 resolved. Missing transactions from Oct 25th located and categorized.",
+    "confidence_score": 95,
+    "reason": "The email chain discusses discrepancies between bank statements and internal records for account reconciliation.",
+    "other_comments": ""
+}

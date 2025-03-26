@@ -1,0 +1,12 @@
+{
+    "request_type": "document request",
+    "sub_request_type": "income statement",
+    "from": "Isabella Rodriguez <isabella.rodriguez@bankofamericus.com>",
+    "to": "BackOfficeTeam <backofficeteam@bankofamericus.com>",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Forwarding financial documents from Mr. Davis for processing.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions 'financial overview,' 'necessary paperwork,' and attached reports. This suggests a request for financial documents, matching with the 'document request' type. The attached financial documents point to 'income statement'.",
+    "other_comments": ""
+}

@@ -1,0 +1,15 @@
+From: eleanor.harper@bankpremier.comSent: Tuesday, October 27, 2023 2:15 PMTo: processing.unit@bankpremier.comSubject: Fwd: Account Update Request - John SmithHi Team,Forwarding the attached request from John Smith. We've verified his identity and collected the required documentation (utility bill and driver's license copy). He's requested a change to his mailing address for all accounts.Attached is the filled-out request form (Account_Update_Form.pdf). Please proceed with the necessary updates across his portfolio.Thanks,Eleanor HarperBank Premier | Client ServicesFrom: eleanor.harper@bankpremier.comSent: Tuesday, October 27, 2023 11:48 AMTo: john.smith@example.comSubject: Re: Account Update RequestDear Mr. Smith,Thank you for providing the required documents! We have received your completed request form and the supporting documentation. Your information has been forwarded to our processing unit. Please allow 3-5 business days for the changes to reflect across all your accounts.We will notify you once the updates are complete.Sincerely,Eleanor HarperBank Premier | Client ServicesFrom: john.smith@example.comSent: Tuesday, October 27, 2023 9:00 AMTo: eleanor.harper@bankpremier.comSubject: Account Update RequestDear Eleanor,Following our phone conversation earlier this morning, I'm sending you the attached form (Account_Update_Form.pdf) to request a change of address. My current address on file is 123 Main Street, Anytown, USA. My new address is 456 Oak Avenue, Anytown, USA. This affects all my accounts including checking account ending in 7890, savings account ending in 4567, and my business loan account ending in 1234.Please let me know if you require any further information. Attached, you will also find a copy of my driver's license and a recent utility bill as requested for verification.Regards,John SmithAttached Documents:report_LN-462818.docx
+Detailed Narrative Report
+Client: John Smith
+Account Number: Multiple (see below)
+Request Date: 2023-10-27
+Change Requested: Mailing Address Update
+Accounts Affected:
+Checking Account: XXXX-XXXX-XXXX-7890
+Savings Account: XXXX-XXXX-XXXX-4567
+Business Loan: XXXX-XXXX-XXXX-1234
+Old Address: 123 Main Street, Anytown, USA
+New Address: 456 Oak Avenue, Anytown, USA
+Supporting Documents:
+- Copy of Driver's License
+- Recent Utility Bill

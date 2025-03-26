@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "foreign currency",
+    "from": "John Harrison <john.harrison@clientmail.com>",
+    "to": "BackOffice Team <backoffice@bankmail.com>",
+    "last_date": "2024-07-16",
+    "urgency": "High",
+    "shortened_description": "Client John Harrison requests $25,000 USD transfer from account 876543210 to GlobalTech Solutions in Zurich. Invoice GT-2024-07-16 due July 22nd, 2024. Authorization forms and vendor invoice attached.",
+    "confidence_score": 95,
+    "reason": "Explicit mention of fund transfer to an international vendor in foreign currency.  Urgency explicitly stated by the client.",
+    "other_comments": ""
+}

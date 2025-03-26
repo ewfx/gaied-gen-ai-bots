@@ -1,0 +1,12 @@
+{
+    "request_type": "portfolio rebalancing",
+    "sub_request_type": "liquidity adjustment",
+    "from": "Harold Harrison",
+    "to": "Charles Davies",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Mr. Harrison requests urgent review and potential restructuring of portfolio (123-456-789) to access funds by November 15th due to unexpected medical expense.",
+    "confidence_score": 95,
+    "reason": "Client's email explicitly requests a review and potential restructuring of the investment portfolio to access funds quickly, indicating a need for liquidity adjustment.",
+    "other_comments": "Client requires the funds by November 15th due to medical expenses."
+}

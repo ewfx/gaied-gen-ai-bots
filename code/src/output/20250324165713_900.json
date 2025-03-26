@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "daily reconciliation",
+    "from": "Robert Davis <robert.davis@acme.com>",
+    "to": "Janice Miller <janice.miller@bankalpha.com>",
+    "last_date": "2023-12-12",
+    "urgency": "High",
+    "shortened_description": "Request to review account activity for week ending December 8th, 2023, due to discrepancies, specifically a $200 shortfall in Vendor C's deposit.",
+    "confidence_score": 95,
+    "reason": "The email chain discusses account statements, transaction summaries, and reconciliation spreadsheets. The attached report specifically mentions a discrepancy in deposits and requests investigation. Robert highlights the discrepancies needing urgent clarification",
+    "other_comments": ""
+}

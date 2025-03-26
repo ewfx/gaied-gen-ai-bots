@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement inbound",
+    "sub_request_type": "principal + interest + fee",
+    "from": "abigail.thorne@example.com",
+    "to": "backoffice.operations@bankabc.com",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Urgent request to credit $595,000.00 to account ending in 7890 from StellarTech Solutions by October 30th, with funds needed before November 1st.",
+    "confidence_score": 95,
+    "reason": "Customer Abigail Thorne requests inbound money movement of principal, interest, and profit share (totaling $595,000) from StellarTech Solutions, documented in attached files. The request is marked as urgent and requires funds to be available before November 1st.",
+    "other_comments": ""
+}

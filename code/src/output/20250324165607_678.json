@@ -1,0 +1,12 @@
+{
+    "request_type": "risk assessment",
+    "sub_request_type": "market risk",
+    "from": "Samuel Johnson",
+    "to": "Paul Miller",
+    "last_date": "2023-10-24",
+    "urgency": "High",
+    "shortened_description": "Client XYZ Corp. requests review of potential exposures due to market volatility affecting international holdings. Includes trading activity, current holdings, APAC and North America portfolio reports.",
+    "confidence_score": 95,
+    "reason": "Client is concerned about market fluctuations impacting international holdings and requests a review of trading activity and current holdings, indicating a market risk assessment need.",
+    "other_comments": ""
+}

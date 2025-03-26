@@ -1,0 +1,88 @@
+
+
+
+Thank you, Robert. I've gathered everything and forwarded it to the processing team.
+
+
+
+
+-------- Original message --------
+From: robert.dawson@examplebank.com
+Date: Tue, Oct 24, 2023 3:15 PM
+To: elena.smith@examplebank.com
+Subject:
+
+Elena,I managed to get all the required documentation from Mr. Peterson. Please see attached report 1 and attached report 2, containing the ledger entries and the customer's signed authorization. Hopefully, this clarifies the situation. Please send this over to operations when you get a chance.Thanks,Robert
+
+
+
+
+
+
+
+
+Hello,
+
+
+
+
+
+I hope you're doing well.
+
+
+
+
+
+I am writing to you regarding the inquiry from our customer, Mr. Peterson (Account Number: 7894561230), concerning some transactions from last month, specifically around September 15th. He noticed that an amount was deducted for vendor 'Global Solutions Corp' (Transaction ID: GX1234567890) from one of his accounts that should have been debited from another account instead.
+
+
+
+
+
+Could you please assist with gathering the necessary details and documentation to forward to the back office? Any information you can pull related to the specific transaction and vendor would be extremely helpful.
+
+
+
+
+
+Thank you for your help.
+
+
+
+
+
+Best regards,
+
+
+Robert Dawson
+
+
+Front Office Representative
+
+
+Example Bank
+
+Attached Documents:report_LN-282458.pdf
+**Account Activity Reconciliation - Peterson Account 7894561230**
+**Date:** October 24, 2023
+**Prepared By:** Robert Dawson
+**Issue:** Mr. Peterson noticed that an payment of $5,000.00 made to Global Solutions Corp
+(Transaction ID: GX1234567890) was debited from Account A (1234567890) instead of Account
+B (9876543210) as originally intended.
+**Account A (1234567890) Activity (Relevant Entries):
+**
+*   Sept 15, 2023: Debit - $5,000.00 - Global Solutions Corp (GX1234567890)
+*   Sept 16, 2023: Interest Earned - $12.50
+*   Sept 17, 2023: Deposit - $1,000.00
+**Account B (9876543210) Activity (Relevant Entries):
+**
+*   Sept 15, 2023: No debit for Global Solutions Corp.
+*   Sept 16, 2023: Interest Earned - $8.75
+**Customer Instructions (Confirmed via Signed Authorization):** Mr. Peterson has confirmed
+that the $5,000 payment to Global Solutions Corp should have been debited from Account B
+(9876543210) and has provided a written authorization to correct the error.
+**Proposed Resolution:**
+1.  Debit Account B (9876543210) for $5,000.00.
+2.  Credit Account A (1234567890) for $5,000.00.
+**Additional Notes:** Ensure proper audit trail documentation is maintained for these
+adjustments.

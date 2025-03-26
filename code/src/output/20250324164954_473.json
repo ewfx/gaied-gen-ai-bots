@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "overdraft monitoring",
+    "from": "Amelia Stone <amelia.stone@bankwest.com>",
+    "to": "BackOfficeTeam <backofficeteam@bankwest.com>",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Client Eleanor Vance requests confirmation of recurring debit arrangement with Global Solutions Inc.",
+    "confidence_score": 95,
+    "reason": "The client wants to ensure that funds are being transferred as agreed with Global Solutions Inc., which implies a monitoring aspect of the existing cash flow.",
+    "other_comments": "Original request came from Eleanor Vance to Amelia Stone. Attachments included client authorization, agreement copy, and transaction history."
+}

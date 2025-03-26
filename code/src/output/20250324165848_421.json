@@ -1,0 +1,12 @@
+{
+    "request_type": "customer onboarding",
+    "sub_request_type": "identity check",
+    "from": "Brenda Jenkins",
+    "to": "Finance Operations",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Request to verify and setup corporate account for Alistair Finch / Finch & Associates.",
+    "confidence_score": 95,
+    "reason": "New client onboarding with attached documentation requiring verification and account setup.",
+    "other_comments": "Alistair Finch also sent a copy of drivers license to Amelia Davis. Incorporation date is 2023-04-15. Initial deposit $75,000 from Wells Fargo (Acct # ending in 5678). Request to verify Wells Fargo Account and Risk Assessment"
+}

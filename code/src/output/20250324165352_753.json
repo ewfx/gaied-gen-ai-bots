@@ -1,0 +1,12 @@
+{
+    "request_type": "loan extension",
+    "sub_request_type": "term extension",
+    "from": "Evelyn Reed",
+    "to": "Jasper Hayes",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Forwarding documents (vendor communication, updated purchase agreement, title report) for property at 123 Main Street. Requesting internal processing to finalize loan by end of next week for account 9876-5432-1011.",
+    "confidence_score": 95,
+    "reason": "The request explicitly mentions finalizing a loan and refers to documents related to property purchase and title, indicating a loan extension/renewal process.",
+    "other_comments": ""
+}

@@ -1,0 +1,36 @@
+
+From: Amelia Stone <amelia.stone@bankwest.com>Sent: Tuesday, October 27, 2023 11:15 AMTo: BackOfficeTeam <backofficeteam@bankwest.com>Hi Back Office Team,
+I'm forwarding a request from a client, Ms. Eleanor Vance, regarding her ongoing arrangement with Global Solutions Inc. She needs us to ensure the funds are transferred as previously agreed.I've attached the necessary documentation Eleanor provided:- Client authorization form (see 'Client Authorization Form.pdf')- Copy of the original agreement (see 'Global Solutions Agreement.pdf')- Transaction history extract (see 'Account Activity.pdf')Please process this as soon as possible. Let me know if you require anything else from my end.
+Thanks,
+Amelia StoneBankWest Front Office
+
+
+From: Eleanor Vance <eleanor.vance@vanceindustries.com>Sent: Tuesday, October 27, 2023 10:00 AMTo: Amelia Stone <amelia.stone@bankwest.com>Dear Amelia,
+Following our call earlier today, I'm sending over the documents we discussed.  As you know, we have a recurring debit arrangement with Global Solutions Inc. for their services. I need to make sure this is running without a hitch and that the correct amounts are being debited on time.
+Attached you will find the authorization form signed by myself, a copy of our agreement with Global Solutions, and the relevant bank statement section.  Please let me know if any further information is needed.
+Thanks for your help,
+Eleanor VanceVance Industries
+Attached Documents:report_LN-305663.docxreport_LN-742573.pngreport_LN-720525.png
+Detailed Narrative Report
+Client Authorization Form.pdf:
+I, Eleanor Vance, authorize BankWest to debit my account 1234567890 for payments to Global Solutions Inc. as per the agreement dated July 15, 2022.  The amount is $2,500.00, debited monthly on the 20th. This authorization is valid until further notice, with 30 days' written notice required for cancellation. Signed: Eleanor Vance, October 27, 2023.
+Wells Fargo
+Global Solutions|Agreement pf.
+
+This agreement between Vance Industries and Global Solutions
+Inc., dated July 15, 2022, outlines the provision of IT
+support services at a monthly fee of $2,500.00. Payment is
+
+due on the 20th of each month. The agreement is valid for
+two years, renewable upon mutual consent. Client contact
+Eleanor Vance. Vendor contact: Robert Chen.
+Wells Fargo
+Account Activity pdf.
+Account 1234567890
+Period: September 20, 2023 - October 27, 2023
+
+September 20, 2023: Debit - Global Solutions Inc. -
+$2,500.00 - Transaction ID: TXN987654321
+
+October 20, 2023: Debit - Global Solutions Inc. - $2,500.00
+- Transaction ID: TXN123456789

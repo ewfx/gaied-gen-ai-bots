@@ -1,0 +1,38 @@
+
+
+
+Hi Team,Could you please take a look at this request from Mr. Davis? I've attached all the supporting documents he provided. Let me know if you need anything else from my end.Thanks,Sarah MillerFront Office
+
+
+
+-------- Original Message --------From: Sarah Miller <sarah.miller@examplebank.com>Date: Tue, Oct 27, 2024 at 10:15 AMTo: John Davis <john.davis@example.com>Cc:Subject: Re: Inquiry Regarding Account ActivityDear Mr. Davis,Thank you for providing the requested information and documents. We have now received everything needed to proceed with your inquiry. I'm forwarding this to our back-office team for processing. They will be in touch soon with an update.Please see the attached documentation for your personal records regarding the information you provided.Sincerely,Sarah MillerFront Office
+
+-------- Original Message --------From: John Davis <john.davis@example.com>Date: Tue, Oct 27, 2024 at 9:00 AMTo: Sarah Miller <sarah.miller@examplebank.com>Cc:Subject: Inquiry Regarding Account ActivityDear Ms. Miller,Following our conversation yesterday, I am sending the documentation we discussed. I hope this clarifies the situation with the recent accruals on account ending in 7890. I have attached copies of the relevant statements from Q3 of this year, along with a letter explaining the discrepancy I believe exists. The total I'm expecting to see reflected in the accrual calculations, based on my understanding, is $1,750.25, not the $1,687.50 that is currently shown.Please see attached report 1 (statement 1) and attached report 2 (statement 2).I appreciate your assistance in resolving this.Sincerely,John Davis
+
+Attached Documents:report_LN-462579.png
+Bank of America
+Account Recone¢fliation for Q3 2024 — Account ending in 7890:
+
+Beginning Balance (July 1, 2024): $50,000.00
+
+Summary of Activity:
+
+* Interest Accrued (Per Bank Statement): $1,687.50
+* Expected Interest Accrued (Based on Customer
+Calculation): $1,750.25
+
+Difference: $62.75
+
+Explanation:
+
+Mr. Davis has provided documentation (attached Report 1 &
+Report 2) detailing his calculation of expected interest. He
+believes the bank statement is understating the interest
+accrued by $62.75
+
+Further Investigation Required:
+
+Please review the provided documentation and verify the
+interest calculation. Determine the source of the
+discrepancy and provide a corrected accrual amount if
+necessary.

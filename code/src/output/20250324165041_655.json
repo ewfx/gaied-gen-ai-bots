@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "daily reconciliation",
+    "from": "John Davis",
+    "to": "Sarah Miller",
+    "last_date": "2024-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Inquiry regarding discrepancy in interest accrual on account ending in 7890, requesting reconciliation of a $62.75 difference.",
+    "confidence_score": 85,
+    "reason": "The customer is disputing the interest amount accrued on their account and is requesting a reconciliation to identify the discrepancy.",
+    "other_comments": ""
+}

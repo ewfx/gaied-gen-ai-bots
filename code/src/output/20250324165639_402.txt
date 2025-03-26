@@ -1,0 +1,57 @@
+From: Jane Doe <jane.doe@bank.example.com>Sent: Tuesday, October 29, 2024 2:35 PMTo: Back Office Team <backoffice@bank.example.com>Subject: FWD: Account Revision Request - Acme CorpHi Back Office Team,Forwarding this request from Acme Corp regarding their current account configuration. We've gathered all the necessary documentation from their end, including the system access audit report, signed authorization form, and the list of approved users for the new parameters.Please review the materials and proceed with the necessary adjustments. Acme Corp is looking to have this completed by November 8th if possible. Their account number is 1234567890. Let me know if you need any further information from our end.Thanks,Jane DoeFront Office---------- Forwarded message ---------From: Robert Smith <robert.smith@acmecorp.example.com>Date: Tue, Oct 29, 2024 at 11:12 AMSubject: Account Revision Request - Acme CorpTo: Jane Doe <jane.doe@bank.example.com>Dear Jane,Following up on our call earlier this week, we're formally requesting a modification to the permitted parameters for our account (1234567890). We are implementing enhanced security protocols within our own internal systems, which require certain alterations to our bank access privileges. We’ve attached the updated user list and the signed authorization. The system access report is also attached, as you requested.Please confirm receipt of this email and let me know the next steps. We're aiming to have this completed as soon as possible.Sincerely,Robert SmithCFO, Acme CorpAttached Documents:report_LN-987789.png
+Bank of America
+Acme Corp - System Access Audit Report
+
+Date: October 28, 2024
+Account: 1234567890
+
+This report details the user access audit conducted on
+October 27, 2024, for Acme Corp's banking account. The audit
+was performed to verify compliance with the new internal
+security protocols. The review period encompasses
+transactions from January 1, 2024, to October 27, 2024.
+
+Key Findings
+
+* Total number of users with active access: 12
+* Users requiting revised access parameters: 5
+* Users requiting access revocation: 2
+
+* Users requiting new access provisioning: 3
+* Transaction ID for audit log retrieval
+TXN-20241027-ACME-001
+
+Details on User Access Changes:
+
+UserID|Name | Current Access Level | Requested
+Access Level | Justification
+
+||
+|
+
+user001 | Alice Johnson |Full Access —_| Limited
+Access | Compliance with new role-based access
+controls
+
+user002 | Bob Williams | Read-Only Access _| No Access
+| Employee no longer with the company.
+
+user013 | Carol David | No Access | Limited
+Access _| Assigned the role of Account Manager
+
+Recommendations:
+
+1. Implement the requested access level changes for the
+identified users
+
+2. Revoke access for users who are no longer authorized.
+3. Monitor user activity logs for any unauthorized access
+attempts.
+
+4. Conduct periodic access reviews to ensure ongoing
+compliance.
+
+Prepared by:
+David Miller
+Security Auditor
+Acme Corp

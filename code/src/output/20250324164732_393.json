@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation principal",
+    "from": "Jasper Sterling <jasper.sterling@sterlingco.com>",
+    "to": "Processing Department <processing.department@bankemail.com>",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Request to review loan agreement (9876-5432-1011) and explore options for adjusting the repayment schedule due to shifts in revenue allocation for Sterling Co. Requesting principal reallocation for more balanced distribution of payments.",
+    "confidence_score": 95,
+    "reason": "Keywords: 'loan agreement', 'repayment schedule', 'revenue allocation', 'principal payments', 'financial statements', 'loan restructuring', 'reallocation proposal'",
+    "other_comments": ""
+}

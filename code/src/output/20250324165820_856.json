@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "decrease limit",
+    "from": "Marcus Reynolds",
+    "to": "Team",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Eleanor Davies requests a decrease to her business credit line from $250,000 due to improved financial efficiency and decreased raw material prices. Supporting documentation attached.",
+    "confidence_score": 95,
+    "reason": "Eleanor Davies' email explicitly requests an adjustment to her business credit line, stating the current limit is higher than needed. The attached documents confirm the financial situation and rationale.",
+    "other_comments": ""
+}

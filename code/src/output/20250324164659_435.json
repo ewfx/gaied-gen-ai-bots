@@ -1,0 +1,56 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation fees",
+    "from": "Front Office <frontoffice@citizensbank.com>",
+    "to": "Back Office <backoffice@bankofamerica.com>",
+    "subject": "Banking Communication Ref: LN-565118",
+    "customer_name": "Robert Anderson",
+    "last_date": "2025-03-24",
+    "urgency": "Normal",
+    "shortened_description": "Customer inquiries about fees charged for transfers from holdings to checking account. Difference of $75 due to TransCorp fees.",
+    "confidence_score": 95,
+    "reason": "The documents discuss discrepancies between expected and actual deposits due to third party fees. The customer requested the information",
+    "secondary_intent": "",
+    "extracted_texts": [
+        {
+            "type": "email",
+            "from": "Front Office <frontoffice@citizensbank.com>",
+            "to": "Back Office <backoffice@bankofamerica.com>",
+            "subject": "Banking Communication Ref: LN-565118",
+            "time": "Mon, 24 Mar 2025 16:46:59 -0000",
+            "body": "Hi Team,\n\nReceived the customer's information and supporting documentation. We've processed the request. The funds have been correctly moved. Please inform the customer that this has been completed.\n\nLet me know if there are any questions.\n\nRegards,\n\nBrenda Miller\n\nBack Office Operations"
+        },
+        {
+            "type": "email",
+            "from": "frontoffice@examplebank.com",
+            "to": "backoffice@examplebank.com",
+            "subject": "",
+            "time": "Tue, 2 May 2023 14:20:15 +0000",
+            "body": "Hi Brenda,\n\nAttached is the information Mr. Anderson provided for the account inquiry. As discussed, there was a question about the distribution of funds from his holdings account into his regular checking account. See attached: account statements; copy of ID and letter of explanation. Please let me know if you need more information\n\nThanks,\n\nSarah Jenkins\n\nFront Office Associate"
+        },
+        {
+            "type": "email",
+            "from": "customer@example.com",
+            "to": "frontoffice@examplebank.com",
+            "subject": "",
+            "time": "Tue, 2 May 2023 10:15:00 +0000",
+            "body": "To Whom It May Concern,\n\nI am writing regarding a potential issue with a recent series of transfers from my investment holdings account to my checking account (ending in 7890). Specifically, I initiated a total of $5,000 in transfers over the past few weeks, in increments of $1,000 on April 10th, $2,000 on April 18th, and $2,000 on April 26th. However, my checking account statement reflects slightly less than the total requested amount.\n\nI'd greatly appreciate it if you could look into this for me. I suspect it has to do with fees, and I would want to know more. I have been with the bank for a long time and never had any issues. My account number is 123456789.\n\nThank you for your time and attention to this matter. I am including a copy of my ID.\n\nSincerely,\n\nMr. Robert Anderson\n\nAttached Documents:\nreport_LN-891267.docx\nreport_LN-347109.pdf\nreport_LN-793341.pdf"
+        },
+        {
+            "type": "attachment",
+            "attachment_name": "report_LN-891267.docx",
+            "attachment_content": "Detailed Narrative Report\nAccount Statement Reconciliation:\nAccount Holder: Robert Anderson\nAccount Number: 123456789\nStatement Period: April 1, 2023 - April 30, 2023\nTransactions of Interest:\nApril 10, 2023: Transfer IN from Holdings Account - $1,000.00\nApril 18, 2023: Transfer IN from Holdings Account - $2,000.00\nApril 26, 2023: Transfer IN from Holdings Account - $2,000.00\nTotal Transfers: $5,000.00\nFees: The account was charged a processing fee of $25 per transaction to a third party vendor called TransCorp for the funds reallocation. The account was charged fees for the amount of $75.00"
+        },
+        {
+            "type": "attachment",
+            "attachment_name": "report_LN-347109.pdf",
+            "attachment_content": "Letter of Explanation from Robert Anderson\nTo Whom It May Concern,\nI am writing to formally request an investigation into the discrepancies observed in my\nrecent transactions related to my savings account, Account Number: 123456789. I am a long-\nstanding customer with an excellent record and am keen to resolve the outstanding matter.\nI initiated transfers from my holdings account to my checking account on April 10th, 18th,\nand 26th. The cumulative amount of all transfers was $5,000. I can produce additional\ninformation if required."
+        },
+        {
+            "type": "attachment",
+            "attachment_name": "report_LN-793341.pdf",
+            "attachment_content": "Summary of Discrepancy\nCustomer: Robert Anderson\nAccount Number: 123456789\nTotal expected deposit: $5,000\nTotal actual deposit: $4,925\nDifference: $75\nResolution: The difference of $75 is due to third party fees by TransCorp."
+        }
+    ],
+    "email_file_name": "../resources/20250324164659_435.eml"
+}

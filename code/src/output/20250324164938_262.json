@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "elias.vanhorn@bankalpha.com",
+    "to": "frontoffice@bankalpha.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Davidson Enterprises requests an increase to their credit facility to support expansion driven by a new contract with OmniCorp. They require an additional $200,000.",
+    "confidence_score": 95,
+    "reason": "The email and attached document explicitly mention a request to adjust their current facility to increase the credit line by $200,000 to support the OmniCorp contract.",
+    "other_comments": ""
+}

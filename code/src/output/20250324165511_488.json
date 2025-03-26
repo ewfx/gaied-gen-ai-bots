@@ -1,0 +1,12 @@
+{
+    "request_type": "portfolio rebalancing",
+    "sub_request_type": "asset reallocation",
+    "from": "julia.smith@bankofnorth.com",
+    "to": "backoffice.team@bankofnorth.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Harold Perkins requests portfolio reallocation to increase energy sector exposure and reduce technology sector holdings (Tech Solutions Inc.) for long-term growth and risk mitigation.",
+    "confidence_score": 95,
+    "reason": "Harold Perkins' email and attached Investment Strategy Document detail specific asset reallocation requests (Tech Solutions Inc. to energy sector).",
+    "other_comments": "High confidence in request type as multiple sources confirm asset reallocation to achieve long-term growth and mitigate risk."
+}

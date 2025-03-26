@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "contact details",
+    "from": "Amelia.Stone@examplebank.com",
+    "to": "BackOfficeTeam@examplebank.com",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Martin Ltd. requests account update to ensure seamless vendor payments during system enhancement, prioritizing payments to Apex Solutions (AXS-789) and recurring payments to Global Supplies (GLS-123) due November 15th.",
+    "confidence_score": 95,
+    "reason": "The email subject and content explicitly mention 'Account Update Request' and details about vendor payments, indicating contact details are relevant for updating the payment information.",
+    "other_comments": ""
+}

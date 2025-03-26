@@ -1,0 +1,29 @@
+From: Amelia Stone <amelia.stone@bankalpha.com>To: Back Office Team <backoffice@bankalpha.com>Cc: Evelyn Reed <evelyn.reed@bankalpha.com>Sent: Tuesday, October 29, 2024 11:42 AMSubject: Fwd: Inquiry Regarding Client Account - Peterson IndustriesGood Morning Back Office Team,Forwarding the inquiry from Mrs. Peterson regarding her company's account. Attached you'll find the requested statement for the period of January 1, 2023 to December 31, 2023 (please see attached Peterson_Industries_Statement_2023.pdf), the list of transactions she highlighted (Transactions_List.xlsx) and a summary report I compiled based on our conversations (Summary_Report.txt). Please let me know if you require any further information.Best regards,Amelia StoneRelationship ManagerBank AlphaOn Tue, Oct 29, 2024 at 10:15 AM Evelyn Reed <evelyn.reed@bankalpha.com> wrote:From: Evelyn Reed <evelyn.reed@bankalpha.com>To: Amelia Stone <amelia.stone@bankalpha.com>Sent: Tuesday, October 29, 2024 10:15 AMSubject: Re: Inquiry Regarding Client Account - Peterson IndustriesHi Amelia,Just to confirm, I have gathered all the relevant documents from Mrs. Peterson as per our internal checklist.Please let me know if you need anything else from my end before forwarding to the back office.Regards,Evelyn ReedFront Office AssociateBank AlphaOn Tue, Oct 29, 2024 at 09:30 AM Jennifer Peterson <jennifer.peterson@petersonindustries.com> wrote:From: Jennifer Peterson <jennifer.peterson@petersonindustries.com>To: Amelia Stone <amelia.stone@bankalpha.com>Sent: Tuesday, October 29, 2024 9:30 AMSubject: Inquiry Regarding Client Account - Peterson IndustriesDear Mrs. Stone,I hope this email finds you well.I am writing to request a thorough investigation into several transactions within our company's account (Account Number: 7890123456) between January 2023 and December 2023. We noticed some discrepancies that need clarification. Could you please provide a comprehensive statement for that period? I have attached a list of transaction IDs that require immediate attention (Transaction_IDs.pdf). I also wanted to flag that there was a payment made to Apex Solutions on November 15th 2023 for $12,500 - invoice number APX-20231115. I have attached a copy of the invoice.Thank you for your prompt attention to this matter.Sincerely,Jennifer PetersonCEO, Peterson IndustriesAttached Documents:report_LN-483797.docxreport_LN-189696.pdfreport_LN-208396.pdf
+Detailed Narrative Report
+The following is a summary report based on multiple conversations with Mrs. Peterson from Peterson Industries. She expressed concerns regarding a perceived increase in transaction fees during the fiscal year 2023. The attached statement shows a total of $2,350 in transaction fees, spread across approximately 200 transactions. She is particularly concerned about a set of ACH transfers made in July and August of 2023, totaling $5,000, to various vendors, and she wants to know if there are any additional supporting documents available relating to those transactions.
+Peterson Industries Account Statement Reconciliation - Period: January 1, 2023 - December
+31, 2023
+Beginning Balance (January 1, 2023): $1,500,000.00
+Total Deposits: $8,750,000.00
+Total Withdrawals: $8,600,000.00
+Total Transaction Fees: $2,350.00
+Ending Balance (December 31, 2023): $1,647,650.00
+Detailed Breakdown of Notable Transactions (as highlighted by client):
+Date: July 12, 2023
+Type: ACH Transfer
+Amount: $1,000.00
+Description: Vendor Payment - Beta Corp
+Date: August 5, 2023
+Type: ACH Transfer
+Amount: $1,500.00
+Description: Vendor Payment - Gamma Inc
+Date: November 15, 2023
+Type: Wire Transfer
+Amount: $12,500.00
+Description: Apex Solutions - Invoice APX-20231115
+List of Transaction IDs Requiring Attention:
+Transaction ID: TXN-20230315-ABC
+Transaction ID: TXN-20230422-DEF
+Transaction ID: TXN-20230712-GHI
+Transaction ID: TXN-20230805-JKL
+Transaction ID: TXN-20231115-MNO

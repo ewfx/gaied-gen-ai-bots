@@ -1,0 +1,95 @@
+Content-Type: multipart/mixed; boundary="===============1223244903725705827=="
+MIME-Version: 1.0
+From: Front Office <frontoffice@jpmorganchase.com>
+To: Back Office <backoffice@bankofamerica.com>
+Subject: Banking Communication Ref: LN-403975
+Date: Mon, 24 Mar 2025 16:57:13 
+
+--===============1223244903725705827==
+Content-Type: multipart/alternative; boundary="===============7398815651695423397=="
+MIME-Version: 1.0
+
+--===============7398815651695423397==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+This email contains HTML content. Please use an HTML-compatible email client to view it properly.
+--===============7398815651695423397==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><div><p>From: Janice Miller &lt;janice.miller@bankalpha.com&gt;<br>To: Robert Davis &lt;robert.davis@acme.com&gt;<br>Cc: Michael Chen &lt;michael.chen@bankalpha.com&gt;<br>Date: Tue, 12 Dec 2023 16:22:17 -0500</p>
+<p>Hi Robert,</p>
+<p>Thanks for providing all the documentation so quickly. I've reviewed everything and it looks good. I've attached the completed internal form for our team. I'm forwarding this to Michael now so his team can process it. Let me know if you have any questions.</p>
+<p>Best regards,</p>
+<p>Janice Miller<br>Bank Alpha</p>
+</div>
+<br>
+<div><p>From: Robert Davis &lt;robert.davis@acme.com&gt;<br>To: Janice Miller &lt;janice.miller@bankalpha.com&gt;<br>Date: Tue, 12 Dec 2023 14:55:32 -0500</p>
+<p>Hi Janice,</p>
+<p>Attached are the statements for account ending in 7890 for the week ending December 8th, 2023, as well as a summary of all transactions from that week and the reconciliation spreadsheets for all the payments we are expecting. Please see attached report 1.</p>
+<p>Thanks,</p>
+<p>Robert Davis<br>Acme Corp</p>
+</div>
+<br>
+<div><p>From: Janice Miller &lt;janice.miller@bankalpha.com&gt;<br>To: Robert Davis &lt;robert.davis@acme.com&gt;<br>Date: Tue, 12 Dec 2023 14:10:00 -0500</p>
+<p>Hi Robert,</p>
+<p>Following up on your request. To get started, could you please send me the most recent bank statements for your account ending in 7890? I'll also need a summary of all transactions from the past week and your reconciliation spreadsheets. Once I have that I can forward the information to our processing team.</p>
+<p>Thanks,</p>
+<p>Janice Miller<br>Bank Alpha</p>
+</div>
+<br>
+<div><p>From: Robert Davis &lt;robert.davis@acme.com&gt;<br>To: Janice Miller &lt;janice.miller@bankalpha.com&gt;<br>Date: Tue, 12 Dec 2023 13:30:15 -0500</p>
+<p>Good afternoon Janice,</p>
+<p>We need to review the account activity related to the week prior. There are some discrepancies that need to be clarified urgently.</p>
+<p>Best,</p>
+<p>Robert Davis<br>Acme Corp</p>
+</div>
+</body></html><br><br><p>Attached Documents:</p><ul><li>report_LN-455696.pdf</li></ul>
+--===============7398815651695423397==--
+
+--===============1223244903725705827==
+Content-Type: application/pdf
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="report_LN-455696.pdf"
+Content-Type: application/pdf; name="report_LN-455696.pdf"
+
+JVBERi0xLjMKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgaHR0cDovL3d3
+dy5yZXBvcnRsYWIuY29tCjEgMCBvYmoKPDwKL0YxIDIgMCBSCj4+CmVuZG9iagoyIDAgb2JqCjw8
+Ci9CYXNlRm9udCAvSGVsdmV0aWNhIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9G
+MSAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRl
+bnRzIDcgMCBSIC9NZWRpYUJveCBbIDAgMCA2MTIgNzkyIF0gL1BhcmVudCA2IDAgUiAvUmVzb3Vy
+Y2VzIDw8Ci9Gb250IDEgMCBSIC9Qcm9jU2V0IFsgL1BERiAvVGV4dCAvSW1hZ2VCIC9JbWFnZUMg
+L0ltYWdlSSBdCj4+IC9Sb3RhdGUgMCAvVHJhbnMgPDwKCj4+IAogIC9UeXBlIC9QYWdlCj4+CmVu
+ZG9iago0IDAgb2JqCjw8Ci9QYWdlTW9kZSAvVXNlTm9uZSAvUGFnZXMgNiAwIFIgL1R5cGUgL0Nh
+dGFsb2cKPj4KZW5kb2JqCjUgMCBvYmoKPDwKL0F1dGhvciAoYW5vbnltb3VzKSAvQ3JlYXRpb25E
+YXRlIChEOjIwMjUwMzI0MTY1NzEzKzA1JzAwJykgL0NyZWF0b3IgKFJlcG9ydExhYiBQREYgTGli
+cmFyeSAtIHd3dy5yZXBvcnRsYWIuY29tKSAvS2V5d29yZHMgKCkgL01vZERhdGUgKEQ6MjAyNTAz
+MjQxNjU3MTMrMDUnMDAnKSAvUHJvZHVjZXIgKFJlcG9ydExhYiBQREYgTGlicmFyeSAtIHd3dy5y
+ZXBvcnRsYWIuY29tKSAKICAvU3ViamVjdCAodW5zcGVjaWZpZWQpIC9UaXRsZSAodW50aXRsZWQp
+IC9UcmFwcGVkIC9GYWxzZQo+PgplbmRvYmoKNiAwIG9iago8PAovQ291bnQgMSAvS2lkcyBbIDMg
+MCBSIF0gL1R5cGUgL1BhZ2VzCj4+CmVuZG9iago3IDAgb2JqCjw8Ci9GaWx0ZXIgWyAvQVNDSUk4
+NURlY29kZSAvRmxhdGVEZWNvZGUgXSAvTGVuZ3RoIDYyMQo+PgpzdHJlYW0KR2IhU2k/I1EyZCdS
+ZkdSXC49a1k5VSszNVJPaUNRUlBubUZVKDAmLWFHWFxLTWA1LGpBJU1Ca2NfYz5WLUxJTmo5YHJL
+TXAsVm0oRiolQmhgOC5lJ0dsXVRsaVUodCExa1A/OEJINSRSSVkpLVdpcURWVEJNO2Z1XEZcXFtu
+cEpSZktYaiMmITdMPXReQD05aWY/MXJmRWlsajVKbSJlNEhSdVMwKkdVVC8iLXRETWw0K1ROWjFz
+JVhgXG4+TSwxMUE1Zk4lOz4nRFVqcU1zVzg8XkVZPj1fMSsoN3EzIU5cUkdwMldkaixFWCZJbXRX
+RFlbKlFcIVhfX1Y2NUtSLT0rZTY8MSxXdUZeLGdnI3BDSDhZVzVKZztcZT5QUUItcTEvPSVlTi4/
+MkZESmU1TDI0Pi9DMCJpZUEsK15zcVNJXklGbnFaMmomM2M5SVZZPF0qPlBIWlxQOjU+MCVnXkxR
+ImBnIzYzJmNSJithUFUxaz5bViYwWnU8bEw8ODptR1A0UmxrU2IpNF9PP0Y+Ly5YK2IoQVEhRC1t
+QT1WTUNuO088UEtCRGMvLCFZYFBlUV09PjFWcW4oWDBOXUFVVTU0am49XTM7Tz0zb2tiVWVpbm1A
+NVE/XzktXC9VOGFFcy8/XzxlQGZEMj5lODl1XkliUzJsZjJVODdDWTlkNylSMy5GRmBsMVhiQSxh
+bjprdFtYXU1sbWE9Nz1kbV1qKFdOYGNMU0BpKzVaW2dpRlVXbUBcJ2YtKmlET2BoL15jIW4vcjw1
+P1doUi9zQF5AJF11K0QnJiw1WEtgLTAsSXI6MFNHV0hfbyNpLX4+ZW5kc3RyZWFtCmVuZG9iagp4
+cmVmCjAgOAowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwNzMgMDAwMDAgbiAKMDAwMDAwMDEw
+NCAwMDAwMCBuIAowMDAwMDAwMjExIDAwMDAwIG4gCjAwMDAwMDA0MDQgMDAwMDAgbiAKMDAwMDAw
+MDQ3MiAwMDAwMCBuIAowMDAwMDAwNzY4IDAwMDAwIG4gCjAwMDAwMDA4MjcgMDAwMDAgbiAKdHJh
+aWxlcgo8PAovSUQgCls8ZDExMmI0YmRiZTYyNTJlZmVlYWNhODhlMDE5OWY3Njc+PGQxMTJiNGJk
+YmU2MjUyZWZlZWFjYTg4ZTAxOTlmNzY3Pl0KJSBSZXBvcnRMYWIgZ2VuZXJhdGVkIFBERiBkb2N1
+bWVudCAtLSBkaWdlc3QgKGh0dHA6Ly93d3cucmVwb3J0bGFiLmNvbSkKCi9JbmZvIDUgMCBSCi9S
+b290IDQgMCBSCi9TaXplIDgKPj4Kc3RhcnR4cmVmCjE1MzgKJSVFT0YK
+
+--===============1223244903725705827==--

@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "asset allocation",
+    "from": "Beatrice Schultz <beatrice.schultz@bankabc.com>",
+    "to": "Penelope Garcia <penelope.garcia@bankabc.com>",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Henderson's case documents attached for assessment and asset allocation review in anticipation of retirement and generating a consistent income stream while preserving capital.",
+    "confidence_score": 95,
+    "reason": "The email chain discusses Mr. Henderson's desire to restructure his portfolio for retirement, aiming for consistent income and capital preservation. Attachments include financial profile and investment statements, indicating the need for asset allocation advice. The content of attached file specifically asks for a portfolio review",
+    "other_comments": "High confidence in investment advisory - asset allocation, risk profiling"
+}

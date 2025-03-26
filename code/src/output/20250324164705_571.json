@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation fees",
+    "from": "esther.lee@bankdomain.com",
+    "to": "financeops@bankdomain.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Inquiry regarding incorrect service fees charged to account 9876-5432-1010. Customer claims fees of $75 on Oct 12th and Oct 19th are incorrect.",
+    "confidence_score": 95,
+    "reason": "Customer claims incorrect fees and provides supporting documentation (statement, agreement). Account agreement indicates $0.00 monthly maintenance and transaction fees.",
+    "other_comments": ""
+}

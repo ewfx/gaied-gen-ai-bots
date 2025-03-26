@@ -1,0 +1,31 @@
+From: Anya Petrova <anya.petrova@frontofficebank.com>To: Boris Volkov <boris.volkov@backofficebank.com>Cc: Gregor Ivanov <gregor.ivanov@frontofficebank.com>Sent: Tuesday, October 27, 2024 2:15 PMSubject: FW: Urgent - International Wire Transfer RequestHi Boris,Could you please process the attached request for Mr. Kuznetsov? All supporting documentation is included in the reports below. Gregor handled the initial request and has verified the client's identity and the vendor details.Thanks,Anya PetrovaFront Office Banking-------- Original message --------From: Gregor Ivanov <gregor.ivanov@frontofficebank.com>Date: Tue, Oct 27, 2024 at 1:58 PMSubject: Urgent - International Wire Transfer RequestTo: Anya Petrova <anya.petrova@frontofficebank.com>Hi Anya,Attached are the completed request form and the supplemental vendor verification report from Mr. Kuznetsov. He's looking to initiate a transfer to a supplier in Germany. Please see attached report 1 for initial client information, and attached report 2 provides details on the beneficiary. The transfer is quite urgent, so if possible, could you forward it to back office ASAP? Let me know if you need any further information from my end.Thanks,Gregor-------- Original message --------From: Dmitri Kuznetsov <dmitri.kuznetsov@kuznetsovimports.com>Date: Tue, Oct 27, 2024 at 11:23 AMSubject: Urgent Wire Transfer RequestTo: Gregor Ivanov <gregor.ivanov@frontofficebank.com>Dear Gregor,Following our conversation this morning, I'm sending the details for an urgent wire transfer. I need to send EUR 55,000 to Weber GmbH in Germany to account number DE89 3704 0044 0532 0130 00. The payment is for invoice INV-20241027-WEBER, due November 1, 2024. The payment should come from my business account 1234567890 at your bank. I have also completed the forms you sent over and the information about the vendor is in the attached report 3.Please let me know what the next steps are and when I can expect the transfer to be completed.Thank you for your prompt attention to this matter.Sincerely,Dmitri KuznetsovKuznetsov ImportsAttached Documents:report_LN-517186.pngreport_LN-250720.docxreport_LN-113849.png
+Bank of America
+
+Client Information Report:
+Client Name: Dmitri Kuznetsov
+Account Number: 1234567890
+Client Since: 2018-05-15
+
+Recent Activity: Regular import-related transactions. No
+
+suspicious activity detected
+
+KYC Status: Compliant as of 2024-01-10.
+
+Contact Information: Verified. Phone: +7 926 555-1234,
+Email: dmitri.kuznetsov@kuznetsovimports.com
+Detailed Narrative Report
+Vendor Verification Report:
+Vendor Name: Weber GmbH
+Country: Germany
+Bank Account: DE89 3704 0044 0532 0130 00
+Payment Purpose: Invoice INV-20241027-WEBER.
+Vendor Address: Beethovenstraße 5, 50667 Cologne, Germany. Confirmed via Dun & Bradstreet report.
+Citizens Bank
+Vendor Informatipn Document: Weber GmbH has been doing
+
+business with Kuznetsov Imports for over 5 years, supplying
+high-quality machinery parts. All previous payments have
+
+been properly documented and cleared. The vendor has a
+positive standing with Kuznetsov Imports.

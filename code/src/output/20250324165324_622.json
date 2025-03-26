@@ -1,0 +1,12 @@
+{
+    "request_type": "loan extension",
+    "sub_request_type": "term extension",
+    "from": "Amelia Rodriguez <amelia.rodriguez@frontofficebank.com>",
+    "to": "backoffice.loans@frontofficebank.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Thompson requests to adjust the repayment schedule on his commercial loan (account 7890123456) due to recent market shifts impacting his cash flow. Updated business projections and financial statements are provided.",
+    "confidence_score": 95,
+    "reason": "Client requests adjustment of repayment schedule, documents include business projections, account number mentioned.",
+    "other_comments": ""
+}

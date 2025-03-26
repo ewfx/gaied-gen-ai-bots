@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "timebound",
+    "from": "Eleanor Vance <eleanor.vance@bankalpha.com>",
+    "to": "Back Office Team <backoffice@bankalpha.com>",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Request to review vendor payment documentation and initiate the process for scheduled vendor payments to Acme Supplies, Beta Corp, Gamma Inc, and Delta Co due on 2024-11-15.",
+    "confidence_score": 95,
+    "reason": "The email explicitly requests the back office to initiate scheduled vendor payments after reviewing attached documents, indicating a time-sensitive money movement outbound.",
+    "other_comments": ""
+}

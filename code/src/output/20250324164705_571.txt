@@ -1,0 +1,25 @@
+From: esther.lee@bankdomain.comSent: Friday, October 27, 2023 3:42 PMTo: financeops@bankdomain.comSubject: FW: Inquiry regarding incorrect fees charged to account 9876-5432-1010Hi Finance Ops,Please see the forwarded email below and the attached documentation. We've gathered all the information from Ms. Thompson and confirmed her identity. Could you please look into this and process the necessary adjustments? Thanks,Esther LeeFront OfficeFrom: sarah.thompson@customerdomain.comSent: Friday, October 27, 2023 11:15 AMTo: esther.lee@bankdomain.comSubject: Inquiry regarding incorrect fees charged to account 9876-5432-1010Dear Esther,Following our conversation earlier this week, I'm sending over the documents you requested. As I mentioned, I've noticed some unusual charges appearing on my business account, 9876-5432-1010. Specifically, the transactions dated October 12th and October 19th, both for $75 each, labelled as "Service Fee" seem incorrect. I wasn't informed about these fees beforehand, and they weren't applied to my account previously. I've attached a statement highlighting these transactions (please see attached statement.pdf).Could you please investigate this issue and have these fees reversed or clarified? I'm also attaching a copy of my original account agreement (please see attached agreement.pdf) for your reference. There's also another attachment as well (attached report.pdf) that details all of the transactions of last month. Thank you for your help with this matter.Sincerely,Sarah ThompsonAttached Documents:report_LN-952165.pdfreport_LN-391233.docxreport_LN-602340.pdf
+STATEMENT.PDF:
+Account Statement – Sarah Thompson, Business Account 9876-5432-1010
+Period: October 1, 2023 - October 27, 2023
+Date            Description                     Amount
+Oct 5, 2023     Deposit                         $5,000.00
+Oct 12, 2023    Service Fee                     -$75.00
+Oct 19, 2023    Service Fee                     -$75.00
+Oct 26, 2023    Withdrawal - Check #1025        -$1,250.00
+Total Fees: $150.00
+Detailed Narrative Report
+AGREEMENT.PDF:
+Account Agreement Summary – Sarah Thompson, Business Account 9876-5432-1010
+Date Opened: January 15, 2020
+Key Terms:
+- Monthly Maintenance Fee: $0.00
+- Transaction Fee (per transaction): $0.00
+- Overdraft Fee: $35.00
+Note: This is a summary only. The full account agreement is available upon request.
+REPORT.PDF:
+Transaction History for Sarah Thompson, Account 9876-5432-1010, September 2023
+09/01/2023 - Deposit - $2,500
+09/15/2023 - Payment to Vendor ABC Corp - $500 (Transaction ID: 12345)
+09/22/2023 - Withdrawal - $1,000
+09/29/2023 - Payment to Vendor XYZ Ltd - $250 (Transaction ID: 67890)

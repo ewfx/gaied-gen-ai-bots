@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "timebound",
+    "from": "Acme Corp",
+    "to": "First Northern Bank, Bank Alpha",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Acme Corp requests settlement of matured funds from account ending 9876. Transfer $750,000 to First Northern Bank (acct ending 1234) and $500,000 to Bank Alpha (acct ending 5678).",
+    "confidence_score": 95,
+    "reason": "Client (Acme Corp) is requesting distribution of funds to two different bank accounts.",
+    "other_comments": ""
+}

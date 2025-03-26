@@ -1,0 +1,24 @@
+From: alice.chen@bankdomain.comSent: Tuesday, October 29, 2024 3:45 PMTo: backoffice.team@bankdomain.comSubject: Fwd: Urgent Funds Request - Robert DaviesHi Team,Could you please process the attached request for Robert Davies? I've gathered all the necessary paperwork from him. Everything seems to be in order and meets the threshold for expedited processing as per his standing with the bank.The client is requesting a movement of funds domestically. Please let me know if you require anything further from my end.Thanks,Alice ChenFront Office RepresentativeBankDomain Commercial BankingFrom: robert.davies@emaildomain.comSent: Tuesday, October 29, 2024 10:12 AMTo: alice.chen@bankdomain.comSubject: Urgent Funds RequestDear Alice,Following our conversation earlier this morning, I'm formally requesting the movement of $75,000 from my business account (Account Number: 5874932019) to a vendor for immediate payment. The vendor's details are as follows:Vendor Name: Apex Solutions Group Pty LtdBSB: 062-000Account Number: 123456789This payment is crucial to secure a significant discount on a bulk purchase of supplies, which will ultimately benefit my business. I've attached the invoice from Apex Solutions (invoice number ASG-20241029-001) as well as a signed authorization form for your reference (attached report 1). Please confirm the movement as soon as possible.Thanks for your help!Sincerely,Robert DaviesDavies EnterprisesAttached Documents:report_LN-709780.png
+JPMorgan Cha:
+**Apex Solutions Group - Invoice ASG-20241029-001
+
+Reconciliation™*
+
+Account: Davies Enterprises
+Date: October 29, 2024
+Amount: $75,000 AUD
+Description: Bulk Purchase of Supplies
+
+Originating Account
+Bank: BankDomain Commercial Banking
+
+Account Name: Davies Enterprises
+Account Number: 5874932019
+
+Beneficiary Account:
+Bank: Commonwealth Bank
+
+Account Name: Apex Solutions Group Pty Ltd
+BSB: 062-000
+
+Account Number: 123456789

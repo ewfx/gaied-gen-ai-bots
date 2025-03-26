@@ -1,0 +1,30 @@
+From: jane.smith@bank.comSent: Thursday, October 26, 2023 2:47 PMTo: processing.team@bank.comSubject: FW: Incoming Funds Request - Peterson CorpHi Processing Team,Forwarding this along from Mr. Davies and his team. They've gathered all the necessary documentation and verified the client's identity.They're requesting we process an incoming wire transfer to Peterson Corp's account (ending in 7890). Please see attached report 3, which summarizes all collected information and necessary actions. The funds should arrive within the next 24 hours, originating from Allied Investments. The client confirmed the reference ID is 'INC-2023-1026-PC'.Please let me know if you need anything else.Thanks,Jane SmithCommercial Banking - Front OfficeFrom: david.davies@bank.comSent: Thursday, October 26, 2023 1:22 PMTo: jane.smith@bank.comSubject: RE: Incoming Funds Request - Peterson CorpHi Jane,Following up on our conversation, we've completed our due diligence on the Peterson Corp request. I’ve spoken with Richard Peterson himself, and confirmed all details regarding the incoming funds.Attached report 2 contains the completed KYC and AML checks, along with a signed confirmation from Mr. Peterson regarding the source of funds from Allied Investments for $750,000.00 (USD). The expected arrival date is October 27th, 2023. The destination account is Peterson Corp's commercial account ending in 7890. Reference ID provided by Mr. Peterson is INC-2023-1026-PC.Please forward this to the appropriate team for processing.Thanks,David DaviesCommercial Banking - Front OfficeFrom: richard.peterson@petersoncorp.comSent: Thursday, October 26, 2023 10:00 AMTo: david.davies@bank.comSubject: Incoming Funds Request - Peterson CorpDear David,As discussed, we are expecting a sizable transfer of funds from Allied Investments tomorrow, October 27th, 2023. The amount should be $750,000.00 (USD), going into our Peterson Corp account with the last four digits being 7890. The reference number for our internal tracking is INC-2023-1026-PC. Could you please ensure everything is in order on your end to receive these funds smoothly? Please see attached report 1, outlining the justification for these funds, it includes some projections from Allied Investments, and will provide additional context.Thank you for your assistance.Sincerely,Richard PetersonCEO, Peterson CorpAttached Documents:report_LN-904125.pngreport_LN-230914.pngreport_LN-170112.pdf
+Bank of America
+Peterson Com abticipates receiving $750,000.00 from Allied
+
+Investments on October 27th, 2023. These funds are to be
+deposited into Peterson Corp's commercial account ending in
+
+7890. This report provides a summary of the expected
+financial impact and projections.
+Wells Fargo
+KYC and AML cljecks have been completed for Peterson Corp and
+
+Richard Peterson. Source of funds confirmed with Mr.
+Peterson is Allied Investments. Signed confirmation attached
+separately as image001 jpg, also $750,000 USD expected to be
+
+deposited on October 27th, 2023 with reference ID
+INC-2023-1026-PC.
+Summary of Incoming Funds Request for Peterson Corp:
+Client: Peterson Corp
+Amount: $750,000.00 (USD)
+Expected Arrival Date: October 27th, 2023
+Originator: Allied Investments
+Destination Account: Account Ending in 7890
+Reference ID: INC-2023-1026-PC
+Required Actions:
+1. Monitor incoming wire transfer from Allied Investments.
+2. Verify the amount and beneficiary details upon arrival.
+3. Post the funds to Peterson Corp's account ending in 7890.
+4. Confirm receipt with Peterson Corp.

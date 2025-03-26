@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "deborah.lee@bankofalpha.com",
+    "to": "james.miller@bankofalpha.com",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Golden Gate Imports requests loan account adjustment to increase credit limit for business expansion.",
+    "confidence_score": 95,
+    "reason": "Golden Gate Imports is requesting an adjustment to their current loan facility to support planned business expansion. Requested Additional Amount: $250,000",
+    "other_comments": ""
+}

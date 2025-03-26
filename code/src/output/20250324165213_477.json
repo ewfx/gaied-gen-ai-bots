@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "John Davies <John.Davies@DaviesAndSonsImporters.com>",
+    "to": "ProcessingDepartment <ProcessingDepartment@FirstUnitedBank.com>",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Mr. Davies of Davies & Sons Importers requests an increase in their line of credit due to a new contract with Overseas Distributors Ltd. requiring more working capital. Supporting documents (statements, address confirmation, application, driver's license, Global Trade Logistics statement) have been provided for processing.",
+    "confidence_score": 95,
+    "reason": "Mr. Davies explicitly requests an increase in their line of credit. The email chain discusses gathering information required for the credit line adjustment.",
+    "other_comments": ""
+}

@@ -1,0 +1,44 @@
+From: Amelia Rodriguez <amelia.rodriguez@bankdomain.com>Sent: Tuesday, October 27, 2023 3:15 PMTo: Processing Department <processing.department@bankdomain.com>Cc: John Smith <john.smith@example.com>Subject: FW: Account Update Request for Thompson Industries
+
+Hi Team,Forwarding the request from Mr. Smith regarding the Thompson Industries account. I've attached all the necessary documentation he provided, including the vendor invoice (please see attached report 3). Everything looks to be in order. Please proceed with the final steps to ensure proper closure. Let me know if you require anything else.Thanks,Amelia RodriguezFront Office AssociateBankDomain
+
+From: John Smith <john.smith@example.com>Sent: Tuesday, October 27, 2023 11:00 AMTo: Amelia Rodriguez <amelia.rodriguez@bankdomain.com>Subject: Re: Account Update Request for Thompson Industries
+
+Amelia,Thanks so much for the prompt response. I've attached the signed confirmation from our end (please see attached report 2), as well as the vendor’s final statement. I believe this covers everything needed to finalize the process related to the credit facility.Best regards,John SmithThompson Industries
+
+From: Amelia Rodriguez <amelia.rodriguez@bankdomain.com>Sent: Monday, October 26, 2023 4:30 PMTo: John Smith <john.smith@example.com>Subject: Account Update Request for Thompson Industries
+
+Dear Mr. Smith,Thank you for contacting us. To proceed with your request for account updates related to the agreement ending on 10/20/2023 for account ending in 7890, we require a signed confirmation from Thompson Industries and the vendor’s final statement. Please submit these documents at your earliest convenience. Once received, we'll forward them to the relevant department for processing. I have enclosed an example document for your reference (please see attached report 1).Sincerely,Amelia RodriguezFront Office AssociateBankDomainAttached Documents:report_LN-851798.pngreport_LN-214529.docxreport_LN-898752.png
+Citizens Bank
+Example Documpnt
+
+This document serves as an example of the confirmation we
+require from your side. It should clearly state that you
+have approved the termination of the agreement related to
+
+account ending in 7890 and that all outstanding invoices
+have been settled. It should also include the date of
+confirmation and the signature of an authorized
+representative from Thompson Industries
+Detailed Narrative Report
+Thompson Industries Confirmation:
+This confirms that Thompson Industries has reached an agreement with Associated Suppliers, Inc. for the termination of our supply contract, effective October 20, 2023. All payments related to invoice numbers AS-2023-10-001 through AS-2023-10-015, totaling $150,000, have been processed and reconciled. Signed, John Smith, CEO, Thompson Industries.
+JPMorgan Cha:
+Associated Supliers Final Statement:
+
+Final Statement
+Vendor: Associated Suppliers, Inc.
+Customer: Thompson Industries
+Date: October 27, 2023
+
+Summary:
+Total amount invoiced: $150,000.00
+
+Total amount paid: $150,000.00
+Balance due: $0.00
+
+This statement confirms that Thompson Industries has fully
+settled all outstanding invoices related to their account
+with Associated Suppliers, Inc. associated with purchase
+orders referenced in invoices AS-2023-10-001 through
+AS-2023-10-015.

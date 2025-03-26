@@ -1,0 +1,31 @@
+
+From: Amelia Rodriguez <amelia.rodriguez@bankmail.com>Sent: Tuesday, July 16, 2024 11:23 AMTo: BackOffice Team <backoffice@bankmail.com>Subject: FW: Client Request - Transaction Initiation - Account 876543210Hi Back Office Team,Forwarding you the request from our client, Mr. Harrison. He needs to move funds to an overseas vendor. All required documentation, including authorization forms and vendor details, are attached. Could you please prioritize this and let me know the estimated processing time?Thanks,Amelia RodriguezFront Office Associate
+From: Amelia Rodriguez <amelia.rodriguez@bankmail.com>Sent: Tuesday, July 16, 2024 10:15 AMTo: John Harrison <john.harrison@clientmail.com>Cc: FrontOffice Team <frontoffice@bankmail.com>Subject: Re: Urgent Transaction - Account 876543210Dear Mr. Harrison,Thank you for providing all the necessary documents. We have received the completed authorization form and the vendor invoice. I'm now forwarding your request to our back office for processing. They will handle the fund transfer and will keep you updated on the progress.Please find attached a summary of the information you provided. Please review and confirm at your earliest convenience if everything is correct.Best regards,Amelia RodriguezFront Office Associate
+From: John Harrison <john.harrison@clientmail.com>Sent: Tuesday, July 16, 2024 9:00 AMTo: FrontOffice Team <frontoffice@bankmail.com>Subject: Urgent Transaction - Account 876543210Good Morning,I'm writing to request a fund transfer from my account (876543210) to an international vendor, GlobalTech Solutions, based in Zurich. The amount is $25,000 USD. The invoice number is GT-2024-07-16 and the due date is July 22nd, 2024. I have completed the necessary authorization forms and attached a copy of the vendor invoice for your reference.Please let me know if you require any additional information. I need this processed as soon as possible.Sincerely,John Harrison
+Attached Documents:report_LN-301295.pngreport_LN-766769.pdf
+Bank of America
+Client: John Hanjson.
+
+‘Account Number: 876543210
+Date: July 16, 2024
+
+Transaction Summary:
+Amount: $25,000 USD
+
+Beneficiary: GlobalTech Solutions
+
+Bank: Swiss National Bank
+
+Purpose: Payment for services rendered as per invoice
+GT-2024-07-16
+
+Reference: Vendor Payment - GlobalTech
+Fund Transfer Authorization Confirmation
+Client Name: John Harrison
+Account Number: 876543210
+Transaction Date: July 16, 2024
+Amount to be Transferred: $25,000.00 USD
+Beneficiary Details:
+Beneficiary Name: GlobalTech Solutions
+Authorization Status: Approved
+Confirmation Number: AUTH-7890123

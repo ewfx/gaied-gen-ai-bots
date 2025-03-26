@@ -1,0 +1,18 @@
+From: backoffice.payments@bank.comDate: Tue, Oct 27, 2023 at 3:45 PMTo: frontoffice.support@bank.comHi team,Thanks for the update and the supporting documents. Everything looks good on our end. We've reconciled the discrepancies for account ending in 7890. The missing transactions from Oct 25th have been located and properly categorized. Please inform Ms. Ramirez that the issue is now resolved, and the updated report will be available via the portal within the next hour.Regards,David LeeBack Office Payments Team
+-------- Forwarded Message --------From: frontoffice.support@bank.comDate: Tue, Oct 27, 2023 at 2:15 PMTo: backoffice.payments@bank.comHi David,Following up on Ms. Ramirez's request from earlier today. As per her email, there were some inconsistencies in her daily transaction records, specifically some discrepancies between her internal records and the bank statement for account ending in 7890. She flagged a couple of missing outgoing payments dated Oct 25th.I’ve attached the client's statement and her internal reconciliation report for your review. Please let me know if you require any further information.Thanks,Sarah ChenFront Office Support
+-------- Forwarded Message --------From: julia.ramirez@company.comDate: Tue, Oct 27, 2023 at 11:00 AMTo: frontoffice.support@bank.comDear Sarah,I hope this email finds you well.I'm writing to you today regarding some issues I've noticed during my daily accounting check. When I reviewed my business account statement with the ending digits 7890, I found that some transactions were not what I was expecting. There were two outgoing vendor payments from October 25th which do not appear on my statement. I've checked our internal logs and payment records and they're definitely missing from what the bank is showing me. These specific payments were for vendor ID VEN-4567, totaling $2,350.00 and vendor ID VEN-9876, totaling $1,785.00 respectively.Could you please investigate this matter at your earliest convenience? A daily reconciliation is critical for our business, and these discrepancies are causing us some headaches.Thank you for your time and attention to this matter. I look forward to hearing from you soon.Best regards,Julia RamirezAccounting ManagerAttached Documents:report_LN-107808.pdf
+Internal Reconciliation Report - October 25, 2023
+Account: XXXX-XXXX-XXXX-7890
+Discrepancies:
+Vendor: VEN-4567
+Amount: $2,350.00
+Expected: Debited from bank statement
+Actual: Not found on bank statement
+Vendor: VEN-9876
+Amount: $1,785.00
+Expected: Debited from bank statement
+Actual: Not found on bank statement
+Total Discrepancy: $4,135.00
+Notes: Both payments were processed through our internal system on October 25, 2023, with
+transaction IDs TXN-1234 and TXN-5678 respectively. Please investigate the missing
+transactions.

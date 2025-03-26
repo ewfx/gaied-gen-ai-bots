@@ -1,0 +1,12 @@
+{
+    "request_type": "loan extension",
+    "sub_request_type": "rate modification",
+    "from": "Abigail Ramirez",
+    "to": "Marcus Olson",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Stevenson requests an evaluation of loan terms on account 7894-2349-9876-1234 to potentially adjust rates due to market fluctuations.",
+    "confidence_score": 95,
+    "reason": "Client request, mention of adjusting terms and market fluctuations points to rate modification.",
+    "other_comments": "Customer has a Credit Line of $750,000 with A1 Credit."
+}

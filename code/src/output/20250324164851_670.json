@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "contact details",
+    "from": "amelia.rodriguez@bankdomain.com",
+    "to": "processing.department@bankdomain.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to finalize account update for Thompson Industries, documentation attached.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly discusses an 'Account Update Request for Thompson Industries' and the need to finalize the process, which is an 'Account Update' request. Additionally, there is mention of a signed confirmation and a vendor statement in the mails and attachments, which means 'Contact Details' needs to be updated.",
+    "other_comments": ""
+}

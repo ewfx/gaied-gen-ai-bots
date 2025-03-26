@@ -1,0 +1,12 @@
+{
+    "request_type": "document request",
+    "sub_request_type": "income statement",
+    "from": "Harold Finch <harold.finch@customer.com>",
+    "to": "Amelia Swanson <amelia.swanson@bankingsolutions.com>",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Documents relating to SecureTech Solutions transactions on account 789012345 between Jan 1, 2024, and Sep 30, 2024, exceeding $5,000.",
+    "confidence_score": 95,
+    "reason": "Request for transaction history and invoice related to specific vendor and amount, indicating a need for income verification. Invoice provided for transaction",
+    "other_comments": ""
+}

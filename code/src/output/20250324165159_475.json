@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "address change",
+    "from": "janice.mcmillan@bankofcommerce.example.com",
+    "to": "BackOffice.Operations@bankofcommerce.example.com",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Urgent request for account verification for John Harrison (Account: 7890123456).  Needs updated driver's license and utility bill for address verification to access funds for a time-sensitive investment.",
+    "confidence_score": 95,
+    "reason": "The emails explicitly state the need to update the account information (address verification) using a driver's license and utility bill.  The customer needs to access funds urgently.",
+    "other_comments": ""
+}

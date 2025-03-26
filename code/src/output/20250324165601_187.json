@@ -1,0 +1,12 @@
+{
+    "request_type": "loan extension",
+    "sub_request_type": "term extension",
+    "from": "Silas Abernathy",
+    "to": "Constance Beringer",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Acme Corp is seeking financing for business expansion, needing $750,000 for equipment and renovations. Documents including financial projections, audit report, collateral assessment, and business plan are attached for review.",
+    "confidence_score": 95,
+    "reason": "Acme Corp's inquiry explicitly mentions business expansion financing needs. The attachment of business plan and financial documents strongly support the loan extension classification, focusing on extending the loan term to facilitate the expansion.",
+    "other_comments": "High confidence in 'loan extension' request type. Also high confidence in 'document request' as financial documents are being requested"
+}

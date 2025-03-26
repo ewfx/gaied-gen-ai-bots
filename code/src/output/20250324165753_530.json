@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "Marcus.Johnson@bankdomain.com",
+    "to": "BackOffice.CreditTeam@bankdomain.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Martin Holdings requests a review of their current financial arrangement and seeks an increase to their operational flexibility due to significant growth. Updated financials and a collateral appraisal report are attached.",
+    "confidence_score": 95,
+    "reason": "The email chain discusses Martin Holdings' request for an increase to their operational flexibility, supported by updated financials, projections, and a collateral appraisal, indicating a need for a credit line adjustment.",
+    "other_comments": ""
+}

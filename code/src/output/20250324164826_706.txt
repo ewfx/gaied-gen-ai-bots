@@ -1,0 +1,33 @@
+
+Hi Back Office Team,Forwarding this customer request with all the necessary documentation. They're looking to wrap things up on loan account 7890-1234-5678. Please review and let me know if you need anything else from my end. Thanks!Best,Brenda SongFront Office Representative
+
+
+
+-------- Original message --------
+From: Brenda Song <brenda.song@examplebank.com>Date: Tue, Oct 29, 2024, 10:15 AMTo: James Kim <james.kim@example.com>Cc: <>
+Hi James,As discussed, I've attached the requested documents. Please see attached report 1 (Vendor Invoice - QuickBuild Construction dated 2024-09-15 for $50,000) and attached report 2 (Payment Confirmation - Transaction ID: 2345678901). Let me know if you need anything further.Thanks,Brenda SongFront Office Representative
+
+
+
+-------- Original message --------
+From: James Kim <james.kim@example.com>Date: Tue, Oct 29, 2024, 9:00 AMTo: Brenda Song <brenda.song@examplebank.com>Cc: <>
+Good morning Brenda,Following our conversation, I'm ready to proceed with the final steps on loan account 7890-1234-5678. To expedite the process, could you please provide confirmation of the final vendor payment (QuickBuild Construction) and the corresponding invoice? The project was completed on October 20th, 2024 as agreed. I need this for my records as well.Thanks,James Kim
+Attached Documents:report_LN-952803.docxreport_LN-613246.png
+Detailed Narrative Report
+Vendor Invoice Reconciliation - QuickBuild Construction
+Invoice Number: QBC-2024-09-15-123
+Date: September 15, 2024
+Amount: $50,000.00
+Project: Commercial Building - Loan Account 7890-1234-5678
+Address: 123 Main Street, Anytown, USA
+This invoice represents the final payment for the completed construction project. Payment was made via wire transfer on October 28, 2024 (Transaction ID: 2345678901). The funds were debited from account number 1234-5678-9012 held at ExampleBank and credited to QuickBuild Construction's account number 9876-5432-1098 at First National Bank.
+Bank of America
+Payment Confimjation
+Transaction ID: 2345678901
+
+Date: October 28, 2024
+Amount: $50,000.00
+
+Sender: ExampleBank - Account 1234-5678-9012
+Recipient: QuickBuild Construction - Account 9876-5432-1098
+Description: Final Payment - Invoice QBC-2024-09-15-123

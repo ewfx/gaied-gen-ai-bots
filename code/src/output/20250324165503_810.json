@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "asset allocation",
+    "from": "Robert Jones",
+    "to": "John Doe, Claire Smith",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Eleanor Vance requests portfolio adjustments to increase international market exposure and decrease fixed income reliance, aligning with her risk profile and long-term goals.",
+    "confidence_score": 95,
+    "reason": "Mrs. Vance is seeking adjustments to her portfolio allocation based on her risk profile and long-term investment goals, specifically mentioning increasing exposure to international markets and decreasing reliance on fixed income, indicating a need for asset allocation advice.",
+    "other_comments": ""
+}

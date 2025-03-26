@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation fees",
+    "from": "robert.dawson@examplebank.com",
+    "to": "elena.smith@examplebank.com",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Request to reallocate $5000 debited from Account A (1234567890) to Account B (9876543210) for Mr. Peterson's transaction to Global Solutions Corp (GX1234567890) due to incorrect initial debit.",
+    "confidence_score": 95,
+    "reason": "Customer provided signed authorization confirming the correct account for debit. Account activity details show debit from wrong account. Proposed resolution to debit correct account and credit the incorrect account.",
+    "other_comments": ""
+}

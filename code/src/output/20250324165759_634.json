@@ -1,0 +1,12 @@
+{
+    "request_type": "commitment change",
+    "sub_request_type": "increase",
+    "from": "john.thompson@example.com",
+    "to": "frontoffice.teamlead@examplebank.com",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Client John Thompson requests an increase in available funds for account 7894561230 due to business growth.",
+    "confidence_score": 95,
+    "reason": "Mr. Thompson is looking to increase available funds for account 7894561230. The email chain details the request and supporting documentation.",
+    "other_comments": ""
+}

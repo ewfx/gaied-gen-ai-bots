@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "contact details",
+    "from": "Eleanor Vance",
+    "to": "Back Office Team",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Eleanor Vance requests verification of address and phone number on file for account 7894561230 for a loan application.",
+    "confidence_score": 95,
+    "reason": "The email explicitly requests confirmation of contact details (address and phone number).",
+    "other_comments": ""
+}

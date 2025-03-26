@@ -1,0 +1,31 @@
+From: Eleanor Vance <eleanor.vance@bankemail.com>To: Processing Department <processing.department@bankemail.com>Cc: Front Office Team <frontoffice@bankemail.com>Sent: Tuesday, October 29, 2024 3:17 PMSubject: FW: Account Inquiry - Loan RestructuringHi Processing Team,Could you please review the attached documents and the customer's request below? We've gathered all the necessary paperwork regarding the potential changes to the loan agreement. Please let me know if you need any further clarification from our end.Thanks,Eleanor VanceCommercial Banking AssociateFrom: Front Office Team <frontoffice@bankemail.com>To: Eleanor Vance <eleanor.vance@bankemail.com>Sent: Tuesday, October 29, 2024 11:05 AMSubject: RE: Account Inquiry - Loan RestructuringHi Eleanor,Attached you will find the signed authorization form, the updated financial statements provided by Mr. Sterling, and a summary of the agreed-upon terms for his loan, as well as the original loan agreement. Please see attached report 1, attached report 2, attached report 3. Let me know if you need anything else before sending this to processing.Thanks,The Front Office TeamFrom: Jasper Sterling <jasper.sterling@sterlingco.com>To: Front Office Team <frontoffice@bankemail.com>Sent: Monday, October 28, 2024 4:42 PMSubject: Account Inquiry - Loan RestructuringDear Front Office Team,Following our conversation last week, I'm formally requesting a review of my current loan agreement (Account Number: 9876-5432-1011). As we discussed, Sterling Co. has experienced some shifts in revenue allocation, and I'm hoping to explore options for adjusting the repayment schedule to better align with our current cash flow projections. The original loan was for $500,000, taken out on January 15, 2023, and a portion of the loan was used to purchase equipment from VendTech Solutions (Transaction ID: VT-20230115-001).Could you please advise on the necessary documentation required? I’m also attaching our latest financial statements for your review. We're aiming for a more balanced distribution of the principal payments over the remaining term of the loan. I've attached my financial statements to this email.Thank you for your time and assistance.Sincerely,Jasper SterlingCEO, Sterling Co.Attached Documents:report_LN-820414.png
+JPMorgan Cha:
+Loan Account: 9§76-5432-1011
+
+Borrower: Sterling Co
+Original Loan Amount: $500,000.00
+Origination Date: January 15, 2023
+Vendor: VendTech Solutions
+Transaction ID: VT-20230115-001
+
+Reallocation Proposal Summary:
+
+The borrower is requesting an adjustment to the principal
+repayment schedule to better reflect current revenue
+streams. The current schedule is heavily front-loaded,
+placing a significant burden on Sterling Co.'s short-term
+cash flow. The proposed adjustment aims to redistribute
+principal payments more evenly across the remaining loan
+term
+
+Existing Principal Balance: $375,000.00
+Remaining Term: 36 months
+
+Proposed Reallocation:
+
+Instead of the current payment schedule (details available
+upon request), Sterling Co. is seeking a revised schedule
+with consistent principal payments of approximately
+$10,416.67 per month for the next 36 months. This would
+provide greater financial flexibility and support ongoing
+operational needs

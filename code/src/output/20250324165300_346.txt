@@ -1,0 +1,17 @@
+-------- Original message --------From: backoffice.processing@examplebank.comDate: Tue, Oct 27, 2023, 11:15 AMTo: frontoffice.requests@examplebank.comHi Sarah,Thanks for forwarding this. The documentation is mostly complete, but we need a clearer copy of the driver's license. The one attached is blurry and partially obscures the date of birth. Also, could you double-check if Mr. Davies wishes to update the address on his savings account (ending in 7890) as well? The form only mentions the checking account (ending in 4321).Let me know when you have that, and we can proceed.Regards,David LeeBack Office ProcessingExample Bank-------- Original message --------From: frontoffice.requests@examplebank.comDate: Tue, Oct 27, 2023, 10:02 AMTo: backoffice.processing@examplebank.comHi David,Attached is the request from Mr. Alistair Davies regarding an update to his information. He came into the branch yesterday and filled out the relevant paperwork. I have also attached a copy of his driver's license and the updated utility bill, dated October 20, 2023, showing the new address. His current mailing address on file is 123 Oak Street, Anytown, USA, and he wishes to change it to 456 Maple Avenue, Anytown, USA. He indicated this change is required for his upcoming mortgage application with us. Account numbers are attached.Please let me know if you require any further information.Thanks,Sarah ChenFront Office RequestsExample Bank-------- Original message --------From: alistair.davies@email.comDate: Mon, Oct 26, 2023, 02:35 PMTo: frontoffice.requests@examplebank.comTo Whom It May Concern,I visited your Anytown branch yesterday (October 25th) and spoke with a representative about updating my contact details. I'm following up with an email to ensure the request is processed smoothly. I need to change my address, as indicated on the form I completed in branch.Could you please confirm receipt of my request and provide an estimated timeframe for the update? I am also using Vendor XYZ to pay my bills and need to update my details with them on November 5th, transaction ID 987654, so need this change before that date. My accounts are linked to customer ID 246810, and I specifically want this change applied to checking account ending in 4321.Thank you for your assistance.Sincerely,Alistair DaviesAttached Documents:report_LN-806743.docxreport_LN-393834.pdf
+Detailed Narrative Report
+Customer: Alistair Davies
+Customer ID: 246810
+Account Type: Checking
+Account Number (Last 4 Digits): 4321
+Current Address: 123 Oak Street, Anytown, USA
+Requested Address: 456 Maple Avenue, Anytown, USA
+Document Submitted: Utility Bill (dated 2023-10-20)
+Note: Customer indicated that the address update is related to an upcoming mortgage application.
+Document Reconciliation Report
+Account: Checking Account ending 4321
+Customer ID: 246810
+Address Change Request validated against:
+Utility bill from Provider ABC, Date 2023-10-20, showing new address.
+Driver's license with expiry date 2026-05-15.
+No discrepancies found.

@@ -1,0 +1,12 @@
+{
+    "request_type": "regulatory compliance",
+    "sub_request_type": "audit request",
+    "from": "Amelia Rodriguez <amelia.rodriguez@bankfrontier.com>",
+    "to": "Regulatory Backoffice <regulatory.backoffice@bankfrontier.com>",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Willow Creek Holdings (Account 789012345) requests Q3 statement and vendor list for audit.",
+    "confidence_score": 95,
+    "reason": "Client request for audit information, specifically Q3 statement and vendor list. Amelia Rodriguez explicitly mentions prioritizing the request due to the client being a 'key client'.",
+    "other_comments": ""
+}

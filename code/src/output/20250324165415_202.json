@@ -1,0 +1,12 @@
+{
+    "request_type": "collateral review",
+    "sub_request_type": "insurance verification",
+    "from": "Anya Sharma <anya.sharma@bankwestcorp.com>",
+    "to": "David Chen <david.chen@bankwestcorp.com>, Michael Brown <michael.brown@bankwestcorp.com>",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to review insurance coverage for collateral property of loan account 7894561230.",
+    "confidence_score": 95,
+    "reason": "The subject mentions 'Insurance Policy Review Request' and the body asks to confirm insurance coverage for collateral property.",
+    "other_comments": ""
+}

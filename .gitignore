@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+code/src/persist_db/__pycache__/db_init.cpython-311.pyc
+code/src/persist_db/__pycache__/EmailClassificationDB.cpython-311.pyc
+.env
+.idea/
+*.pyc
+*.DS_Store

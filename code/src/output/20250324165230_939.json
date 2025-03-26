@@ -1,0 +1,12 @@
+{
+    "request_type": "operational review",
+    "sub_request_type": "process improvement",
+    "from": "amelia.stone@bank-internal.com",
+    "to": "backoffice.operations@bank-internal.com",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Review of GreenTech Solutions' financial performance and ability to take on new business.",
+    "confidence_score": 85,
+    "reason": "The email requests the operations team to review financial documents and provide expert analysis, indicating a need for process improvement related to client financial assessments.",
+    "other_comments": "Client Mr. David Miller has requested for assistance to understand the financial performance of his company. Amelia Stone from Commercial banking team is the contact point"
+}

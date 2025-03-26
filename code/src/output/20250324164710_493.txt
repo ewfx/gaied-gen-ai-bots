@@ -1,0 +1,43 @@
+From: Brenda.Miller@continentalbank.comSent: Tuesday, October 24, 2023 3:15 PMTo: Victor.Ochoa@continentalbank.comSubject: FW: Account Adjustment Request - Johnson CorpHi Victor,Could you please take a look at this request? Sarah at Johnson Corp is asking for some clarification around charges related to a few transfers from last month. All the supporting documentation from Sarah is below and I also pulled their account history so you have that too. I’ve flagged the relevant transactions in the account summary. Let me know if you need anything else from me.Thanks,Brenda MillerCommercial Banking OfficerContinental Bank-------- Original message --------From: Sarah.Jenkins@johnsoncorp.comDate: Tuesday, October 24, 2023 2:58 PMTo: Brenda.Miller@continentalbank.comSubject: Account Adjustment Request - Johnson CorpHi Brenda,Hope you're having a good week. Following up on our conversation last week. I'm still a bit confused about some of the service fees associated with a couple of wire transfers we made on September 15th and September 18th (Transaction ID: WT20230915-448 and WT20230918-912). They seem a bit higher than usual. I believe these related to internal re-classifications that should have been cost neutral.Could you please look into this for me? I've attached a summary report detailing the internal accounting codes impacted, please see "Johnson Corp Internal Reclassification Report.pdf"Thanks so much for your help!Best,Sarah JenkinsAccounting ManagerJohnson CorpAttached Documents:report_LN-616284.png
+Bank of America
+Johnson Corp Infernal Reclassification Report pdf
+
+Reclassification Impact Analysis
+Date: October 24, 2023
+
+This report outlines the intemal reclassification of funds
+within Johnson Corp and its impact on associated service
+fees. It specifically addresses the wire transfers executed
+on September 15th and September 18th, 2023.
+
+Transaction Details:
+
+Transaction ID: WT20230915-448
+Date: September 15, 2023
+
+Amount: $75,000.00
+
+Account Debited: 12345-67890 (Operating Account)
+Account Credited: 98765-43210 (Project Alpha Account)
+
+Transaction ID: WT20230918-912
+Date: September 18, 2023
+
+Amount: $42,000.00
+
+Account Debited: 12345-67890 (Operating Account)
+Account Credited: 54321-09876 (Marketing Budget Account)
+
+Fee Discrepancy:
+The attached fee statements from Continental Bank indicate a
+service charge of $35.00 per transaction. However, given the
+nature of these transfers as intemal reclassifications, we
+believe a lower fee structure or a waiver may be applicable.
+Our understanding is that such internal movements should be
+considered differently than extemal wire transfers to
+
+vendors or other entities.
+
+Supporting Documentation
+Continental Bank Fee Schedule (Attached)
+Continental Bank Account Statements (Attached)

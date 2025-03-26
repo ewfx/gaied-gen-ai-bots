@@ -1,0 +1,49 @@
+
+From: eliza.dushku@bank.comSent: Tuesday, October 29, 2024 11:42 AMTo: finance.team@company.comCc: ben.affleck@bank.comSubject: FW: Request for Adjustment - Vendor Payment
+
+Hi Finance Team,Could you please process the attached request from our client, AlphaTech Solutions? Ben from our team gathered all the necessary information. See the attached documents related to the potential change to the agreement for final review. Let me know if you require anything else. 
+
+Thanks,Eliza DushkuSenior Account Manager | Commercial Banking
+
+
+
+From: ben.affleck@bank.comSent: Tuesday, October 29, 2024 10:15 AMTo: eliza.dushku@bank.comCc: julia.roberts@company.comSubject: RE: Request for Adjustment - Vendor Payment
+
+Eliza,Per our conversation, I've compiled all the documentation received from Julia at AlphaTech.  AlphaTech is seeking to amend the scheduled payments to vendors, specifically regarding the new platform rollout. Please find attached the vendor payment schedule proposal (attached report 1) and their latest financial statement (attached report 2). Julia has also authorized us to adjust the upcoming payment of $75,000 scheduled for vendor 'TechForward Solutions' on November 15th, account number ending 8921, if needed. Please forward to the back office for their review and action. I will be out of office from the 1st of November for two weeks. I will be available at my number 415-555-1212.
+Thanks,Ben AffleckAssociate | Commercial Banking
+
+
+
+From: julia.roberts@company.comSent: Tuesday, October 29, 2024 9:00 AMTo: ben.affleck@bank.comSubject: Request for Adjustment - Vendor Payment
+
+Hi Ben,Following our discussion last week, we would like to request an adjustment to our vendor payment schedule. We are in the process of implementing the new software across all departments and expect significant operational efficiencies. This change requires a short-term adjustment to some of our scheduled payments. I hope you are doing well, and I have attached all documents as requested. 
+
+Regards,Julia RobertsCFO | AlphaTech Solutions
+
+Attached Documents:report_LN-588541.pdfreport_LN-415020.docx
+AlphaTech Solutions - Vendor Payment Schedule Proposal
+Date: October 29, 2024
+Subject: Proposed Vendor Payment Schedule Modification
+This document outlines the proposed modifications to the existing vendor payment schedule.
+AlphaTech Solutions is undertaking a company-wide software implementation. To ensure
+smooth execution of the transition, we are requesting temporary revisions.
+1.  TechForward Solutions: The scheduled payment of $75,000 on November 15, 2024
+(Transaction ID: TXN-2024-10-29-001) should be adjusted to $35,000. The remaining $40,000
+should be added to December 15, 2024, payment. Account number of TechForward Solutions is
+123456788921
+2.  DataSecure Inc.: No changes are needed to the current payment schedule.
+3.  Innovate Systems: Postpone payment from 15 November, 2024 to December 15, 2024. Total
+payment amount to be $30,000.
+We appreciate your prompt attention to this matter.
+Sincerely,
+Julia Roberts
+CFO
+AlphaTech Solutions
+Detailed Narrative Report
+AlphaTech Solutions - Financial Statement Excerpt
+Date: October 29, 2024
+Key Metrics (Q3 2024):
+*   Total Revenue: $2,500,000
+*   Operating Income: $500,000
+*   Net Income: $375,000
+*   Cash Balance: $750,000

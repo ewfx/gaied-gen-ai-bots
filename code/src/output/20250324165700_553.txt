@@ -1,0 +1,14 @@
+Hi Team,Attached are the documents related to the query we discussed. I have combined them into a single email for ease of handling.I have verified all the provided account information and details. Please review the supporting documents and proceed with the necessary steps to get it across the line.Regards,Patricia DavisFront Office Manager | Commercial BankingFirst Fidelity Bank---------- Forwarded message ---------From: Patricia Davis <patricia.davis@firstfidelitybank.com>Date: Fri, Oct 27, 2023 at 3:15 PMTo: Harold Finch <harold.finch@firstfidelitybank.com>Hi Harold,Following up on our conversation earlier. Customer request documentation attached, as discussed. Let me know if you need anything else.Thanks,Patricia DavisFront Office Manager | Commercial BankingFirst Fidelity Bank---------- Forwarded message ---------From: Sarah Miller <sarah.miller@acmeco.com>Date: Fri, Oct 27, 2023 at 1:28 PMTo: Patricia Davis <patricia.davis@firstfidelitybank.com>Hi Patricia,As requested, please find attached the documentation for account number 876543210. This includes statements from January 1, 2023, to October 27, 2023. I am hoping to reduce the costs that are associated with this account and find some ways to be more efficient with it.Specifically, I'm concerned about the wire transfer fees we've been incurring lately. We sent 5 international wire transfers via account 876543210. The details are below:Date: Feb 15, 2023, Amount: $15,000, Recipient: GlobalTech Solutions, Transaction ID: WT-20230215-01Date: Apr 03, 2023, Amount: $22,500, Recipient: Innova Systems Ltd, Transaction ID: WT-20230403-02Date: Jun 22, 2023, Amount: $18,000, Recipient: Beta Corp, Transaction ID: WT-20230622-03Date: Aug 09, 2023, Amount: $25,000, Recipient: Gamma Inc, Transaction ID: WT-20230809-04Date: Oct 18, 2023, Amount: $20,000, Recipient: Delta Ventures, Transaction ID: WT-20231018-05Could you please let me know what options are available to us?Thanks in advance,Sarah MillerCFO, ACME Co.Attached Documents:report_LN-810990.pdf
+Subject: Account 876543210 - Wire Transfer Analysis
+Account Holder: ACME Co.
+Account Number: 876543210
+Period Covered: January 1, 2023 - October 27, 2023
+Details:
+This report summarizes international wire transfer activity from ACME Co.'s account
+876543210 during the period specified above.
+Total number of wire transfers: 5
+Total amount transferred: $100,500
+Fee Analysis: The average wire transfer fee per transaction was $50.00. Total fee
+incurred: $250.00.
+Recommendations: Explore alternative payment methods (e.g., ACH transfers) to reduce
+costs.

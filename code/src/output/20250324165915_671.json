@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "asset allocation",
+    "from": "Harold Thompson",
+    "to": "Back Office Team",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Harold Thompson requests assistance with managing his portfolio and adjusting his investment strategy towards less risk as he approaches retirement.",
+    "confidence_score": 95,
+    "reason": "Harold Thompson explicitly requests assistance with managing his portfolio and mentions his retirement goal and desire to adjust his investment strategy. He also included financial details which is aligned with asset allocation",
+    "other_comments": ""
+}

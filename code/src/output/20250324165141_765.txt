@@ -1,0 +1,13 @@
+From: eliza.west@frontofficebank.comSent: Thursday, October 26, 2023 3:15 PMTo: backoffice.operations@frontofficebank.comSubject: Fwd: International Payment Request - Lakeside ImportsHi Team,Please see the forwarded request below from Lakeside Imports. I've gathered all the necessary documentation, including their updated vendor details and the payment authorization form. Everything should be in order for you to process. Let me know if you have any questions.Best,Eliza WestFront OfficeFrom: eliza.west@frontofficebank.comSent: Thursday, October 26, 2023 11:28 AMTo: daniel.miller@lakesideimports.comSubject: Re: International Payment Request - Lakeside ImportsHi Daniel,Thanks for sending over the information. I just need a quick clarification on the beneficiary bank's address. Could you please confirm the full address, including the street number and postal code? We need to ensure everything is accurate for international transfers.Also, can you confirm the attachment is payment report 1?Thanks,Eliza WestFront OfficeFrom: daniel.miller@lakesideimports.comSent: Thursday, October 26, 2023 9:15 AMTo: eliza.west@frontofficebank.comSubject: International Payment Request - Lakeside ImportsDear Eliza,I hope this email finds you well.We would like to initiate a transfer for $75,500 USD to our supplier, Global Textiles Ltd., account number GB29BARC20451863748290 at Barclays Bank in London. Our account number at Front Office Bank is 1234567890.The payment is for invoice #GT-20231026 for textiles purchased. The payment is due by October 30, 2023.Attached, please find a copy of the invoice, vendor details, and our payment authorization form.Thank you for your assistance.Sincerely,Daniel MillerLakeside ImportsAttached Documents:report_LN-557878.pdf
+Global Textiles Ltd. - Payment Details
+Beneficiary Name: Global Textiles Ltd.
+Beneficiary Account Number: GB29BARC20451863748290
+Beneficiary Bank: Barclays Bank
+Beneficiary Bank Address: 1 Churchill Place, London, E14 5HP, United Kingdom
+SWIFT/BIC: BARCGB22
+Remittance Information:
+Invoice Number: GT-20231026
+Amount: $75,500 USD
+Purpose: Payment for textiles purchased as per invoice GT-20231026.
+Payment Date: October 26, 2023
+Lakeside Imports Account Number: 1234567890

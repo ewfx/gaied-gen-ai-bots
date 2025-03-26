@@ -1,0 +1,12 @@
+{
+    "request_type": "portfolio rebalancing",
+    "sub_request_type": "asset reallocation",
+    "from": "Harold Davidson",
+    "to": "Back Office Team",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Davidson requests portfolio rebalancing to align with long-term goals and moderate risk tolerance, considering recent market volatility and incorporating SRI/ESG preferences.  Includes client profile, risk assessment, and current holdings.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly mentions 're-balancing his holdings' and 'proposed portfolio strategy.'  The attached documents contain details about Mr. Davidson's client profile, risk tolerance assessment, and current portfolio holdings, all directly related to portfolio rebalancing and asset reallocation.",
+    "other_comments": ""
+}

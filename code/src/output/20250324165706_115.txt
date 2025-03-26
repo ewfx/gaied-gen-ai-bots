@@ -1,0 +1,23 @@
+-- Forwarded message ---------From: <frontoffice@examplebank.com>Date: Tue, Oct 24, 2023 at 3:15 PMSubject: FW: Inquiry Regarding Recent Account Activity - Account Ending in 7890To: <backofficeoperations@examplebank.com>Hi Operations Team,Forwarding this request from our client, Mr. Harold Finch. He's looking into some unusual transaction patterns on his business account. I've attached the supporting documentation he provided, including his initial inquiry and a summary of the potentially problematic transactions. Please see attached report 1: "Harold Finch Initial Inquiry", and attached report 2: "Potentially Unusual Transactions". Let me know if you require any further information from our end.Thanks,Eleanor VanceClient Relations ManagerExample Bank-- Forwarded message ---------From: <harold.finch@finchcorp.com>Date: Tue, Oct 24, 2023 at 1:47 PMSubject: Inquiry Regarding Recent Account Activity - Account Ending in 7890To: <frontoffice@examplebank.com>Dear Eleanor,I hope this email finds you well. I'm writing to inquire about some unusual activity on my business account, ending in 7890. I've noticed a few transactions that don't quite align with our typical operational expenses. Specifically, there are several payments to vendors I don't recognize, and the amounts seem higher than usual.For instance, a payment of $12,500.00 was made to "Apex Solutions" on October 10, 2023, transaction ID AXS20231010. I've never engaged with this vendor before. Similarly, a payment of $8,750.00 to "Data Dynamics Inc." on October 17, 2023, transaction ID DDI20231017, seems unusually high compared to our historical payments to them. Attached is a summary outlining all the unusual transactions. Please see attached report 1: "Harold Finch Initial Inquiry" for more details.Could you please investigate these transactions and provide me with more information about their origin and purpose? I'm also interested in understanding the security measures in place to prevent such occurrences in the future.Thank you for your time and assistance.Sincerely,Harold FinchCEO, FinchCorpAttached Documents:report_LN-803153.pdfreport_LN-371590.docx
+## Harold Finch Initial Inquiry
+Regarding account ending in 7890, the following transactions raise concerns:
+*   **Date:** 2023-10-10
+    *   **Vendor:** Apex Solutions
+    *   **Amount:** $12,500.00
+    *   **Transaction ID:** AXS20231010
+    *   **Notes:** Unknown vendor; no prior engagement.
+*   **Date:** 2023-10-17
+    *   **Vendor:** Data Dynamics Inc.
+    *   **Amount:** $8,750.00
+    *   **Transaction ID:** DDI20231017
+    *   **Notes:** Amount significantly higher than usual payments to this vendor.
+*   **Date:** 2023-10-20
+    *   **Vendor:** NovaTech Services
+    *   **Amount:** $5,200.00
+    *   **Transaction ID:** NTS20231020
+    *   **Notes:** Suspicious activity. No known services from the vendor
+Detailed Narrative Report
+## Potentially Unusual Transactions - Account Ending in 7890
+This report summarizes transactions flagged by Harold Finch as potentially unusual. The transactions occurred within the last month. The primary concern revolves around payments to unfamiliar vendors and discrepancies in payment amounts compared to historical averages.
+The highlighted transactions require a thorough investigation to determine their legitimacy and ensure the security of Mr. Finch's account.
+Further analysis of vendor profiles and transaction histories is recommended.
