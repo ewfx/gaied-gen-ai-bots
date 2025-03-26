@@ -65,5 +65,5 @@ def insert_request_types():
     request_types_collection.insert_many(documents)
 
 if __name__ == '__main__':
-    # initialize_collections()
+    initialize_collections()
     insert_request_types()
