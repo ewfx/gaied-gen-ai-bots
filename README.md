@@ -19,7 +19,7 @@ It includes functionalities for managing request types and sub-request types, vi
 
 
 ## 🎥 Demo
-📹 [Video Demo](https://drive.google.com/file/d/1ZKUpTCh6rcq9mi-sLfSjJ1GYdYWwIhTN/view) 
+📹 [Video Demo](https://drive.google.com/file/d/1ZKUpTCh6rcq9mi-sLfSjJ1GYdYWwIhTN/view?usp=sharing)
 
 📺 [Slideshow explaining architecture](artifacts/arch/Gen-AI_Based_Email_Classification_and_OCR_Solution.pptx)
 
