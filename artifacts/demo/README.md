@@ -1,5 +1,4 @@
-Replace this file with files that you would like to use for your demo. This may include
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+- A presentation/deck in pptx format: `artifacts/arch/GenAIBots_Email_Classification.pptx`
+- A demo video (screen capture) in mp4: [link to video](https://drive.google.com/file/d/1ZKUpTCh6rcq9mi-sLfSjJ1GYdYWwIhTN/view?usp=sharing)
+- Design Document: `artifacts/arch/Design_Document.pdf`
