@@ -1,0 +1,57 @@
+
+From: Amelia Rodriguez <amelia.rodriguez@frontofficebank.com>Sent: Tuesday, October 29, 2024 3:15 PMTo: Processing Department <processing@backofficebank.com>Cc: John Smith <john.smith@frontofficebank.com>Subject: FW: Account 78901234 - Modification Request
+
+
+
+Hi Processing Team,Attached are all the documents related to the account modification request for Zenith Dynamics. As discussed, they've been with us for quite a while, and we need to ensure the proposed repayment schedule aligns with their current situation. John has done a great job collecting everything. Please let me know if anything further is required to expedite the process. Please see attached report 1 and attached report 2.Thanks,Amelia RodriguezFront Office Bank
+
+
+
+From: John Smith <john.smith@frontofficebank.com>Sent: Tuesday, October 29, 2024 11:22 AMTo: Amelia Rodriguez <amelia.rodriguez@frontofficebank.com>Subject: Re: Account 78901234 - Zenith Dynamics Query
+
+
+Amelia,I've compiled all the documents and information Zenith Dynamics provided. This includes their most recent financial statements (attached report 3), updated revenue projections, and the signed agreement form. I spoke with Michael at Zenith, and he confirmed they are expecting a slower growth rate in Q1 2025, which is why they are requesting a change to the payments.Let me know if you need anything else.Thanks,John SmithFront Office Bank
+
+
+On Tue, Oct 29, 2024 at 09:00 AM Amelia Rodriguez <amelia.rodriguez@frontofficebank.com> wrote:
+Hi John,
+
+Could you please gather all documentation from Zenith Dynamics regarding their request for modifications on account 78901234? The team needs to examine the details of their request carefully, and any documentation would aid in making sure they can make that happen.
+
+Thanks,
+Amelia Rodriguez
+Front Office Bank
+
+
+Attached Documents:report_LN-626068.pdfreport_LN-660176.pdfreport_LN-693627.docx
+Zenith Dynamics Account Modification Review:
+Current Account Balance: $5,000,000
+Original Loan Term: 60 Months
+Remaining Loan Term: 24 Months
+Current Interest Rate: 7.5%
+Requested Modification:
+Revised Interest Rate: To be determined based on market conditions.
+Proposed Repayment Schedule: Reduced monthly payments for the next 6 months, followed by
+increased payments for the remaining term to maintain original loan payoff date. This is
+based on our current assumptions. Further adjustments would be made based on the updated
+payment schedule, after processing has come to a conclusion.
+Financial Statement Review - Zenith Dynamics
+Key Highlights:
+Revenue Projection for Q1 2025:
+Revised Forecast: $750,000 (Previous Forecast: $1,000,000)
+Explanation: Anticipated slowdown in sales due to market conditions.
+Impact on Cash Flow:
+Projected Decrease: $250,000
+Mitigation Strategy: Zenith Dynamics plans to implement cost-cutting measures to offset
+the revenue decline.
+Supporting Documents:
+Financial Statements: Attached
+Revenue Projections: Attached
+Agreement Form: Attached
+Detailed Narrative Report
+Zenith Dynamics Request for Change:
+Account: 78901234
+Company: Zenith Dynamics
+Vendor Code: ZD1234
+Reason for Change: Request for payment adjustments.
+Details: Please see emails for further information.

@@ -1,0 +1,13 @@
+From: adambennett@bankingservices.comSent: Tuesday, October 29, 2024 11:47 AMTo: operations@bankingservices.comSubject: FW: Transfer Request for Cedar Ridge HoldingsHi Operations Team,Could you please process the attached request from Cedar Ridge Holdings? We've collected all the necessary paperwork and verified the information with Mr. Davies. Let me know if you have any questions.Thanks,Adam BennettCommercial Banking Front OfficeFrom: amandadavies@cedarridgeholdings.comSent: Tuesday, October 29, 2024 10:15 AMTo: adambennett@bankingservices.comSubject: Transfer Request for Cedar Ridge HoldingsGood morning Adam,Attached are the documents you requested regarding the upcoming distribution payment. As we discussed, we need to transfer funds from our account ending in -7890 to vendor account ending in -2345. The total amount should cover not only the principal investment of $750,000 but also the accrued interest and a small administrative fee, bringing the grand total to $765,375.00. The distribution is scheduled for November 5th, so prompt execution would be greatly appreciated.Please confirm receipt and let me know if anything else is needed.Best regards,Amanda DaviesCedar Ridge HoldingsAttached Documents:report_LN-341643.pdf
+Cedar Ridge Holdings Distribution Reconciliation:
+Account: Cedar Ridge Holdings Operating Account (Ending -7890)
+Date: October 29, 2024
+Details:
+Principal Distribution: $750,000.00
+Accrued Interest: $15,000.00
+Administrative Fee: $375.00
+Total Distribution Amount: $765,375.00
+Beneficiary Account: Vendor Account (Ending -2345)
+Transaction ID: TR-20241029-CRR
+Note: Please ensure accuracy when processing this transaction. All figures have been
+verified with Cedar Ridge Holdings' financial records.

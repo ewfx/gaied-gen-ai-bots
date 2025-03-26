@@ -1,0 +1,12 @@
+{
+    "request_type": "closing notice",
+    "sub_request_type": "post-closing",
+    "from": "Amelia Thompson",
+    "to": "Back Office",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Loan closure request for Peterson Construction, payoff amount $875,321.50. Account number is 7890123456.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly mentions a 'Loan Closure Request' and provides details for finalization, indicating a post-closing activity.",
+    "other_comments": ""
+}

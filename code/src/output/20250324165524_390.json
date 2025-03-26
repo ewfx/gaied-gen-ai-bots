@@ -1,0 +1,12 @@
+{
+    "request_type": "portfolio rebalancing",
+    "sub_request_type": "liquidity adjustment",
+    "from": "Sarah Chen",
+    "to": "Team",
+    "last_date": "2023-10-26",
+    "urgency": "High",
+    "shortened_description": "Harrison Holdings Inc. requests adjustment to holdings for immediate access to $750,000 by November 10th for an investment opportunity.",
+    "confidence_score": 95,
+    "reason": "Request for immediate access to capital based on strategic objectives and a specified amount ($750,000) by a particular date (November 10th). This directly aligns with liquidity adjustment within portfolio rebalancing.",
+    "other_comments": ""
+}

@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement inbound",
+    "sub_request_type": "principal",
+    "from": "Amelia Davis <amelia.davis@examplebank.com>",
+    "to": "Team",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Process incoming funds of $450,000 for Harrison Cole (Account: 9876543210) from Henderson Investments, estate distribution. Transaction ID: INV-2023-10-27-HC-001.",
+    "confidence_score": 98,
+    "reason": "Request to process incoming funds, amount specified, source of funds mentioned (Henderson Investments, estate distribution). Account details and transaction ID included. Narrative report confirms principal deposit.",
+    "other_comments": ""
+}

@@ -1,0 +1,12 @@
+{
+    "request_type": "loan extension",
+    "sub_request_type": "term extension",
+    "from": "amelia.rodriguez@bankingservices.com",
+    "to": "backoffice@bankingservices.com",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Mr. Henderson is requesting a review of his commercial loan terms (account 7890123456) and is looking for options to leverage existing assets for planned expansion in Q1 next year. Seeking commercial loan increase of $750,000.",
+    "confidence_score": 95,
+    "reason": "The email requests a review of commercial loan terms and discusses expansion plans requiring additional capital. The attachment 'Henderson_Business_Plan_Update.pdf' specifies a funding request.",
+    "other_comments": "High confidence for request type 'credit line adjustment' as the business plan update requests for increase in loan amount. (Confidence score > 90)"
+}

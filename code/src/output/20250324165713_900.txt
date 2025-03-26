@@ -1,0 +1,58 @@
+From: Janice Miller <janice.miller@bankalpha.com>To: Robert Davis <robert.davis@acme.com>Cc: Michael Chen <michael.chen@bankalpha.com>Date: Tue, 12 Dec 2023 16:22:17 -0500
+Hi Robert,
+Thanks for providing all the documentation so quickly. I've reviewed everything and it looks good. I've attached the completed internal form for our team. I'm forwarding this to Michael now so his team can process it. Let me know if you have any questions.
+Best regards,
+Janice MillerBank Alpha
+
+
+From: Robert Davis <robert.davis@acme.com>To: Janice Miller <janice.miller@bankalpha.com>Date: Tue, 12 Dec 2023 14:55:32 -0500
+Hi Janice,
+Attached are the statements for account ending in 7890 for the week ending December 8th, 2023, as well as a summary of all transactions from that week and the reconciliation spreadsheets for all the payments we are expecting. Please see attached report 1.
+Thanks,
+Robert DavisAcme Corp
+
+
+From: Janice Miller <janice.miller@bankalpha.com>To: Robert Davis <robert.davis@acme.com>Date: Tue, 12 Dec 2023 14:10:00 -0500
+Hi Robert,
+Following up on your request. To get started, could you please send me the most recent bank statements for your account ending in 7890? I'll also need a summary of all transactions from the past week and your reconciliation spreadsheets. Once I have that I can forward the information to our processing team.
+Thanks,
+Janice MillerBank Alpha
+
+
+From: Robert Davis <robert.davis@acme.com>To: Janice Miller <janice.miller@bankalpha.com>Date: Tue, 12 Dec 2023 13:30:15 -0500
+Good afternoon Janice,
+We need to review the account activity related to the week prior. There are some discrepancies that need to be clarified urgently.
+Best,
+Robert DavisAcme Corp
+
+Attached Documents:report_LN-455696.pdf
+Acme Corp
+Account Reconciliation Report
+Week Ending December 8th, 2023
+Account Number: XXXX-XXXX-XXXX-7890
+Opening Balance: $54,321.10
+Expected Deposits:
+Vendor A: $12,500.00 (Transaction ID: DEP20231208-001)
+Vendor B: $8,750.50 (Transaction ID: DEP20231208-002)
+Vendor C: $15,200.00 (Transaction ID: DEP20231208-003)
+Total Expected Deposits: $36,450.50
+Actual Deposits:
+Vendor A: $12,500.00 (Transaction ID: DEP20231208-001)
+Vendor B: $8,750.50 (Transaction ID: DEP20231208-002)
+Vendor C: $15,000.00 (Transaction ID: DEP20231208-003)
+Total Actual Deposits: $36,250.50
+Discrepancy: $200.00 (Vendor C deposit shortfall)
+Expected Withdrawals:
+Payroll: $25,000.00 (Transaction ID: WTH20231208-001)
+Rent: $5,000.00 (Transaction ID: WTH20231208-002)
+Supplies: $2,000.00 (Transaction ID: WTH20231208-003)
+Total Expected Withdrawals: $32,000.00
+Actual Withdrawals:
+Payroll: $25,000.00 (Transaction ID: WTH20231208-001)
+Rent: $5,000.00 (Transaction ID: WTH20231208-002)
+Supplies: $2,000.00 (Transaction ID: WTH20231208-003)
+Total Actual Withdrawals: $32,000.00
+Closing Balance (Expected): $58,771.60
+Closing Balance (Actual): $58,571.60
+Notes: Please investigate the $200.00 shortfall in Vendor C's deposit. All other
+transactions appear to match expected values.

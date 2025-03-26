@@ -1,0 +1,50 @@
+
+
+
+------ Forwarded message --------
+From: Beatrice Ramirez <beatrice.ramirez@examplebank.com>
+Date: Tue, Oct 27, 2023 at 3:15 PM
+To: Compliance Team <compliance@examplebank.com>
+Hi Team,Please find attached all the requested documentation from Mr. Harrison regarding the recent inquiry about his holding with us. We have the necessary statements and summaries, all cross-referenced against our transaction records. I believe everything is complete to address his concerns. Please let me know if you need further clarification.Thanks,Beatrice RamirezFront Office | Example Bank
+
+
+
+------ Forwarded message --------
+From: Clarence Harrison <clarence.harrison@example.com>
+Date: Tue, Oct 27, 2023 at 11:00 AM
+To: Beatrice Ramirez <beatrice.ramirez@examplebank.com>
+Dear Beatrice,Thanks for your prompt response. I've managed to compile all the necessary documents from my end, including copies of the purchase agreements for the bonds and the third-party verification from Sterling Investments. Please find them attached.I hope everything aligns with your internal records. Do let me know if anything further is required.Best regards,Clarence Harrison
+
+
+
+On Tue, Oct 27, 2023 at 9:00 AM Beatrice Ramirez <beatrice.ramirez@examplebank.com> wrote:
+
+Dear Mr. Harrison,Following up on our conversation yesterday regarding your investment account CH7892345 and your recent inquiry. To assist you effectively, we require a complete set of supporting documentation. This includes, but is not limited to, copies of original investment documents, statements from other financial institutions related to your holdings, and any third-party appraisals of asset value.For easier processing, please also provide a summary of the transaction history, specifically the dates and amounts of all transactions related to the bond acquisitions in question.Once we receive all the required documentation, we will proceed with a thorough review. Thank you for your cooperation.Best regards,Beatrice RamirezFront Office | Example Bank
+Attached Documents:report_LN-972191.pdfreport_LN-374158.docx
+This report provides a reconciliation of Mr. Clarence Harrison's bond holdings as of
+October 27, 2023, based on information received from both Mr. Harrison and Example Bank's
+internal records. Account Number: CH7892345. The total value of bonds purchased is
+$500,000.00. The following discrepancies were identified:
+1.  Initial Investment Date: Mr. Harrison's records indicate a purchase date of June 15,
+2020, while Example Bank's records show a purchase date of June 16, 2020. This discrepancy
+is due to time zone differences. Resolved.
+2.  Vendor Payment: Mr. Harrison provided a receipt from Sterling Investments for
+$250,000.00 on July 22, 2021, which we have located in our ledger with transaction ID
+TXN-987654. Second payment was from Morgan Stanley and we've confirmed with ID TXN-123456,
+date Aug 10 2021. Total from Sterling Investments: $250,000.00, and from Morgan Stanley:
+$250,000.00
+3.  Interest Payments: Example Bank records show interest payments totaling $30,000.00
+over the past three years (2020-2023) at a rate of 2% annually with a total tax
+implication of 7%. Mr. Harrison's records indicate a discrepancy of $1000. After careful
+review of tax and accounting adjustments, we believe Mr. Harrison's records do not account
+for certain fees.
+Conclusion: After review, the differences in calculations are due to bank processing fees
+and timezone differences. All balances and amounts match bank records.
+Detailed Narrative Report
+Account Summary for Clarence Harrison, account CH7892345:
+Transactions:
+*   June 16, 2020: Bond purchase - $500,000.00
+*   July 15, 2021: Interest Payment - $10,000.00
+*   July 15, 2022: Interest Payment - $10,000.00
+*   July 15, 2023: Interest Payment - $10,000.00
+Vendor: Sterling Investments and Morgan Stanley

@@ -1,0 +1,28 @@
+
+From: Amelia Thompson <amelia.thompson@bankalpha.com>Sent: Tuesday, October 29, 2024 11:32 AMTo: Back Office <backoffice@bankalpha.com>Subject: Fwd: Loan Closure Request - Peterson ConstructionHi Team,Forwarding the loan closure request for Peterson Construction. I've gathered all the required documentation, which are attached.Attached is the payoff statement from Allied Financial and the release authorization signed by Mr. Peterson. Everything seems to align, but please double-check the figures before finalizing. The loan account number is 7890123456 and the final payoff amount is $875,321.50. Please confirm once the process is completed.Thanks,Amelia ThompsonBank Alpha | Commercial Lending
+From: John Smith <john.smith@bankalpha.com>Sent: Tuesday, October 29, 2024 10:15 AMTo: Amelia Thompson <amelia.thompson@bankalpha.com>Subject: Re: Loan Closure Request - Peterson ConstructionHi Amelia,Thanks for sending this over. I've attached the signed authorization form as requested. Please let me know if anything else is needed to finalize this matter.Best regards,John Smith
+From: John Smith <john.smith@bankalpha.com>Sent: Tuesday, October 29, 2024 9:00 AMTo: frontoffice@bankalpha.comSubject: Loan Closure Request - Peterson ConstructionDear Front Office Team,I'm writing to formally request the necessary actions to finalize the loan account for Peterson Construction (Account Number: 7890123456). The loan has been completely satisfied as of October 28, 2024, with transaction ID TRN-20241028-003.I've already contacted Allied Financial for the final payoff amount, and it is $875,321.50. I will send you the signed authorization form shortly. Can you please gather the documents for submitting to the relevant department? Thank you for your assistance.Sincerely,John SmithPeterson ConstructionAttached Documents:report_LN-536092.pdfreport_LN-691699.pdf
+Payoff Statement
+To: Bank Alpha
+From: Allied Financial
+Date: October 28, 2024
+Loan Account: 7890123456
+Borrower: Peterson Construction
+Final Payoff Amount: $875,321.50
+Breakdown:
+  Principal Balance: $850,000.00
+  Accrued Interest: $20,321.50
+  Late Fees: $5,000.00
+This statement reflects the total amount required to satisfy the above-referenced loan as
+of October 28, 2024. This payoff is valid until November 4, 2024.
+Please remit payment to Allied Financial, Attn: Loan Servicing, 123 Main Street, Anytown,
+USA.
+Transaction Reference: TRX-AF-20241028-1234
+Release Authorization
+I, John Smith, authorized representative of Peterson Construction, hereby authorize Bank
+Alpha to proceed with the release of any and all liens or encumbrances on property or
+assets securing loan account number 7890123456. This authorization is effective as of
+October 29, 2024.
+Signed:
+John Smith
+Date: October 29, 2024

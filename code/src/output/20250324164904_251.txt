@@ -1,0 +1,31 @@
+
+From: Amelia Rodriguez <amelia.rodriguez@bankwest.com>Sent: Thursday, November 9, 2023 2:47 PMTo: Leo Maxwell <leo.maxwell@maximcorp.com>Cc: Charles Davies <charles.davies@bankwest.com>Subject: Re: Request for Processing - MaximCorp Account 7894561230Hi Leo,Thanks for sending over the final documentation. Everything looks good now. I've forwarded this to Charles in the back office for processing. He'll handle the backend adjustments and get everything finalized. Please let me know if you have any questions on your end.Best regards,Amelia RodriguezCommercial Banking Associate | BankWest Corp.On Thu, Nov 9, 2023 at 2:35 PM Leo Maxwell <leo.maxwell@maximcorp.com> wrote:Hi Amelia,Okay, I've attached the finalized spreadsheet detailing the vendor adjustments, and the revised amortization schedule based on our discussions. I apologize for the delay in getting it all compiled, but everything is now completely up-to-date. Let me know if you need anything further from my side. Please see attached "Vendor_Adjustments_Final.xlsx" and "Revised_Amortization_Schedule_Nov2023.pdf".Thanks,Leo MaxwellCFO | MaximCorpFrom: Amelia Rodriguez <amelia.rodriguez@bankwest.com>Sent: Thursday, November 9, 2023 11:15 AMTo: Leo Maxwell <leo.maxwell@maximcorp.com>Subject: Re: Request for Processing - MaximCorp Account 7894561230Hi Leo,Great to speak with you as well. Thanks for the additional context. To confirm, we are looking at adjustments related to the vendor agreements for MaximCorp’s account 7894561230, correct? I need to finalize the file for the back-office team, so please send the finalized list of vendors including the transaction IDs and the new amortization schedules for the adjustments we discussed, for each vendor. This is very crucial for them to action the adjustments you requested.Please send all documents to me, and I’ll compile the request and send to the processing team, Charles has been copied on the email so he is aware of the request.Thanks,Amelia RodriguezCommercial Banking Associate | BankWest Corp.On Thu, Nov 9, 2023 at 10:50 AM Leo Maxwell <leo.maxwell@maximcorp.com> wrote:Hi Amelia,Thanks for getting back to me so quickly. As we discussed on the phone, MaximCorp needs to adjust the payment structure associated with a few of our key vendor accounts due to some changes in our operational budget. The vendors this effects are “Acme Supply”, “Beta Services”, and “Gamma Solutions”.We have new schedules we're hoping to implement starting November 15th. Can you please advise on the process for updating these vendor agreements with BankWest? Please let me know what information you need from our side.Thanks so much,Leo MaxwellCFO | MaximCorp
+Attached Documents:report_LN-516572.pngreport_LN-844263.pdfreport_LN-558322.pdf
+Citizens Bank
+Vendor Adjustmgnts for MaximCorp - Account 7894561230:
+
+This spreadsheet details the adjustments requested for the
+identified vendor accounts. It includes the original payment
+schedules, revised payment schedules, and the corresponding
+transaction IDs for reference. Please note that any changes
+
+to Acme Supply should be based on transaction ID:
+9876543210.
+
+‘Acme Supply - Original: $50,000/month (Transaction ID:
+1234567890). Revised: $40,000/month.
+
+Beta Services - Original: $30,000/month (Transaction ID:
+2345678901). Revised: $25,000/month.
+
+Gamma Solutions - Original: $20,000/month (Transaction 1D:
+3456789012). Revised: $15,000/month
+Revised Amortization Schedule - November 2023:
+This document outlines the updated amortization schedule reflecting the changes in vendor
+payment structures for MaximCorp, effective November 15th, 2023. The schedule accounts for
+the adjusted payment amounts to Acme Supply, Beta Services, and Gamma Solutions, ensuring
+accurate financial forecasting and reporting. This revision impacts the projected cash
+flow for the next quarter and aligns with the current operational budget adjustments.
+Summary of Vendor Payment Adjustments - MaximCorp:
+The document reflects the agreed-upon adjustment to vendor payment schedules. No further
+documentation is available.

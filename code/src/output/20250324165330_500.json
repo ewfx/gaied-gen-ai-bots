@@ -1,0 +1,12 @@
+{
+    "request_type": "loan extension",
+    "sub_request_type": "rate modification",
+    "from": "Amelia Rodriguez <amelia.rodriguez@frontofficebank.com>",
+    "to": "Processing Department <processing@backofficebank.com>",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Account 78901234 modification request for Zenith Dynamics, requesting revised repayment schedule due to slower growth in Q1 2025.",
+    "confidence_score": 95,
+    "reason": "Request for revised repayment schedule and interest rate due to projected revenue decrease. Documentation including financial statements, revenue projections, and signed agreement form provided.",
+    "other_comments": ""
+}

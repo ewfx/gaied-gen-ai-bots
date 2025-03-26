@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "asset allocation",
+    "from": "Eleanor Vance",
+    "to": "David Miller",
+    "last_date": "2024-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Review Mr. Thompson's financial summary and investment preferences for best path forward in terms of his holdings.",
+    "confidence_score": 95,
+    "reason": "The email discusses Mr. Thompson's financial summary, investment preferences, and the need for advice on optimizing asset allocation, indicating a request for investment advisory services with a focus on asset allocation.",
+    "other_comments": ""
+}

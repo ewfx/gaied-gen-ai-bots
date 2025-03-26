@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "foreign currency",
+    "from": "Robert Harrison",
+    "to": "Glarus AG",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Wire transfer request to Glarus AG in Zurich, Switzerland for $250,000 USD.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly mentions a wire transfer request with details such as beneficiary, amount, and location. The beneficiary bank is located overseas",
+    "other_comments": ""
+}

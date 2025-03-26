@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "timebound",
+    "from": "Janice Albright <Janice.Albright@examplebank.com>",
+    "to": "Finance Department <FinanceDepartment@examplebank.com>",
+    "last_date": "2024-07-16",
+    "urgency": "Normal",
+    "shortened_description": "Principal transfer request from Harrison Investments account 1234567890 to Example Bank account 9876543210 for $750,000.00. Documentation attached.",
+    "confidence_score": 95,
+    "reason": "Request involves transferring funds from one account to another, specifying an amount and beneficiary. The money movement is timebound as per the wire transfer authorization form.",
+    "other_comments": ""
+}

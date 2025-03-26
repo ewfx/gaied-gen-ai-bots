@@ -1,0 +1,23 @@
+From: Eleanor Vance <eleanor.vance@bankalpha.com>Sent: Tuesday, October 24, 2023 10:52 AMTo: Back Office Team <backoffice@bankalpha.com>Cc: Marcus Sterling <marcus.sterling@bankalpha.com>Subject: FW: Mr. Davidson - Portfolio Review & Proposed AdjustmentsHi Team,Please find below and attached the complete email chain with Mr. Davidson, along with the supporting documentation he provided. He's particularly interested in re-balancing his holdings to better align with his long-term goals, given the recent market volatility. Attached is the completed client profile and his risk tolerance assessment and the proposed portfolio strategy he has suggested. The details on his current positions are also included in attachment 3. Please review at your earliest convenience and let me know if you require any further information from my end or directly from Mr. Davidson.Thanks,Eleanor VanceSenior Client Associate | BankAlphaFrom: Marcus Sterling <marcus.sterling@bankalpha.com>Sent: Tuesday, October 24, 2023 9:15 AMTo: Eleanor Vance <eleanor.vance@bankalpha.com>Subject: RE: Mr. Davidson - Portfolio Review & Proposed AdjustmentsEleanor,Great work getting all the documentation together. It looks like Mr. Davidson has provided everything we need to pass this along. I've reviewed his suggested changes, and they seem reasonable given his stated objectives. Go ahead and forward everything to the back office for processing.Thanks,Marcus SterlingFinancial Advisor | BankAlphaFrom: Eleanor Vance <eleanor.vance@bankalpha.com>Sent: Monday, October 23, 2023 4:30 PMTo: Marcus Sterling <marcus.sterling@bankalpha.com>Subject: FW: Mr. Davidson - Portfolio ReviewHi Marcus,Attached are all the documents from Mr. Davidson regarding his portfolio review request. Please see attached report 1, client profile, and risk tolerance assessment. Mr. Davidson is looking for a strategic review and possible realignment. Please let me know if you need anything else from me.Thanks!Eleanor VanceSenior Client Associate | BankAlphaFrom: Harold Davidson <harold.davidson@example.com>Sent: Monday, October 23, 2023 2:00 PMTo: Eleanor Vance <eleanor.vance@bankalpha.com>Subject: Mr. Davidson - Portfolio ReviewDear Eleanor,Following our conversation last week, I'm sending over the requested documents for my portfolio review. I am interested in making some changes to my holdings to make sure it is in the best shape possible. I'm hoping to find the best possible plan to manage my investments for the coming years. Let me know when you have received everything, and we can schedule another call to discuss the next steps.Best regards,Harold DavidsonAttached Documents:report_LN-342073.docxreport_LN-731884.docxreport_LN-300875.pdf
+Detailed Narrative Report
+Client Profile: Harold Davidson
+Account Number: 7890123456
+Date of Birth: 1965-03-15
+Investment Objective: Long-term growth with moderate risk
+Time Horizon: 15+ years
+Risk Tolerance: Moderate
+Liquid Net Worth: $2,500,000
+Annual Income: $250,000
+Financial Goals: Retirement planning, estate planning, and charitable giving. Mr. Davidson wishes to maximize returns while minimizing risk. He's particularly interested in exploring opportunities within socially responsible investing (SRI) and ESG funds.
+Detailed Narrative Report
+Risk Tolerance Assessment:
+Mr. Davidson completed a risk tolerance questionnaire on October 20, 2023. His score indicates a moderate risk tolerance. He expressed comfort with some market fluctuations but prefers to avoid significant losses. He is willing to allocate a portion of his portfolio to growth-oriented assets, but prefers to maintain a balance with more conservative investments. The assessment included questions regarding his investment knowledge, past investment experience, reaction to market downturns, and overall financial goals. The results suggest an asset allocation of approximately 60% equities and 40% fixed income.
+Current Portfolio Holdings as of October 23, 2023:
+| Security        | Ticker | Quantity | Price    | Market Value |
+|-----------------|--------|----------|----------|--------------|
+| Apple Inc.      | AAPL   | 100      | $170.00  | $17,000      |
+| Vanguard S&P 500| VOO    | 500      | $420.00  | $210,000     |
+| Microsoft Corp. | MSFT   | 75       | $280.00  | $21,000      |
+| Berkshire      | BRK.B | 20       | $320.00  | $6,400      |
+| Treasury Bonds  |        | 10       | $1000.00 | $10,000      |
+Total Portfolio Value: $264,400

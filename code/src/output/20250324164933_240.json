@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "amelia.carter@bankco.com",
+    "to": "operations.team@bankco.com",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Maple Leaf Organics requests credit line adjustment from $500,000 to $750,000.",
+    "confidence_score": 95,
+    "reason": "The subject line mentions 'Account Adjustment Request' and the body specifies 'adjust their credit line'. William Brown confirms the specific increase amount ($500k to $750k).",
+    "other_comments": ""
+}

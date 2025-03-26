@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "daily reconciliation",
+    "from": "Eleanor.Smith@frontofficebank.com",
+    "to": "BackOfficeTeam@backofficebank.com",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Request to investigate account discrepancies for Acme Corp. on October 25th and 26th, including unusual deposits and withdrawals. Account number is 12345-67890.",
+    "confidence_score": 95,
+    "reason": "The email and attachment detail discrepancies in account reconciliation, specifically highlighting unusual transactions and differences between expected and actual balances, prompting a review of account activity.",
+    "other_comments": "Request also touches on potential fraudulent activity, which if true, would imply risk assessment too (Confidence score 92)."
+}

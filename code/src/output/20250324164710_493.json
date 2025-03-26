@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation fees",
+    "from": "Sarah.Jenkins@johnsoncorp.com",
+    "to": "Brenda.Miller@continentalbank.com",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Request to review service fees associated with wire transfers WT20230915-448 and WT20230918-912 due to internal reclassifications at Johnson Corp.",
+    "confidence_score": 95,
+    "reason": "Sarah Jenkins from Johnson Corp is requesting clarification on wire transfer fees for internal reclassifications, believing a lower fee structure or waiver may be applicable.  Supporting documents include an internal reclassification report. Brenda Miller forwarded to Victor Ochoa.",
+    "other_comments": ""
+}

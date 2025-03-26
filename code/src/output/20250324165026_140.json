@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement inbound",
+    "sub_request_type": "principal",
+    "from": "jane.smith@bank.com",
+    "to": "processing.team@bank.com",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Request to process incoming wire transfer of $750,000.00 USD from Allied Investments to Peterson Corp account ending in 7890. Funds expected to arrive on October 27th, 2023. Reference ID: INC-2023-1026-PC.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly discusses an incoming wire transfer, specifying the amount, originator, recipient, date, and reference ID. The attachments confirm KYC/AML checks and source of funds.",
+    "other_comments": ""
+}

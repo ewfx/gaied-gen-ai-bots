@@ -1,0 +1,12 @@
+{
+    "request_type": "au transfer",
+    "sub_request_type": "domestic",
+    "from": "alice.chen@bankdomain.com",
+    "to": "backoffice.team@bankdomain.com",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Request to process a $75,000 domestic funds transfer for Robert Davies to Apex Solutions Group Pty Ltd.",
+    "confidence_score": 95,
+    "reason": "Explicit request for funds transfer, mention of urgency by both Robert Davies and Alice Chen and details of the beneficiary provided.",
+    "other_comments": ""
+}

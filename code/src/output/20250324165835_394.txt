@@ -1,0 +1,39 @@
+From: Eleanor Vance <eleanor.vance@frontofficebank.com>To: Benedict Carter <benedict.carter@backofficebank.com>Sent: Tuesday, October 24, 2023 11:42 AMSubject: FW: New Customer Application - Theodore BlackwoodHi Benedict,Attached you'll find the completed documentation for Theodore Blackwood. Please see attached report 1, which includes a summary of his employment history and previous addresses. Attached report 2 provides details on the verification we completed with SecureID Solutions, reference number SID-20231024-789.Everything seems in order, but please let me know if you require any further information before proceeding. Mr. Blackwood is keen to get his account up and running as soon as possible.Thanks,EleanorFrom: Eleanor Vance <eleanor.vance@frontofficebank.com>To: Theodore Blackwood <theodore.blackwood@email.com>Cc: Edgar Allan <edgar.allan@frontofficebank.com>Sent: Tuesday, October 24, 2023 10:15 AMSubject: Re: Application StatusDear Mr. Blackwood,Thank you for your patience. We've compiled all the required documentation from your application and SecureID Solutions, and have now forwarded it to our back office for final processing. You should receive an update on the status of your account within 2-3 business days.Please do not hesitate to contact us if you have any questions.Sincerely,Eleanor VanceFront Office BankOn Tue, Oct 24, 2023 at 09:00 AM, Theodore Blackwood <theodore.blackwood@email.com> wrote:Dear Front Office Team,I am writing to inquire about the status of my application. I submitted all the documents required for the new account creation last week, specifically the 17th of October. I understand these things take time, but I am hoping to start making some significant deposits next month.Thank you for your time and attention to this matter.Sincerely,Theodore BlackwoodAttached Documents:report_LN-485479.docxreport_LN-683554.png
+Detailed Narrative Report
+Employee Verification Report - Theodore Blackwood
+Date: October 24, 2023
+Prepared by: Eleanor Vance
+Employee Details:
+  - Name: Theodore Blackwood
+  - Date of Birth: 1978-05-12
+  - Address: 14 Oak Street, Willow Creek, CA 91234
+Employment History:
+  - Previous Employer: Blackwood Industries (2010-2023)
+  - Address: 27 Industrial Lane, Redwood City, CA 94063
+  - Reason for Leaving: Retirement of Company Owner; Subsequent Company Closure
+Previous Addresses:
+  - 14 Oak Street, Willow Creek, CA 91234 (2018 - Present)
+  - 7 Maple Avenue, Sunnyvale, CA 94087 (2010-2018)
+Notes:
+Employee Background checks confirm no criminal record or pending litigation.  All provided details were verified through public record databases and employer confirmation. Theodore Blackwood holds a valid Californian Driver's License, number DL123456789.
+JPMorgan Cha:
+SecurelD Solutigns Verification Report
+
+Report ID: SID-20231024-789
+Date: October 24, 2023
+
+Subject: Theodore Blackwood
+
+Data Points Verified:
+* Name
+
+* Date of Birth
+
+* Address:
+
+* SSN Match
+
+Verification Status: PASS.
+
+Additional Notes: No discrepancies found in provided data
+against Secure!D Solutions database. Risk score: Low.

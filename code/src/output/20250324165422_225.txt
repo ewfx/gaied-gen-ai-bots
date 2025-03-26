@@ -1,0 +1,75 @@
+
+Hi Team,Forwarding this over for review. Sarah's gathered all the supporting documents we discussed. Let me know if you require anything further.Thanks,Michael DavisFront Office | Grandview Commercial Bank
+
+
+On Tue, Oct 24, 2023 at 10:15 AM, Sarah Miller <sarah.miller@grandviewbank.com> wrote:
+
+Good Morning Michael,I've compiled all the information requested from Ms. Albright. Here's a breakdown:- Account Number: 7890-1234-5678- Statement Period: July 1, 2023 - September 30, 2023- Transaction Log for the statement period (please see attached report 1)She mentioned some unusual activity, specifically several large withdrawals in August. I've highlighted those in the transaction log. The largest was a $45,000 wire transfer on August 15th to Apex Solutions, transaction ID: AXS-20230815-003.Let me know if you need any clarification.Regards,Sarah MillerFront Office | Grandview Commercial Bank
+
+
+
+On Tue, Oct 24, 2023 at 09:00 AM, Evelyn Albright <evelyn.albright@albrightenterprises.com> wrote:
+
+Dear Grandview Commercial Bank Team,I hope this email finds you well. I am writing to request assistance in understanding some transactions on my company's account. I've noticed some discrepancies in the recent statements, particularly regarding withdrawals made during the summer months, which don't quite align with our internal records.My account number is 7890-1234-5678, and I am particularly concerned about the period from July 1, 2023, to September 30, 2023. I believe there were a few large withdrawals that require further examination. For instance, I recall a significant wire transfer in mid-August to a company I'm not entirely familiar with. I would appreciate it if you could provide a detailed transaction log for the specified period, highlighting any withdrawals exceeding $10,000. I believe this will help us reconcile our records and ensure everything is in order.Thank you for your time and attention to this matter. Please let me know if you require any additional information from my end.Sincerely,Evelyn AlbrightAlbright Enterprises
+
+Attached Documents:report_LN-457964.png
+JPMorgan Cha:
+Transaction Log for Account 7890-1234-5678 (July 1, 2023 -
+
+September 30, 2023):
+
+Date: July 5, 2023
+Description: Deposit - Check #12345
+Amount: $5,000.00
+
+Date: July 12, 2023
+Description: Online Transfer
+Amount: $2,500.00
+
+Date: July 19, 2023
+Description: Withdrawal - ATM
+Amount: $100.00
+
+Date: July 26, 2023
+Description: Deposit - Wire Transfer
+Amount: $10,000.00
+
+Date: August 1, 2023
+Description: Payment to Vendor XYZ
+Amount: $1,500.00
+
+Date: August 8, 2023
+Description: Withdrawal - Check #54321
+Amount: $3,000.00
+
+Date: August 15, 2023
+Description: Wire Transfer to Apex Solutions
+
+Amount: $45,000.00
+
+Date: August 22, 2023
+Description: ACH Payment - Employee Salaries
+Amount: $7,500.00
+
+Date: August 29, 2023
+Description: Deposit - Cash
+Amount: $1,000.00
+
+Date: September 5, 2023
+Description: Payment to Vendor ABC.
+Amount: $2,000.00
+
+Date: September 12, 2023
+Description: Online Transfer
+Amount: $500.00
+
+Date: September 19, 2023
+Description: Withdrawal - ATM
+Amount: $200.00
+
+Date: September 26, 2023
+Description: Deposit - Check #67890
+Amount: $3,500.00
+
+Note: All transactions are listed in chronological order.
+Please review carefully for any discrepancies.

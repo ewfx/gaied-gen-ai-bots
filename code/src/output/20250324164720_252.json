@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation fees",
+    "from": "janice.rodriguez@bankexample.com",
+    "to": "backoffice@bankexample.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Review of $750 service fee on account 1234567890 charged on 2023-10-15. Customer believes fee is higher than expected.",
+    "confidence_score": 75,
+    "reason": "Customer dispute of a 'Service Fee' charge and request for review. Invoice provided for context.  The $750 fee does not reconcile with the provided invoice amount for consulting services.",
+    "other_comments": ""
+}

@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "address change",
+    "from": "david.miller98@email.com",
+    "to": "frontoffice@bank.com",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Request to update mailing address and contact number for account 7890123456 from 123 Main Street, Anytown, CA 91234 to 456 Oak Avenue, Anytown, CA 91234 and phone number to 555-555-5555",
+    "confidence_score": 95,
+    "reason": "Explicit statement of address and phone number change request in email body and attached document.",
+    "other_comments": "High confidence for both 'account update' and specifically 'address change' sub-request."
+}

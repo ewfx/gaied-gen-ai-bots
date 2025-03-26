@@ -1,0 +1,17 @@
+Okay, I think we have everything now. Here's the full package for review.Best,MarcusOn Thu, Oct 26, 2023 at 3:15 PM Abigail Ramirez <abigail.ramirez@frontofficebank.com> wrote:Marcus,Adding the fully completed form, and the vendor statements. I think this covers everything Mr. Stevenson asked for, right? Let me know if you spot anything else we need to chase down before forwarding to the back office. I want to make sure this is buttoned up tight. See attached Vendor Statement and Completed Request Form.Thanks!AbigailOn Thu, Oct 26, 2023 at 1:47 PM Marcus Olson <marcus.olson@frontofficebank.com> wrote:Abigail,Thanks! Just confirming that the requested paperwork is on its way from Mr. Stevenson's side. He said he's already contacted the vendor to get the latest statements, and he's filling out the rest now. He mentioned some issue with the documentation requirements around the potential adjustment, but I reassured him we'll sort it out. Should be with you by end of day.MarcusOn Thu, Oct 26, 2023 at 9:32 AM Abigail Ramirez <abigail.ramirez@frontofficebank.com> wrote:Hi Marcus,Mr. Stevenson called in today. He's looking at potentially adjusting the terms of his loan on account number 7894-2349-9876-1234. Specifically, he mentioned something about better aligning his payments with recent market fluctuations. Could you please start gathering the required documentation and relay it to the back office for processing? I believe he also has another business relationship with our company, and mentioned that he’s using vendor A1 Credit as the vendor. It looks like it's for $750,000.Thank you,AbigailAttached Documents:report_LN-128815.png
+Citizens Bank
+Loan Account: 7§94-2349-9876-1234
+
+Client: Thomas Stevenson
+
+Summary:
+Client requests an evaluation of current lending terms to
+potentially adjust rates. Current interest rate is 7.75%
+Balance outstanding as of 10/26/2023 is $1,250,000.
+
+Vendor: A1 Credit
+Credit Line with A1 Credit: $750,000
+
+Client requires an assessment of the potential impact on his
+overall financial standing should we agree to a rate
+adjustment

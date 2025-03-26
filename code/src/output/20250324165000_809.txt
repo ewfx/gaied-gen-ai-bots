@@ -1,0 +1,38 @@
+
+From: Eleanor Vance <eleanor.vance@bankalpha.com>Sent: Tuesday, October 29, 2024 3:45 PMTo: Back Office Team <backoffice@bankalpha.com>Subject:Hi Back Office Team,Hope you're all having a productive week!Following up on the request from Mr. Davidson. He's now provided all the necessary documentation. It's regarding scheduled vendor payments. Could you please review everything and initiate the process?Please see attached: Davidson Vendor List, Davidson Payment Schedule, and Davidson Approval Email.Let me know if you require any further information.Thanks,Eleanor VanceBank Alpha | Front Office
+
+
+From: Jeremy Davidson <jeremy.davidson@example.com>Sent: Tuesday, October 29, 2024 11:12 AMTo: Eleanor Vance <eleanor.vance@bankalpha.com>Subject:Hi Eleanor,Attached is the final approval email, as you requested. Let me know if anything else is needed.Best,Jeremy Davidson
+
+
+From: Eleanor Vance <eleanor.vance@bankalpha.com>Sent: Monday, October 28, 2024 4:20 PMTo: Jeremy Davidson <jeremy.davidson@example.com>Subject:Hi Jeremy,Thanks for sending over the vendor list and payment schedule. I've reviewed them, and everything looks good. Just one more thing – could you forward the original approval email chain from your end confirming these payments are authorized? We need that for our records before we can pass this on to the back office.Thanks again for your patience!Best regards,Eleanor VanceBank Alpha | Front Office
+
+
+From: Jeremy Davidson <jeremy.davidson@example.com>Sent: Monday, October 28, 2024 10:30 AMTo: Eleanor Vance <eleanor.vance@bankalpha.com>Subject:Good Morning Eleanor,Following our conversation last week, I'm sending over the requested documentation related to our planned outgoing finances to our regular vendors. We need to ensure these go out as planned. Attached you will find a document containing a list of all the vendors and then a separate schedule showing the payment due date and amounts.Please let me know if you need anything else from my side.Best Regards,Jeremy Davidson
+
+Attached Documents:report_LN-926139.docxreport_LN-934482.docxreport_LN-250824.pdf
+Detailed Narrative Report
+Davidson Vendor List:
+Vendor Name | Account Number
+---|---
+Acme Supplies | 1234567890
+Beta Corp | 9876543210
+Gamma Inc | 5555555555
+Delta Co | 1122334455
+Detailed Narrative Report
+Davidson Payment Schedule:
+Payment Date | Vendor Name | Amount (USD)
+---|---|---
+2024-11-15 | Acme Supplies | 5000.00
+2024-11-15 | Beta Corp | 7500.00
+2024-11-15 | Gamma Inc | 2500.00
+2024-11-15 | Delta Co | 10000.00
+Subject: Vendor Payment Approval
+To: Jeremy Davidson
+From: Karen Smith
+Date: October 25, 2024
+Dear Jeremy,
+This email confirms the approval for the vendor payment schedule you submitted. Please
+proceed as planned.
+Regards,
+Karen Smith

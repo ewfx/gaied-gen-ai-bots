@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "contact details",
+    "from": "Evelyn Albright",
+    "to": "Grandview Commercial Bank Team",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Request for transaction log and clarification on unusual withdrawals from July 1, 2023 to September 30, 2023, specifically a $45,000 wire transfer to Apex Solutions.",
+    "confidence_score": 95,
+    "reason": "Customer Evelyn Albright is seeking assistance in understanding transactions and discrepancies in her company account statements, which falls under account update. She mentioned large withdrawals.",
+    "other_comments": ""
+}

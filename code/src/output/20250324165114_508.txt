@@ -1,0 +1,33 @@
+
+From: eleanor.vance@bankabc.comSent: Tuesday, October 29, 2024 3:47 PMTo: backoffice.operations@bankabc.comSubject: FW: Urgent Funds Request - Account Ending in 7890
+Hi Team,Forwarding the attached request from Ms. Abigail Thorne. Eleanor from the front office here. We've verified the customer's identity and gathered all the necessary documentation. Please review and process as soon as possible. Let me know if you need anything else.Thanks,Eleanor VanceFront Office SpecialistBank ABC
+From: abigail.thorne@example.comSent: Tuesday, October 29, 2024 2:15 PMTo: eleanor.vance@bankabc.comSubject: Urgent Funds Request - Account Ending in 7890
+Dear Eleanor,I'm writing to request the transfer of funds into my account (ending in 7890). I've received notice that vendor StellarTech Solutions is about to make a payment which is a substantial return on investment plus anticipated profit-sharing, with a small service fee deducted by StellarTech. I've attached the documentation they provided outlining the breakdown and expected transfer date (tomorrow, October 30th). It's a considerable sum, so I would appreciate it if you could ensure the funds are properly credited to my account promptly. Please confirm when this will happen. It's vital that the funds are available before November 1st as I have scheduled outbound transactions.Thank you for your assistance.Sincerely,Abigail Thorne
+Attached Documents:report_LN-275055.pngreport_LN-317567.png
+Wells Fargo
+StellarTech Solufions - Payment Breakdown
+
+Account: Abigail Thorne - XXXX-XXXX-XXXX-7890_
+Transaction ID: ST-20241029-001
+Date: October 29, 2024
+
+Principal Repayment: $450,000.00
+Interest Eamed: $50,000.00
+
+Profit Share: $100,000.00
+
+Service Fee (StellarTech): $5,000.00
+
+Total Amount to be Credited: $595,000.00
+
+Expected Transfer Date: October 30, 2024
+Wells Fargo
+Reconciliation S{mmary:
+
+Customer: Abigail Thorne
+Account: XXXX-XXXX-XXXX-7890_
+Request Date: 2024-10-29
+
+Confirmed Inbound Funds from StellarTech Solutions.
+Total expected credit: $595,000.00. Details confirmed via
+StellarTech documentation.

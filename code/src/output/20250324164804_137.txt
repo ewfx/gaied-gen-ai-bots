@@ -1,0 +1,35 @@
+From: Amelia Schneider <amelia.schneider@bankalpha.com>To: Back Office Team <backoffice@bankalpha.com>Cc: Front Office Team <frontoffice@bankalpha.com>, Brenda Li <brenda.li@bankalpha.com>Date: Tue, Oct 27, 2024, 10:23 AMHi Back Office Team,Attached is the completed documentation for Mrs. Li's request. She's looking to remit funds overseas to a vendor called 'Global Solutions Ltd.' The amount is $175,000.00 USD. Please see attached report 1 for the client's account details and attached report 2 which shows the payment authorization form, signed and dated. The third attachment is a copy of her passport for identification purposes.Let me know if you need anything else.Thanks,Amelia SchneiderFront Office, Bank AlphaFrom: Brenda Li <brenda.li@example.com>To: Front Office Team <frontoffice@bankalpha.com>Date: Tue, Oct 27, 2024, 9:15 AMGood morning,Following our conversation yesterday, I am sending the required information. My account number is 7890123456 and the beneficiary is Global Solutions Ltd. The amount to be transferred is $175,000.00. I also need to move $5,000 USD to my sister's account, Evelyn Reed, with account number 1122334455 in the US, Routing number 021000021 (Bank of America).I've signed the authorization form as requested.Thank you,Brenda LiAttached Documents:report_LN-617420.pngreport_LN-976533.docxreport_LN-388029.docx
+Bank of America
+Account Details Report for Brenda Li
+
+‘Account Number: 7890123456
+Account Type: Business Checking
+Date Opened: 2020-05-15
+Current Balance: $550,234.87
+Available Balance: $525,000.00
+
+Average Monthly Balance: $480,000.00
+Last Transaction Date: 2024-10-26
+Transaction Type: Deposit
+
+Transaction Amount: $12,500.00
+Detailed Narrative Report
+Payment Authorization Form
+Client Name: Brenda Li
+Account Number: 7890123456
+Beneficiary: Global Solutions Ltd.
+Beneficiary Account Number: 9876543210
+Beneficiary Bank: First International Bank
+Beneficiary Bank SWIFT Code: FIBXUSNY
+Amount: $175,000.00 USD
+Purpose of Payment: Consulting Services
+Authorization Date: 2024-10-26
+Signature: [Brenda Li Signature Image]
+Detailed Narrative Report
+Passport Copy - Brenda Li
+Name: Brenda Li
+Passport Number: XP12345678
+Date of Birth: 1975-03-10
+Nationality: Singaporean
+Issuing Country: Singapore
+Expiry Date: 2029-03-10

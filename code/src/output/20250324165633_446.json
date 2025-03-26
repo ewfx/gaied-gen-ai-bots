@@ -1,0 +1,12 @@
+{
+    "request_type": "operational review",
+    "sub_request_type": "system update",
+    "from": "Thomas Thompson <thomas.thompson@acmeco.com>",
+    "to": "Elias Vance <elias.vance@carterandsons.com>",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Request to update vendor information and reconcile Q3 transactions for account 7892-345-6789, including updating GlobalTech Solutions' account number and setting up DataStream Analytics.",
+    "confidence_score": 95,
+    "reason": "The document explicitly states 'Vendor Updates and Reconciliation - Q3 2023' and requests assistance in ensuring changes are implemented correctly to prevent future discrepancies. Includes updates to Vendor account numbers and mentions system setup for new Vendor",
+    "other_comments": ""
+}

@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "foreign currency",
+    "from": "Harold Harrison",
+    "to": "Acme Corp",
+    "last_date": "2023-10-24",
+    "urgency": "High",
+    "shortened_description": "Urgent request to transfer $75,000 from Harold Harrison's account ending in -4567 to Acme Corp, account number 9876543210 at First National Bank with swift code FNATUS33. The reference for this payment is INV-2023-10-24-HH. Deadline: Today.",
+    "confidence_score": 95,
+    "reason": "Customer email requesting urgent funds transfer, mention of specific vendor and account details, specified swift code, and confirmation from Front Office.",
+    "other_comments": ""
+}

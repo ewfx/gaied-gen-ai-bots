@@ -1,0 +1,61 @@
+
+From: backoffice.operations@firstnational.comSent: Thursday, October 26, 2023 3:45 PMTo: frontoffice.requests@firstnational.comSubject: RE: Golden Gate Consulting Review Request - Account 1234567890Hi Front Office Team,Thanks for sending over the documentation. After reviewing everything, specifically the transaction history for July and August, and considering the scale of activity with Golden Gate Consulting, we've identified a few discrepancies that warrant further investigation. The attached analysis highlights the areas of concern.Specifically, the average transaction value seems significantly higher than what's typical for this type of service agreement. Please double-check the contracted rates and deliverables with Golden Gate Consulting. Also, the payment frequency appears inconsistent; there were three payments in July alone, which deviates from the standard monthly schedule outlined in the initial contract (report 1). Additionally, verify that all invoices were properly authorized before processing.Could you reach out to the client to confirm the details and gather additional context? This will help us ensure that all processes are aligned and functioning optimally. Report 2 provides the specific transactions that need clarification.Best,David ChenBack Office OperationsFirst National Bank
+
+From: frontoffice.requests@firstnational.comSent: Thursday, October 26, 2023 11:15 AMTo: backoffice.operations@firstnational.comSubject: FW: Golden Gate Consulting Review Request - Account 1234567890Hi Back Office,Per our discussion, please find attached the client's recent activity details and relevant account information related to Golden Gate Consulting (account number 1234567890). We've also included the contract agreement and payment history for the last six months. Please see attached report 1, report 2.The client, Sarah Miller, requested that we ensure the payments are optimal and align with their business goals. They are particularly focused on improving efficiency with vendor management, given their expanding operational footprint. The recent increase in transaction volume with Golden Gate is what prompted their query.Let me know if you require any further information.Thanks,Emily CarterFront OfficeFirst National Bank
+
+From: sarah.miller@example.comSent: Wednesday, October 25, 2023 4:30 PMTo: frontoffice.requests@firstnational.comSubject: Golden Gate Consulting Review Request - Account 1234567890Dear Emily,I hope this email finds you well.I am writing to request a review of my account activity, specifically concerning our transactions with Golden Gate Consulting (account number 1234567890). We've noticed a substantial increase in the number of transactions and amounts paid to them over the past few months, and I'd like to ensure that we are maximizing efficiency in our financial operations. We use Golden Gate Consulting frequently. My goal is to ensure we have the best process in place.Specifically, could you help us understand if there's a way to streamline these transactions or perhaps negotiate better payment terms based on our current volume? Any insights or suggestions you could provide would be greatly appreciated. Please let me know if you require any further information from my end.Thank you for your time and assistance.Sincerely,Sarah MillerCEO, Miller Enterprises
+Attached Documents:report_LN-487927.pngreport_LN-921319.docx
+Wells Fargo
+Report 1 - Contract details:
+
+Contract between Miller Enterprises and Golden Gate
+Consulting.
+
+Start Date: 2022-10-01
+
+End Date: 2024-10-01
+
+Services: Consulting Services
+
+Payment Schedule: Monthly
+
+Initial Monthly Rate: $5,000
+
+Revision 1 (Date: 2023-04-01): Rate increased to $7,500 due
+to expanded scope.
+
+Revision 2 (Date: 2023-07-01): Rate increased to $9,000 due
+to implementation of custom solutions.
+
+Report 2 - Payment History:
+Account: 1234567890
+
+Vendor: Golden Gate Consulting
+
+Date: 2023-05-15 Amount: $7,500.00 Transaction ID:
+
+TXN-20230515-001
+Date: 2023-06-15 Amount: $7,500.00 Transaction ID:
+TXN-20230615-002
+Date: 2023-07-05 Amount: $9,000.00 Transaction ID:
+TXN-20230705-003
+Date: 2023-07-18 Amount: $9,000.00 Transaction ID:
+TXN-20230718-004
+Date: 2023-07-28 Amount: $9,000.00 Transaction ID:
+TXN-20230728-005
+Date: 2023-08-15 Amount: $9,000.00 Transaction ID:
+TXN-20230815-006
+Date: 2023-08-29 Amount: $9,000.00 Transaction ID:
+TXN-20230829-007
+Date: 2023-09-15 Amount: $9,000.00 Transaction ID:
+TXN-20230915-008
+Date: 2023-10-16 Amount: $9,000.00 Transaction ID:
+TXN-20231016-009
+Detailed Narrative Report
+Analysis of Irregularities
+Account Number: 1234567890
+Client: Miller Enterprises
+Vendor: Golden Gate Consulting
+Observed Discrepancies:
+1. Excessive Transactions in July 2023: The standard billing frequency is monthly. However, in July 2023, there were three separate transactions (TXN-20230705-003, TXN-20230718-004, TXN-20230728-005). This deviates from the established payment schedule and requires justification.
+2. Elevated Average Transaction Value: While the contract revisions explain the increase in monthly rates, the average transaction value appears higher than expected. Further investigation is needed to ensure that all invoices are accurately reflecting the services rendered and align with the contractual agreement.

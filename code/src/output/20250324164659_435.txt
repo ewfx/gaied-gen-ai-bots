@@ -1,0 +1,52 @@
+
+From: backoffice@examplebank.comTo: frontoffice@examplebank.comDate: Tue, 2 May 2023 16:35:22 +0000
+Hi Team,
+Received the customer's information and supporting documentation. We've processed the request. The funds have been correctly moved. Please inform the customer that this has been completed.
+Let me know if there are any questions.
+Regards,
+Brenda Miller
+Back Office Operations
+
+
+From: frontoffice@examplebank.comTo: backoffice@examplebank.comDate: Tue, 2 May 2023 14:20:15 +0000
+Hi Brenda,
+Attached is the information Mr. Anderson provided for the account inquiry. As discussed, there was a question about the distribution of funds from his holdings account into his regular checking account. See attached: account statements; copy of ID and letter of explanation. Please let me know if you need more information
+Thanks,
+Sarah Jenkins
+Front Office Associate
+
+
+From: customer@example.comTo: frontoffice@examplebank.comDate: Tue, 2 May 2023 10:15:00 +0000
+To Whom It May Concern,
+I am writing regarding a potential issue with a recent series of transfers from my investment holdings account to my checking account (ending in 7890). Specifically, I initiated a total of $5,000 in transfers over the past few weeks, in increments of $1,000 on April 10th, $2,000 on April 18th, and $2,000 on April 26th. However, my checking account statement reflects slightly less than the total requested amount.
+I'd greatly appreciate it if you could look into this for me. I suspect it has to do with fees, and I would want to know more. I have been with the bank for a long time and never had any issues. My account number is 123456789.
+Thank you for your time and attention to this matter. I am including a copy of my ID.
+Sincerely,
+Mr. Robert Anderson
+Attached Documents:report_LN-891267.docxreport_LN-347109.pdfreport_LN-793341.pdf
+Detailed Narrative Report
+Account Statement Reconciliation:
+Account Holder: Robert Anderson
+Account Number: 123456789
+Statement Period: April 1, 2023 - April 30, 2023
+Transactions of Interest:
+April 10, 2023: Transfer IN from Holdings Account - $1,000.00
+April 18, 2023: Transfer IN from Holdings Account - $2,000.00
+April 26, 2023: Transfer IN from Holdings Account - $2,000.00
+Total Transfers: $5,000.00
+Fees: The account was charged a processing fee of $25 per transaction to a third party vendor called TransCorp for the funds reallocation. The account was charged fees for the amount of $75.00
+Letter of Explanation from Robert Anderson
+To Whom It May Concern,
+I am writing to formally request an investigation into the discrepancies observed in my
+recent transactions related to my savings account, Account Number: 123456789. I am a long-
+standing customer with an excellent record and am keen to resolve the outstanding matter.
+I initiated transfers from my holdings account to my checking account on April 10th, 18th,
+and 26th. The cumulative amount of all transfers was $5,000. I can produce additional
+information if required.
+Summary of Discrepancy
+Customer: Robert Anderson
+Account Number: 123456789
+Total expected deposit: $5,000
+Total actual deposit: $4,925
+Difference: $75
+Resolution: The difference of $75 is due to third party fees by TransCorp.

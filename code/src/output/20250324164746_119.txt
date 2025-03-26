@@ -1,0 +1,29 @@
+Thanks, Sandra. Everything is attached.Regards,Michael ChenCommercial BankingHi Michael,I’ve gathered all the necessary documents and information regarding Mr. Davison's request. Please see the attached report 1 and attached report 2 which include the historical data and the requested adjustments.Let me know if you need anything else.Thanks,Sandra LeeCommercial BankingForwarded message ---------From: Charles Davison <charles.davison@example.com>Date: Tue, Oct 27, 2023 at 9:15 AMGood morning,I hope this email finds you well.I'm writing to request a review of how the funds for account 7890-1234-5678-9012 are currently allocated, specifically related to some recent transactions with vendor AlphaTech Solutions. Could you look into possibly shifting the funds differently to cover the costs?The transactions in question occurred on October 15th and 22nd, totaling $25,000 and $15,000, respectively (Transaction IDs: AX12345 and BY67890).I would appreciate it if you could provide an overview of the options available for a more cost-effective way to manage these allocations going forward.Thank you for your time and assistance.Best regards,Charles DavisonAttached Documents:report_LN-554094.pngreport_LN-640442.pdf
+Citizens Bank
+AlphaTech Solujjons - Historical Transaction Data
+
+Account: 7890-1234-5678-9012
+Vendor: AlphaTech Solutions
+
+Date Transaction ID Amount Category
+October 15,2023 AX12345 $25,000.00
+Software Licensing
+
+October 22,2023 BY67890 $15,000.00 IT
+
+Services
+
+Notes:
+
+Initial allocation directed funds primarily towards ‘Capital
+Expenditures - Technology’. Client requests evaluation of
+alternative allocations to potentially reduce expenses.
+Proposed Allocation Adjustment
+Client: Charles Davison
+Account: 7890-1234-5678-9012
+Objective: Evaluate and implement a revised fund allocation strategy for transactions with
+AlphaTech Solutions.
+Recommendation: Explore shifting a portion of funds from the 'Marketing Budget' to
+'Operational Expenses' to better align with AlphaTech Solutions' services.
+Next Steps: Initiate a meeting with Mr. Davison to discuss the implications and secure
+final approval for the proposed allocation adjustments.

@@ -1,0 +1,23 @@
+-------- Original Message --------From: Eleanor.Smith@frontofficebank.comSent: Tuesday, October 29, 2024 3:45 PMTo: BackOfficeTeam@backofficebank.comCc: John.Doe@example.comHi Back Office Team,Following up on the request from John Doe at Acme Corp. regarding some discrepancies he found in their recent account activity. We've collected the necessary information and documents from Mr. Doe, which I've attached. He's particularly concerned about the transactions posted on October 25th and 26th. Please see attached report 1 for his detailed notes on those transactions.He's requesting a thorough review of the account activity for the past week and a comparison with the expected daily balances. Let me know if you need anything else from us.Thanks,Eleanor SmithFront Office - Commercial Banking-------- Original Message --------From: John.Doe@example.comSent: Tuesday, October 29, 2024 10:15 AMTo: Eleanor.Smith@frontofficebank.comHi Eleanor,As requested, I've compiled the information we discussed regarding the inconsistencies we've noticed in our Acme Corp. account (#12345-67890). We're seeing some significant discrepancies between our internal records and the bank statements, particularly on the reconciliation for the 25th and 26th of October. There were multiple unusually high deposits and withdrawals. The total difference comes out to be around $17,500.I've also included details on the expected daily balances for the week and our reconciliation spreadsheet.Please let me know what other data you need for the request, I will get to it as soon as I can.Thanks for your help!Best regards,John DoeAcme Corp.Attached Documents:report_LN-822939.docx
+Detailed Narrative Report
+Subject: Acme Corp. Account Reconciliation Discrepancies
+Date Range: October 21, 2024 - October 27, 2024
+Account Number: 12345-67890
+Observed Discrepancies:
+October 25, 2024:
+  - Unusual Deposit: $8,500.  Transaction ID: TXN-98765.  No corresponding invoice or expected payment in our records.
+  - Unexpected Withdrawal: $4,000. Transaction ID: TXN-23456.  Memo states 'Vendor Payment - ABC Supplies,' but we have no record of a payment to ABC Supplies on this date.
+October 26, 2024:
+  - Unexplained Withdrawal: $9,000. Transaction ID: TXN-87654.  No memo provided.
+Expected vs. Actual Balances:
+Date      | Expected Balance | Actual Balance | Difference
+----------|------------------|----------------|----------
+10/21/2024 | $125,000         | $125,000       | $0
+10/22/2024 | $130,000         | $130,000       | $0
+10/23/2024 | $128,000         | $128,000       | $0
+10/24/2024 | $132,000         | $132,000       | $0
+10/25/2024 | $135,000         | $139,500       | $4,500
+10/26/2024 | $126,000         | $117,000       | -$9,000
+10/27/2024 | $126,000         | $117,000       | -$9,000
+Notes:
+Please investigate the unusual transactions on October 25th and 26th.  We suspect potential fraudulent activity or errors in transaction posting. We need clarification on the ABC Supplies payment and the unexplained withdrawal of $9,000. It is important to address this as soon as possible.

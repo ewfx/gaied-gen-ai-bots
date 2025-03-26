@@ -1,0 +1,41 @@
+From: Amelia Bennett <amelia.bennett@bankingservices.com>Sent: Tuesday, October 29, 2024 3:15 PMTo: Charles Davies <charles.davies@bankingservices.com>Subject: FW: Urgent - Request for Account Review - ID 897654Charles,Attached are all the documents and communications related to Mr. Harrison's request. Please see attached report 1 for an overview, attached report 2 for transaction history, and the client's original request email below. He's quite keen to proceed quickly, so any updates you can provide would be appreciated.Thanks,AmeliaFrom: Laura Palmer <laura.palmer@bankingservices.com>Sent: Tuesday, October 29, 2024 11:00 AMTo: Amelia Bennett <amelia.bennett@bankingservices.com>Subject: RE: Urgent - Request for Account Review - ID 897654Amelia,I've gathered everything I could. See the client's last 3 months statements as requested in attached report 2 and the detailed breakdown of his current holdings from our system in attached report 1.Let me know if you require more information before forwarding.Thanks,LauraFrom: Harold Harrison <harold.harrison@email.com>Sent: Tuesday, October 29, 2024 9:00 AMTo: Laura Palmer <laura.palmer@bankingservices.com>Subject: Urgent - Request for Account Review - ID 897654Dear Laura,I hope this email finds you well.I'm writing to request an urgent review of my investment portfolio, specifically focusing on account number 123-456-789. Over the past few months, my financial needs have shifted somewhat, and I need to access a significant portion of the funds within the next few weeks, ideally by November 15th. I'd like to evaluate the possibility of restructuring my holdings to achieve this while minimizing potential losses. Please could you provide a breakdown of my current holdings and any recommendations you might have to achieve these goals? I had an unexpected medical expense and need the money quite fast. Please provide me with the required documents for this process, and let me know if you need any further information from my side. Transaction ID: ZXCV1234Thank you for your prompt attention to this matter.Sincerely,Harold HarrisonAttached Documents:report_LN-615904.pngreport_LN-445424.pdfreport_LN-212068.pdf
+Wells Fargo
+Portfolio Overview - Account 123-456-789
+
+As of October 29, 2024:
+
+Cash Balance: $2,500.00
+
+Equity Holdings:
+- Acme Corp (ACME): 100 shares @ $50.00/share = $5,000.00
+- Beta Industries (BETA): 50 shares @ $100.00/share =
+
+$5,000.00
+
+- Gamma Technologies (GMMA): 25 shares @ $200.00/share =
+$5,000.00
+
+Fixed Income:
+- Government Bond (Series A): $10,000.00 (Maturity Date:
+2027, Interest Rate: 3%)
+
+Total Portfolio Value: $27,500.00
+Account Activity - 123-456-789 (Last 3 Months)
+Date         Description                     Amount      Balance
+----------------------------------------------------------------------
+July 29, 2024  Beginning Balance                N/A        $25,000.00
+Aug 05, 2024  Dividend - Acme Corp             $50.00     $25,050.00
+Aug 15, 2024  Withdrawal - Utility Payment      -$200.00    $24,850.00
+Sep 01, 2024  Interest - Government Bond        $75.00      $24,925.00
+Sep 10, 2024  Deposit - Check #1234             $2,500.00   $27,425.00
+Oct 15, 2024  Withdrawal - Medical Expense      -$1,000.00   $26,425.00
+Oct 29, 2024  Current Balance                    N/A        $26,425.00
+Summary of Client Request (Harold Harrison)
+Client ID: HH7890
+Account: 123-456-789
+Request Date: October 29, 2024
+Details:
+Mr. Harrison needs to access funds from his investment portfolio by November 15th due to
+an unexpected medical expense. He is requesting a review and potential restructuring of
+his holdings to facilitate this withdrawal while minimizing potential losses. Further
+conversations with the client are pending.

@@ -1,0 +1,12 @@
+{
+    "request_type": "loan extension",
+    "sub_request_type": "term extension",
+    "from": "eleanor.vance@bankfrontoffice.example.com",
+    "to": "processingteam@bankbackoffice.example.com",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Gillingham Enterprises requests adjustment of loan repayment schedule for account 7890123456 due to impacted cash flow.",
+    "confidence_score": 95,
+    "reason": "Robert Dudley from Gillingham Enterprises requests a loan repayment schedule adjustment due to market shifts affecting their cash flow.  Account summary, projected cash flow analysis, and the current loan agreement are attached.",
+    "other_comments": ""
+}

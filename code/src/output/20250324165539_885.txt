@@ -1,0 +1,49 @@
+From: elara.findley@frontofficebank.comSent: Tuesday, October 29, 2024 2:47 PMTo: processing.unit@backofficebank.comSubject: Fwd: Urgent Client Request - Account 4567-8901-2345Hi Team,Forwarding the request from Mr. Harrison along with all the necessary documents. He needs a bit of an adjustment to his portfolio to free up some capital. As discussed, the attached reports contain all the information you'll need to process his request quickly. Please let me know if you require any further clarification.Thanks,Elara FindleyFront OfficeFrom: elara.findley@frontofficebank.comSent: Tuesday, October 29, 2024 10:15 AMTo: william.harrison@clientemail.comSubject: Re: Account 4567-8901-2345 - Next StepsDear Mr. Harrison,Thank you for providing all the requested documents! I've reviewed everything and it seems complete. We are now forwarding your request to our processing unit. They will review the attached documents and be in touch shortly with the next steps. In the meantime, please see attached report 3 which is a reconciliation. It should give you a clear snapshot of your current holdings. Please review and let me know if you have any questions.Best regards,Elara FindleyFront OfficeFrom: william.harrison@clientemail.comSent: Tuesday, October 29, 2024 9:00 AMTo: elara.findley@frontofficebank.comSubject: Account 4567-8901-2345 - Next StepsDear Ms. Findley,As requested, I am sending over the completed forms and supporting documentation relating to the portfolio discussion we had last week. It includes the statement of purpose, the income verification statement, and the summary of assets held at Brokerage X (Account Number BX-987654321). Please let me know if you need anything else from my side.Sincerely,William HarrisonAttached Documents:report_LN-741958.docxreport_LN-578896.pdfreport_LN-450247.png
+Detailed Narrative Report
+Portfolio Liquidation Analysis - Client: William Harrison - Account: 4567-8901-2345
+Date: October 29, 2024
+This report analyzes the potential impact of liquidating a portion of Mr. Harrison's portfolio to generate $75,000 in available funds. We have considered the following assets for potential sale:
+Asset | Quantity | Current Price | Estimated Value | Potential Capital Gains
+------- | -------- | -------- | -------- | --------
+Stock ABC | 500 | $150 | $75,000 | $25,000
+Bond XYZ | 100 | $1,050 | $105,000 | $5,000
+Recommendation:
+To meet the $75,000 target with minimal disruption, we recommend selling the entire Stock ABC holding. This will generate the required funds and minimize transaction costs associated with selling fractional units of Bond XYZ. Please note that the estimated capital gains figures are pre-tax and subject to change based on actual market conditions at the time of sale.
+Disclaimer: This analysis is for informational purposes only and does not constitute financial advice.
+Transaction Summary - Account 4567-8901-2345
+Client: William Harrison
+Date: October 29, 2024
+Account Balance (October 28, 2024): $450,000
+Recent Transactions:
+Date | Description | Amount
+------- | -------- | --------
+October 25, 2024 | Dividend Payment (Stock ABC) | $500
+October 24, 2024 | Interest Payment (Bond XYZ) | $1,000
+October 20, 2024 | Purchase of Mutual Fund DEF | $2,000
+Pending Transactions:
+None
+Notes:
+The account balance reflects all settled transactions as of the close of business on
+October 28, 2024. Pending transactions are not included in the current balance.
+Wells Fargo
+Account Recone¢fliation Report - Account 4567-8901-2345
+
+Client: William Harrison
+Date: October 29, 2024
+
+Starting Balance (October 1, 2024): $420,000
+
+Total Deposits: $15,000
+
+- October 5, 2024: Wire Transfer from Personal Account
+$10,000
+
+- October 12, 2024: Check Deposit: $5,000
+
+Total Withdrawals: $5,000
+- October 19, 2024: Electronic Funds Transfer to Account
+XX1234567890: $5,000
+
+Investment Gains/Losses (Net): $20,000
+
+Ending Balance (October 29, 2024): $450,000

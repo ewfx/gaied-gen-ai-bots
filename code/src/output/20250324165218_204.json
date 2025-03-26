@@ -1,0 +1,12 @@
+{
+    "request_type": "document request",
+    "sub_request_type": "income statement",
+    "from": "dale.davis@davisco.com",
+    "to": "penelope.ramirez@bankco.com",
+    "last_date": "2023-10-26",
+    "urgency": "High",
+    "shortened_description": "Mr. Davis from Davis & Co. (account 87654902) sent a financial report for the last fiscal year and needs a detailed overview of his company\u2019s financial standing urgently for investors.",
+    "confidence_score": 95,
+    "reason": "Mr. Davis sent a financial report, a type of income statement, and explicitly stated he needs a detailed overview of his company's financial standing for investors, indicating a document request with high urgency.",
+    "other_comments": ""
+}

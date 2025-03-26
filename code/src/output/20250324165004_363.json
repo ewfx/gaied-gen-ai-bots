@@ -1,0 +1,12 @@
+{
+    "request_type": "trade facilitation",
+    "sub_request_type": "international",
+    "from": "Amelia Rodriguez <amelia.rodriguez@bankmail.com>",
+    "to": "Team",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "International trade facilitation request from Global Dynamics Inc. (Account: 892-555-0122). Requesting to initiate internal procedure.",
+    "confidence_score": 95,
+    "reason": "Documents related to international trade facilitation request and mention of previous transactions, client and account details. Analysis document mentions trade facilitation and international shipment",
+    "other_comments": "High confidence score for document request"
+}

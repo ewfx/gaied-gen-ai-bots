@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "risk profiling",
+    "from": "Amelia Chen",
+    "to": "BackOfficeTeam",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Smith is exploring investment portfolio options and risks; requests review of his financial statements and questionnaires.",
+    "confidence_score": 95,
+    "reason": "The client is seeking advice regarding investment strategies, risk tolerance, and long-term goals related to retirement planning. The request explicitly mentions the exploration of investment portfolio options and risks.",
+    "other_comments": ""
+}

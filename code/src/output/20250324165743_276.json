@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "overdraft monitoring",
+    "from": "Evelyn Carter",
+    "to": "Amelia Rodriguez",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Acme Corp. requests review of account activity due to concerns about potential overdraft during the week of Nov 13-17 related to Peterson Corp. contract payments.",
+    "confidence_score": 95,
+    "reason": "The email discusses concerns about potentially exceeding the account balance and needing to cover upcoming payments. Mentions balance and payments",
+    "other_comments": ""
+}

@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "overdraft monitoring",
+    "from": "Daniel Holloway",
+    "to": "Eleanor Thornton",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Acme Corp (7894561230) requests monitoring of potential overdrafts due to increased activity, providing cash flow projections and historical data.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions a need to ensure smooth handling of potential shortfalls (overdrafts) due to increased account activity. The attached documents provide projected cash flow and historical account activity to aid in monitoring.",
+    "other_comments": ""
+}

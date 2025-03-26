@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "overdraft monitoring",
+    "from": "Sarah Miller",
+    "to": "Patricia Davis",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "ACME Co. requests options to reduce wire transfer fees for account 876543210 after incurring $250 in fees for 5 international wire transfers. Recommendation on payment methods to reduce costs",
+    "confidence_score": 75,
+    "reason": "The email explicitly mentions concerns about wire transfer fees and seeks solutions to reduce costs, pointing towards cash management and monitoring.",
+    "other_comments": ""
+}

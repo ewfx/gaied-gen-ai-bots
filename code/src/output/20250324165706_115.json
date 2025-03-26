@@ -1,0 +1,12 @@
+{
+    "request_type": "operational review",
+    "sub_request_type": "process improvement",
+    "from": "harold.finch@finchcorp.com",
+    "to": "backofficeoperations@examplebank.com",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Investigation of unusual transactions on account ending in 7890, specifically payments to Apex Solutions ($12,500 on 2023-10-10, transaction ID AXS20231010), Data Dynamics Inc. ($8,750 on 2023-10-17, transaction ID DDI20231017), and NovaTech Services ($5,200 on 2023-10-20, transaction ID NTS20231020).",
+    "confidence_score": 85,
+    "reason": "The email explicitly describes concerns about unusual activity on a business account, suggesting a need to review existing processes to prevent similar occurrences in the future.",
+    "other_comments": ""
+}

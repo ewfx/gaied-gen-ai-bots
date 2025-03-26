@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation principal",
+    "from": "eliza.dushku@bank.com",
+    "to": "finance.team@company.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Request to adjust vendor payment schedule for AlphaTech Solutions, specifically reallocating funds for TechForward Solutions and postponing payment for Innovate Systems due to software implementation.",
+    "confidence_score": 95,
+    "reason": "Keywords like 'Request for Adjustment', 'vendor payment schedule', 'amend the scheduled payments', 'revisions', 'payment of $75,000 on November 15, 2024 should be adjusted to $35,000', 'postpone payment', strongly indicate a request for payment adjustments.",
+    "other_comments": null
+}

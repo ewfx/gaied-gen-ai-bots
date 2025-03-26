@@ -1,0 +1,12 @@
+{
+    "request_type": "collateral review",
+    "sub_request_type": "valuation update",
+    "from": "Amelia Chen",
+    "to": "Samuel Lee",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Miller Corp collateral review request - valuation update and supporting documents.",
+    "confidence_score": 95,
+    "reason": "Request for updated appraisal and supporting documentation for Miller Corp, including a competitor quote, related to their existing credit facility. The subject of the email and attachment clearly indicates a valuation update is needed.",
+    "other_comments": ""
+}

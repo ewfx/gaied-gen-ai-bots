@@ -1,0 +1,22 @@
+From: Beatrice Albright <Beatrice.Albright@bankalpha.com>Sent: Tuesday, October 27, 2023 10:35 AMTo: Cecilia Knight <Cecilia.Knight@bankalpha.com>Subject: FW: Payment Request - Account 4567890123Hi Cecilia,Could you please process this request? All required documents are attached. Let me know if you need any further information.Thanks,Beatrice-------- Original message --------From: Ricardo Diaz <Ricardo.Diaz@bankalpha.com>Date: Tuesday, October 27, 2023 10:15 AMTo: Beatrice Albright <Beatrice.Albright@bankalpha.com>Subject: RE: Payment Request - Account 4567890123Hi Beatrice,I've attached all the relevant documents as requested. Please see attached report 1, attached report 2, and attached report 3 for details regarding the payment schedule and the supporting calculations. Let me know if your team needs anything else.Thanks,Ricardo-------- Original message --------From: Jeremy Clarkson <Jeremy.Clarkson@example.com>Date: Tuesday, October 27, 2023 9:00 AMTo: Ricardo Diaz <Ricardo.Diaz@bankalpha.com>Subject: Payment Request - Account 4567890123Dear Ricardo,I am writing to request a payment from my account, 4567890123, to Global Investments LLC. The total amount due is $250,000.00. This payment consists of both a return of the initial funds and the earnings generated during the period.The payment is scheduled for November 15, 2023. Please ensure the funds are transferred by this date to account number 9876543210 at First National Bank, routing number 123456789. Vendor number is GINV2023-10.Please confirm receipt of this request and let me know if you require any further information from my end.Sincerely,Jeremy ClarksonAttached Documents:report_LN-285235.docxreport_LN-858740.pdfreport_LN-505521.png
+Detailed Narrative Report
+Payment Schedule:
+Account: 4567890123
+Vendor: Global Investments LLC (GINV2023-10)
+Date: November 15, 2023
+Amount: $250,000.00
+Breakdown:
+Principal Repayment: $200,000.00
+Interest Payment: $50,000.00
+Summary of Global Investment LLC Account 4567890123:
+Original Principal Invested: $200,000.00
+Interest Earned: $50,000.00
+Total Amount Due: $250,000.00
+Payment Date: November 15, 2023
+Citizens Bank
+Global Investmests LLC Payment Details:
+
+Vendor Account: 9876543210 (First National Bank, Routing
+
+123456789)
+Payment Amount: $250,000.00

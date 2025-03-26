@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "Elara Vance",
+    "to": "First National Trust",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Customer Elara Vance requests a review of her current agreement and potentially an increase to her credit line due to significant business growth.",
+    "confidence_score": 95,
+    "reason": "Elara Vance states her business has experienced significant growth and provides financial statements and business projections indicating increased revenue and profitability, suggesting a need for a higher credit limit.",
+    "other_comments": ""
+}

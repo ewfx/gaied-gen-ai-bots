@@ -1,0 +1,12 @@
+{
+    "request_type": "operational review",
+    "sub_request_type": "process improvement",
+    "from": "sarah.miller@example.com",
+    "to": "frontoffice.requests@firstnational.com",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Request to review account activity with Golden Gate Consulting to streamline transactions and negotiate better payment terms due to a recent increase in transaction volume.",
+    "confidence_score": 95,
+    "reason": "Client (Sarah Miller) is requesting a review of the payment process with Golden Gate Consulting to improve efficiency. Back office identified discrepancies in payment frequency and average transaction value, suggesting a need for process improvements.",
+    "other_comments": ""
+}

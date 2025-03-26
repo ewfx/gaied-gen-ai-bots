@@ -1,0 +1,45 @@
+
+
+
+Hi Team,
+
+Forwarding this along with all the necessary documents provided by Mr. Thompson. Please prioritize.
+
+Thanks,
+
+Elias Vance
+Front Office | Carter & Sons Commercial Bank
+
+---------- Forwarded message ---------From: Elias Vance <elias.vance@carterandsons.com>Date: Fri, Oct 27, 2023 at 10:23 AMSubject: Re: Account 7892-345-6789 RequestTo: Thomas Thompson <thomas.thompson@acmeco.com>
+Hi Thomas,Thanks for the updated vendor list and the transaction history. We have everything we need now. I've attached the following to this email:Signed Request FormUpdated Vendor ListTransaction History (Q3 2023)I'm forwarding your initial request to the back office for processing. We'll reach out if we need anything else.Best,Elias VanceFront Office | Carter & Sons Commercial Bank
+On Thu, Oct 26, 2023 at 4:35 PM Thomas Thompson <thomas.thompson@acmeco.com> wrote:Hi Elias,Just checking in on the request for account 7892-345-6789. I’ve attached the signed request form, as discussed. Could you also let me know what is the expected turnaround time for getting this resolved?Let me know if you need anything else.Thanks,Thomas ThompsonAcme Co.
+
+Attached Documents:report_LN-844972.docx
+Detailed Narrative Report
+**Acme Co. - Vendor Updates and Reconciliation - Q3 2023**
+**Background:**
+This document provides supporting details for the operational review requested for account 7892-345-6789, specifically relating to a review of our payment infrastructure, including vendor data, payment processing and transaction history. This review is necessitated by some of the errors we have been noticing in the Q3 statements. 
+**Vendor List Update:**
+Several vendors have been updated or added to our system this quarter:
+*   **Vendor:** GlobalTech Solutions
+    *   **Old Account Number:** 12345-67890
+    *   **New Account Number:** 98765-43210
+    *   **Reason:** Account consolidation following merger.
+*   **Vendor:** DataStream Analytics
+    *   **Status:** New Vendor
+    *   **Account Number:** 55555-66666
+    *   **Reason:** Contracted for specialized data analysis services.
+**Transaction Reconciliation (Partial - Top 5 Transactions by Value):**
+| Date       | Transaction ID | Vendor                 | Amount      | Description                                                                                                                                                                                                                |
+| :---------- | :------------- | :--------------------- | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023-07-15 | TXN-00123      | GlobalTech Solutions   | $50,000.00  | Payment for software maintenance (Old Account Number - potential discrepancy). Please Note that this has to be routed to the new account number above                                                                      |
+| 2023-08-01 | TXN-00234      | SecureCloud Hosting   | $35,000.00  | Monthly hosting fees.                                                                                                                                                                                                    |
+| 2023-08-10 | TXN-00345      | LegalEase Consulting  | $25,000.00  | Legal consulting fees for contract review.                                                                                                                                                                                 |
+| 2023-09-05 | TXN-00456      | DataStream Analytics | $20,000.00  | Initial payment for data analysis project.                                                                                                                                                                                   |
+| 2023-09-20 | TXN-00567      | OfficePlus Supplies   | $15,000.00  | Bulk purchase of office supplies.                                                                                                                                                                                          |
+**Notes:**
+*   Please verify that all payments to GlobalTech Solutions after 2023-07-15 are routed to the new account number (98765-43210). The system should be updated accordingly.
+*   DataStream Analytics is a new vendor and requires proper setup in the system.
+*   These are only the top transactions, a full history is available for Q3.
+**Conclusion:**
+We kindly request your assistance in ensuring that these changes are implemented correctly to prevent future discrepancies. Please confirm when the updates are completed. This information is critical for the smooth operation of our payment processes.

@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "Liam Walker <liam.walker@example.com>",
+    "to": "Elias Vance <elias.vance@bankalpha.com>",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Client requests review of credit line (Account 7894561230) and provides financial statements and vendor contract for review.",
+    "confidence_score": 95,
+    "reason": "Client explicitly requests a review of their existing credit line and provides supporting documentation. The request is triggered by market fluctuations and changes at their vendor, suggesting a potential need for an adjustment.",
+    "other_comments": "Confidence score is > 90 for 'document request' as well. Client attached financial statements and contract."
+}

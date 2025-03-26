@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement inbound",
+    "sub_request_type": "principal + interest + fee",
+    "from": "eleanor.price@highstreetretail.com",
+    "to": "amelia.hernandez@bankofhorizon.com",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Request to credit $178,500.00 to account 78901234 from Global Investments LLC on October 26, 2023, including principal, profit, and management fee.",
+    "confidence_score": 95,
+    "reason": "Incoming funds disbursement including principal, profit (interest), and management fee.",
+    "other_comments": ""
+}

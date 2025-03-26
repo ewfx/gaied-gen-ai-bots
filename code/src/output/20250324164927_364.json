@@ -1,0 +1,12 @@
+{
+    "request_type": "commitment change",
+    "sub_request_type": "decrease",
+    "from": "David Harrison",
+    "to": "Sarah Chen",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Request to decrease the approved amount of an existing credit facility due to reduced operational needs.",
+    "confidence_score": 95,
+    "reason": "The email explicitly states a request to modify the total approved amount of a credit facility and attachments includes a report for Credit Facility Reduction with the Original Approved Amount and Requested New Approved Amount.",
+    "other_comments": ""
+}

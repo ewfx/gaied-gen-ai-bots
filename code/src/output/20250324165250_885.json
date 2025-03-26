@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "address change",
+    "from": "eleanor.harper@bankpremier.com",
+    "to": "processing.unit@bankpremier.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "John Smith requests a change of address for all accounts. Identity verified, documentation collected. Forwarding request for processing.",
+    "confidence_score": 95,
+    "reason": "Email subject and body explicitly state an account update request for an address change.",
+    "other_comments": ""
+}

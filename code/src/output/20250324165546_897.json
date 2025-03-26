@@ -1,0 +1,12 @@
+{
+    "request_type": "customer onboarding",
+    "sub_request_type": "document submission",
+    "from": "Sarah Chen",
+    "to": "Back Office Team",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Request to review documents for the Peterson initiative for potential financial partnership.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions attached documents related to Peterson LLC and a request to review them for a potential financial partnership. The client is keen to proceed quickly, indicating a need for onboarding.",
+    "other_comments": ""
+}

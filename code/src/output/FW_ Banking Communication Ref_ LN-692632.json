@@ -1,0 +1,12 @@
+{
+    "request_type": "au transfer",
+    "sub_request_type": "domestic",
+    "from": "<Front Office> frontoffice@bankofamerica.com",
+    "to": "<Back Office> backoffice@jpmorganchase.com",
+    "last_date": "2025-03-24",
+    "urgency": "High",
+    "shortened_description": "Classify email as 'au_request' request type and 'domestic' sub request type.",
+    "confidence_score": 100,
+    "reason": "Explicit instruction in the email to classify the request as 'au_request' and the sub-request as 'domestic'.",
+    "other_comments": null
+}

@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "domestic",
+    "from": "Reginald Thornton",
+    "to": "Sarah Miller",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "Funds transfer request from account 7890123456 to Sarah Miller at First Local Bank for $15,000.00, preferred date October 27, 2023.",
+    "confidence_score": 95,
+    "reason": "Request involves transfer of funds from one account to another within the same country as outlined in the mail chain and account statement",
+    "other_comments": ""
+}

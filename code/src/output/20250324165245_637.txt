@@ -1,0 +1,33 @@
+-- Forwarded message ---------From: <elizabeth.martin@examplebank.com>Date: Wed, Oct 25, 2023 at 3:45 PMSubject: Fwd: Account Inquiry - Ref: 20231025-ABCTo: <processing.team@examplebank.com>Hi Team,Forwarding the below request from Mr. Davies regarding updates to his profile. I've gathered all the necessary documents, including the updated utility bill and signed authorization form. Please process this request at your earliest convenience.Thanks,Elizabeth MartinFront Office RepresentativeExample Bank-- Forwarded message ---------From: <john.smith@examplebank.com>Date: Wed, Oct 25, 2023 at 2:15 PMSubject: Re: Account Inquiry - Ref: 20231025-ABCTo: <elizabeth.martin@examplebank.com>Perfect, Elizabeth. I've also attached a copy of my driver's license for verification. Please let me know if anything else is needed. Thanks again for your help!Best regards,John DaviesAccount: 9876-5432-1012On Wed, Oct 25, 2023 at 1:45 PM elizabeth.martin@examplebank.com wrote:Hi Mr. Davies,Thank you for reaching out to Example Bank. I've received your request to update some information on your account. I've already noted down your new residential address. For the change to be fully completed, could you please send me a copy of a recent utility bill or any official document with your name and new address? Also, I need a signed authorization form, which I have attached to this email. Fill out the form, sign it, and send it back to me.Your reference number is 20231025-ABC, please use it in future correspondence.Thanks for your cooperation!Best regards,Elizabeth MartinFront Office RepresentativeExample BankAttached Documents:report_LN-437310.pngreport_LN-721933.pngreport_LN-534699.pdf
+Citizens Bank
+**Authorization Form™*
+Account Holder: John Davies
+Account Number: 9876-5432-1012
+
+I, John Davies, authorize Example Bank to update the
+following information associated with my account
+
+* Residential Address: 123 Main Street, Anytown, USA,
+54321
+
+Signature
+John Davies
+
+Date: 2023-10-25
+Citizens Bank
+“Utility Bill Detafis**
+
+Provider: Anytown Energy
+Account Number: AE-789456123
+Service Address: 123 Main Street, Anytown, USA, 54321
+
+Billing Period: October 1 - October 25, 2023
+Total Amount Due: $150.75
+
+Customer Name: John Davies
+**Driver's License Information**
+Name: John Davies
+Driver's License Number: DL123456789
+Address: 123 Main Street, Anytown, USA, 54321
+Date of Birth: 1980-01-01
+Expiration Date: 2025-12-31

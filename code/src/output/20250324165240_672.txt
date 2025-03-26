@@ -1,0 +1,33 @@
+-- Forwarded message ---------From: "John Smith" <john.smith@frontofficebank.com>Date: Mon, Oct 28, 2024 at 3:15 PMTo: "Jane Doe" <jane.doe@backofficebank.com>Cc: "Michael Brown" <michael.brown@frontofficebank.com>Hi Jane,I'm forwarding you a client request regarding account 5478963210. We've gathered all the necessary information and documentation. Mr. Davis needed a few adjustments made to his profile. Please see the attached report 1 outlining the specifics and the supporting documentation. Michael is also on the CC for awareness.Thanks,JohnOn Mon, Oct 28, 2024 at 2:47 PM, Michael Brown <michael.brown@frontofficebank.com> wrote:Hi John,Following up on our call with Mr. Davis. I've attached report 2 containing all the documentation he provided, including the signed form and relevant identification. He also mentioned a recent address alteration - you might want to confirm his mailing details before proceeding.Let me know if you need anything else.Best,MichaelOn Mon, Oct 28, 2024 at 1:23 PM, Ava Davis <ava.davis@example.com> wrote:Dear Bank Representative,I hope this email finds you well. I am writing to request an update to my account information. My account number is 5478963210. I recently relocated, and my details require revision to ensure smooth transactions moving forward. Please let me know what information you need from me and how to send it over securely.I appreciate your prompt attention to this matter.Sincerely,Ava DavisAttached Documents:report_LN-254746.pngreport_LN-819463.pdf
+Wells Fargo
+Account Update Request Report
+
+Client Name: Ava Davis
+Account Number: 5478963210
+Date of Request: October 28, 2024
+
+Summary of Requested Updates:
+- Change of Contact Information (new address and phone
+number)
+
+Supporting Documentation
+- Completed and signed update form (attached as scanned
+document).
+
+- Copy of Driver's License.
+
+- Utility Bill (proof of new address).
+
+Verification Notes:
+- Previous address confirmed via bank records.
+- Signature on update form matches signature on file
+
+Action Required
+- Update client record with new address and phone number.
+- Confirm changes with client via phone call
+
+Prepared by: John Smith, Front Office Assistant
+Date: October 28, 2024
+Client: Ava Davis
+Account: 5478963210
+Attachments: Signed form, copy of ID

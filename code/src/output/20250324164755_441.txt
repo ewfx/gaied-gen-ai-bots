@@ -1,0 +1,32 @@
+Hi Team,Forwarding the required details for reference, please process it.Thanks,Eliza---------- Forwarded message ---------From: Eliza McMillan <eliza.mcmillan@bankco.com>Date: Tue, Oct 24, 2023 at 10:15 AMSubject: Re: Funds Transfer Request - Account 7890123456To: Reginald Thornton <reginald.thornton@example.com>Hi Reginald,As discussed, I've compiled all necessary documents for the funds transfer. Please find attached the transfer request form and a copy of your updated account statement as of October 23, 2023.Please let me know if you have any questions.Thanks,Eliza McMillanBankCo Front Office---------- Forwarded message ---------From: Reginald Thornton <reginald.thornton@example.com>Date: Tue, Oct 24, 2023 at 09:00 AMSubject: Funds Transfer Request - Account 7890123456To: Eliza McMillan <eliza.mcmillan@bankco.com>Dear Eliza,I'm writing to request a transfer of funds from my account, 7890123456, to another local account. The details are as follows:*   Beneficiary Account Name: Sarah Miller*   Beneficiary Account Number: 9876543210*   Beneficiary Bank: First Local Bank*   Amount to Transfer: $15,000.00*   Purpose of Transfer: Payment for services rendered*   Preferred Transfer Date: October 27, 2023Could you please let me know what documentation is required from my end to initiate this transfer? I'm available to visit the branch at your earliest convenience.Thank you for your assistance.Sincerely,Reginald ThorntonAttached Documents:report_LN-108953.pdfreport_LN-950477.png
+Funds Transfer Request Summary:
+Request Date: October 24, 2023
+Account Number: 7890123456
+Account Holder: Reginald Thornton
+Beneficiary Name: Sarah Miller
+Beneficiary Account: 9876543210
+Beneficiary Bank: First Local Bank
+Transfer Amount: $15,000.00
+Transfer Date: October 27, 2023
+Purpose: Payment for services
+Originating Branch: BankCo - Main Branch
+Internal Transaction ID: TXN-20231024-001
+Account Statement (Excerpt):
+Date            Description                     Debit           Credit          Balance
+Oct 23, 2023    Opening Balance                                 $50,000.00
+Oct 24, 2023    Interest Earned                                 $100.00         $50,100.00
+Citizens Bank
+Reconciliation Rpport
+
+Transaction Details:
+Initiator: Reginald Thomton
+
+Destination: Sarah Miller, First Local Bank
+Requested Amount: $15,000.00
+
+Value Date: 2023-10-27
+
+Intemal Notes:
+Transfer within national boundaries, standard processing
+fees apply. Verification of beneficiary account number
+recommended prior to execution

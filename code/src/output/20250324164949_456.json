@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "contact details",
+    "from": "Amelia.Rodriguez@examplebank.com",
+    "to": "Finance.Department@examplebank.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Vendor maintenance request for account 1234567890 - Global Solutions Inc.",
+    "confidence_score": 95,
+    "reason": "Request involves updating vendor details and payment schedule for a specific account.",
+    "other_comments": "The request is to proceed with the vendor maintenance. Account Number: 1234567890 ,Vendor: Global Solutions Inc."
+}

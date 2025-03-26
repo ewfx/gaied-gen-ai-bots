@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "address change",
+    "from": "elizabeth.martin@examplebank.com",
+    "to": "processing.team@examplebank.com",
+    "last_date": "2023-10-25",
+    "urgency": "Normal",
+    "shortened_description": "Request from Mr. Davies to update his profile with a new residential address. Includes updated utility bill, signed authorization form, and driver's license for verification.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions updating profile information and contains documents related to address verification (utility bill, driver's license) and authorization form.",
+    "other_comments": ""
+}

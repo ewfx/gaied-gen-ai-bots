@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "decrease limit",
+    "from": "Brenda Miller",
+    "to": "John Smith",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to reassess credit arrangements and decrease the credit limit due to a projected decrease in capital needs.",
+    "confidence_score": 95,
+    "reason": "The email from Brenda Miller explicitly requests a reassessment of credit arrangements based on a decrease in projected operating expenditure, implying a need to lower the credit limit.  The financial reports attached support this claim.",
+    "other_comments": ""
+}

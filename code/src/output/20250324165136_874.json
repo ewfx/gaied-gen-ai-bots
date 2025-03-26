@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "foreign currency",
+    "from": "Li Chen <lichen.financial@email.com>",
+    "to": "BackOfficeProcessing <backofficeprocessing@bankassurance.com>",
+    "last_date": "2023-10-23",
+    "urgency": "High",
+    "shortened_description": "Urgent funds transfer request from account 48792345 to Global Supply Chain Solutions Ltd for $75,500.00.  Requires processing by end of day tomorrow.",
+    "confidence_score": 95,
+    "reason": "Keywords: Urgent Funds Transfer, Beneficiary Name, Beneficiary Account, Beneficiary Bank, SWIFT Code, Amount, Reference, payment is extremely time-sensitive. Destination account is also foreign",
+    "other_comments": ""
+}

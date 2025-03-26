@@ -1,0 +1,43 @@
+
+
+
+
+Forwarded message
+
+From: Eleanor Vance <eleanor.vance@bankofnorthamerica.com>Date: Tue, Oct 29, 2024 at 3:45 PMTo: Back Office Operations <backoffice.operations@bankofnorthamerica.com>Subject: FW: Urgent Payment Request - Peterson Investments
+
+
+
+
+Hi Team,Could you please process the attached wire transfer request for Peterson Investments ASAP? They are quite insistent on this going out before close of business today. All the necessary documentation, including their signed authorization and vendor invoice, are attached. Please let me know if you require anything further from my end. The customer service call notes are also attached.Thanks,Eleanor VanceFront Office AssociateBank of North America
+
+
+
+Forwarded message
+
+From: Sarah Miller <sarah.miller@petersoninvestments.com>Date: Tue, Oct 29, 2024 at 2:15 PMTo: Eleanor Vance <eleanor.vance@bankofnorthamerica.com>Subject: Urgent Payment Request - Peterson Investments
+
+
+Dear Eleanor,I hope this email finds you well.We require an urgent wire transfer to be processed today for a critical payment to our vendor, Sterling Supplies. The total amount is $175,500.00. The funds should be debited from our account ending in -6789. We understand that payments made on the same day must be submitted before 4:30 PM, to ensure the funds are moved within the stated timelines.Could you please initiate this transfer as soon as possible? I have included the vendor's invoice, #20241029-SS, that contains Sterling Supplies' banking details and our signed authorization form for your reference. Please confirm that the payment has been processed once completed.Thank you for your prompt attention to this matter.Best regards,Sarah MillerPeterson Investments
+
+Attached Documents:report_LN-481808.pdfreport_LN-995508.pdf
+Customer Service Call Notes:
+Client: Peterson Investments, Sarah Miller
+Date: 2024-10-29
+Time: 14:00 EDT
+Summary: Ms. Miller called requesting urgent wire transfer for $175,500 to Sterling
+Supplies. Payment is time-sensitive due to supplier's deadline. Client emphasized the need
+for same-day processing. Account number ending in -6789.
+Follow-up actions: Verify account balance, ensure proper authorization is on file, and
+expedite the wire transfer request. Inform client once the wire is sent.
+Vendor Invoice Details:
+Invoice Number: 20241029-SS
+Vendor: Sterling Supplies
+Client: Peterson Investments
+Payment Details:
+Amount: $175,500.00
+Beneficiary Bank: First National Bank
+Beneficiary Account Number: 9876543210
+SWIFT Code: FNNBUS33
+This invoice confirms the amount and payment details for the wire transfer request. All
+details have been cross-verified with the information provided by Peterson Investments.

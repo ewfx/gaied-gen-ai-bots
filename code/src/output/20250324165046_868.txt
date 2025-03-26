@@ -1,0 +1,27 @@
+From: Elara Vance <elara.vance@bankalpha.com>Date: October 26, 2023 at 3:15:22 PM PDTTo: BackOffice Team <backofficeteam@bankalpha.com>Hi Team,Forwarding the inbound funds request from Ms. Anya Sharma. I've attached all the necessary documentation she provided, including her account statements and the confirmation from Veritas Investments. Please let me know if you require anything further.Thanks,Elara---------- Forwarded message ---------From: Anya Sharma <anya.sharma@email.com>Date: Thu, Oct 26, 2023 at 2:58 PMSubject: Re: Inquiry regarding account earningsTo: Elara Vance <elara.vance@bankalpha.com>Hi Elara,Thank you for the quick response. As requested, please find attached my most recent statements (Report 1). The deposit confirmation from Veritas Investments (Report 2) is also attached. Let me know if you require any more details. It's the earnings paid out last month. My account number is 98765-43210.Best,AnyaOn Thu, Oct 26, 2023 at 2:47 PM, Elara Vance <elara.vance@bankalpha.com> wrote:Dear Ms. Sharma,Thank you for contacting Bank Alpha. I understand you're inquiring about activity related to earnings distributions into your account.To assist you more efficiently, could you please provide your most recent account statement and any documentation from the originating institution? This will help us trace the transfer and confirm the details. You can reply directly to this email with the documents attached. Please also confirm your account number.Kind regards,Elara VanceBank AlphaAttached Documents:report_LN-246061.docxreport_LN-196057.pngreport_LN-639779.docx
+Detailed Narrative Report
+Account Statement Summary:
+Account Holder: Anya Sharma
+Account Number: 98765-43210
+Period: September 1, 2023 - September 30, 2023
+Beginning Balance: $50,000.00
+Ending Balance: $50,250.00
+Deposits:
+  Date: 2023-09-15
+  Amount: $250.00
+  Description: Earnings Distribution
+Withdrawals: None
+JPMorgan Chase|
+Veritas Investments Confirmation:
+
+Transaction ID: VX789456123
+Date: 2023-09-15
+
+Payee: Anya Sharma
+
+Payee Account: 98765-43210
+Amount: $250.00
+Description: Eamings Distribution for September 2023
+Detailed Narrative Report
+Internal Notes:
+Customer claims to have received a payout into her account from an investment firm. Needs to verify if the payout happened. Amount should be around 250 USD. Customer account: 98765-43210. Date of transaction is approximately September 15th, 2023.

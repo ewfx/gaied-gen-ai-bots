@@ -1,0 +1,44 @@
+From: Robert JonesDate: Tue, Oct 27, 2023 at 3:15 PMTo: John Doe, Claire SmithJohn and Claire,Further to our discussion with Mrs. Eleanor Vance regarding her investment strategy, I'm forwarding you the documentation she provided. Please see the attached report for a breakdown of current holdings. Based on our meeting, she's looking to make some adjustments to better align with her risk profile and long-term goals. Specifically, she expressed interest in increasing her exposure to international markets and decreasing her reliance on fixed income. Could you please review and provide a proposal that addresses these objectives? Let me know if you require any further information. Thanks!Robert JonesSenior Relationship ManagerBank OneFrom: John DoeDate: Tue, Oct 27, 2023 at 11:22 AMTo: Robert JonesCc: Eleanor VanceRobert,Thank you for gathering the necessary information. Mrs. Vance, I've copied you on this email for your reference. We've compiled the details below based on our conversations and the documents you shared, which includes our risk assessment forms and investment account details.Mrs. Vance, could you please confirm that these details are accurate so we can proceed with the next steps?Account Number: 7894561230Current Allocation:US Equities: 60%Fixed Income: 30%Cash: 10%Risk Tolerance: ModerateRobert, please forward this along to the back office team for their consideration once Mrs. Vance confirms the details. John DoeFinancial AdvisorBank OneFrom: eleanor.vance@email.comDate: Tue, Oct 27, 2023 at 9:05 AMTo: John DoeDear Mr. Doe,Thank you for your email and for taking the time to understand my investment goals. I have attached the required documents, including my investment account statements from Northern Trust (Statement Date: September 30, 2023) and the completed risk assessment form. Please see attached report 2.As we discussed, I'm looking to adjust my portfolio to better reflect my long-term objectives. I am comfortable with a moderate level of risk and am particularly interested in exploring opportunities in emerging markets.Please let me know if you require any further information from my end.Sincerely,Eleanor VanceAttached Documents:report_LN-294152.pngreport_LN-934740.pdf
+Wells Fargo
+Current Holdingg Report as of October 26, 2023
+
+Account Number: 7894561230
+Client: Eleanor Vance
+
+Asset Allocation
+US Equities: $600,000
+Apple (AAPL): $150,000
+Microsoft (MSFT): $100,000
+Amazon (AMZN): $50,000
+S&P 500 Index Fund (SPY): $300,000
+Fixed Income: $300,000
+US Treasury Bonds: $150,000
+Corporate Bonds (AAA): $150,000
+Cash: $100,000
+Money Market Account: $100,000
+
+Total Portfolio Value: $1,000,000
+
+Performance Summary:
+Year-to-Date Retum: 8.5%
+3-Year Average Return: 10.2%
+
+Note: This report provides a snapshot of the portfolio's
+current holdings and performance. Past performance is not
+indicative of future results
+Risk Assessment Form
+Client Name: Eleanor Vance
+Date: October 26, 2023
+Question 1: What is your primary investment objective?
+Answer: Long-term growth with a focus on capital preservation.
+Question 2: What is your time horizon for investing?
+Answer: 10+ years.
+Question 3: How comfortable are you with potential investment losses?
+Answer: Moderately comfortable.
+Question 4: What is your knowledge and experience with investing?
+Answer: Some experience managing investments.
+Question 5: What percentage of your portfolio are you willing to risk in any given year?
+Answer: Up to 15%.
+Risk Tolerance Score: 65 (Moderate)
+Investment Recommendation: A diversified portfolio with a mix of stocks and bonds is
+recommended, with a moderate allocation to growth assets.

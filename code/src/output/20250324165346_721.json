@@ -1,0 +1,12 @@
+{
+    "request_type": "collateral review",
+    "sub_request_type": "valuation update",
+    "from": "Amelia Chen",
+    "to": "Brenda Song",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Johnson & Sons require an updated property valuation for warehouse expansion. Appraisal report, financial statements, and tax assessment attached for review.",
+    "confidence_score": 95,
+    "reason": "The subject line and email body explicitly mention 'Collateral Review' and 'updated assessment related to the property serving as collateral' and the attachment contents also validates the same.",
+    "other_comments": ""
+}

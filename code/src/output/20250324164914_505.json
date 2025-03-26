@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "decrease limit",
+    "from": "Gregory Thompson",
+    "to": "Eleanor Vance",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Request to decrease the outstanding loan principal on Loan Agreement LA-2023-789 from $3,500,000 to $2,300,000 due to revised financial projections.",
+    "confidence_score": 95,
+    "reason": "The attached document 'Thompson Indistries - Revised Financial Projections' outlines a revised projection with a reduced capital expenditure and requests a lower outstanding loan principal.",
+    "other_comments": ""
+}

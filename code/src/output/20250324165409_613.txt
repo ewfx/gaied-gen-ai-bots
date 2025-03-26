@@ -1,0 +1,15 @@
+From: backoffice.operations@bankofnorthamerica.comDate: Tue, Oct 27, 2023 at 3:15 PMTo: frontoffice.team@bankofnorthamerica.comHi Team,Thanks for sending over the Henderson file. We've processed the request related to their credit line (Account #789012345). Everything looks good based on the provided documentation, especially the updated policy details. We just need to ensure ongoing monitoring of the premium payments. Let me know if you have any questions. Please close the case.Best regards,Brenda LeeBack Office OperationsBank of North AmericaFrom: frontoffice.team@bankofnorthamerica.comDate: Tue, Oct 27, 2023 at 11:22 AMTo: backoffice.operations@bankofnorthamerica.comSubject: Henderson Account - Documentation for ReviewGood Morning Brenda,Following up on our conversation, please find attached all relevant documents for Henderson Industries (Client ID: 5678901). They’ve requested a review of their lending arrangements, and these documents should cover the security aspects of the loans. Attached report 1 is the new policy summary, attached report 2 contains the full policy, and attached report 3 contains the initial application with the lender. Please review them at your earliest convenience and let me know if you need anything else.Thanks,Michael ChenFront Office TeamBank of North AmericaFrom: laura.henderson@hendersonindustries.comDate: Mon, Oct 26, 2023 at 4:48 PMTo: michael.chen@bankofnorthamerica.comSubject: Re: Henderson Industries - Loan DocumentsHi Michael,Hope you’re having a good week. As requested, I’ve gathered all the updated details concerning our security arrangements. The new declarations should be complete, along with the broker’s confirmations. Please note that our policy number with Allied Protection is BAP2023-10-004. The lender has requested verification that all is up to date.Regards,Laura HendersonHenderson IndustriesAttached Documents:report_LN-193003.pngreport_LN-839548.pdfreport_LN-571205.docx
+Citizens Bank
+This document dptails the policy changes made to
+
+BAP2023-10-004. It shows the coverage increase from
+$5,000,000 to $7,500,000, effective October 20, 2023. The
+premium payment is due annually on October 15th. Please
+
+confirm that this coverage is adequate to support the
+existing credit line
+Initial review documents from the original application filed in July 2020 are included.
+The document shows the initial coverages and the original asset verification report by
+Integra Solutions with the transaction ID INT-2020-7-567.
+Detailed Narrative Report
+The updated lender application lists the account holder as Henderson Industries and the lender as First Financial Corp. It confirms all applicable assets are insured under policy BAP2023-10-004 with Allied Protection for the new total coverage of $7,500,000.

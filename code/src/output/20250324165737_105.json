@@ -1,0 +1,12 @@
+{
+    "request_type": "cash management",
+    "sub_request_type": "overdraft monitoring",
+    "from": "Rhonda Barnaby <rhonda.barnaby@petersoncorp.com>",
+    "to": "BackOffice Team <backoffice@bankabc.com>",
+    "last_date": "2023-10-24",
+    "urgency": "High",
+    "shortened_description": "Urgent review of account ending in -8922 due to anticipated cash flow issues with a large payment of $75,000.00 scheduled for October 27th and an incoming payment of $120,000.00 around November 5th.",
+    "confidence_score": 95,
+    "reason": "The email from Rhonda Barnaby explicitly requests a review due to a potential overdraft situation caused by upcoming payments and receipts. Details regarding vendor payments and client income, as well as transaction history are provided.",
+    "other_comments": ""
+}

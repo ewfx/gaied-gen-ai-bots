@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "amendment fees",
+    "from": "bernice.herrera@bankdomain.com",
+    "to": "finance.backoffice@bankdomain.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to review and make an exception for Mr. Davies' loan modification fee due to his long-standing relationship with the bank.",
+    "confidence_score": 95,
+    "reason": "The email and attached documents explicitly mention a loan modification fee and a request for a waiver.",
+    "other_comments": ""
+}

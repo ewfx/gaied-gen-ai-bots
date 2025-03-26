@@ -1,0 +1,72 @@
+
+
+
+-------- Forwarded message --------
+
+From: Brenda Stern <b.stern@examplebank.com>
+Date: Tue, Oct 27, 2024 at 3:15 PM
+To: Charles Oliveira <c.oliveira@examplebank.com>
+
+
+Hi Charles,
+
+Here is everything for the Reynolds account. Please let me know if you need anything else!
+
+Best,
+Brenda
+
+
+
+
+-------- Forwarded message --------
+From: Brenda Stern <b.stern@examplebank.com>
+Date: Tue, Oct 27, 2024 at 3:00 PM
+To: FrontOfficeRequests <frontoffice@examplebank.com>
+
+
+Hi,
+
+I've gathered all the required documentation and information for the Reynolds' request. Attached are the relevant documents.
+
+I hope everything is complete.
+
+Thanks,
+Brenda
+
+
+
+
+-------- Original message --------
+From: reynolds.corp@example.com <reynolds.corp@example.com>
+Date: Tue, Oct 27, 2024 at 2:45 PM
+To: FrontOfficeRequests <frontoffice@examplebank.com>
+
+
+Dear Example Bank Front Office,
+
+We are writing to request the necessary paperwork for the closure of our account, number 7890123456. We plan to finalize this process on or around November 15, 2024. Please let us know what steps are needed from our end and if any fees are associated with this.
+
+We appreciate your prompt attention to this matter.
+
+Sincerely,
+Alexander McMillan
+Reynolds Corp.
+
+
+
+Attached Documents:report_LN-243303.pdf
+Financial Reconciliation - Reynolds Corp.
+Account Number: 7890123456
+Request Date: October 27, 2024
+Planned Closure Date: November 15, 2024
+Current Balance: $1,256,789.45
+Outstanding Items:
+        - Pending Transaction ID: TXN987654, Amount: $5,000.00 (expected to clear by
+November 1, 2024)
+        - Check #12345, Amount: $250.00 (issued to Vendor: ABC Supplies, outstanding for
+30 days)
+Notes:
+        - A wire transfer of $1,251,539.45 is anticipated on November 16, 2024 to settle
+any remaining balance.
+        - Please confirm any applicable account closure fees.
+        - Contact person: Alexander McMillan at Reynolds Corp.

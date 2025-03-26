@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "decrease limit",
+    "from": "frontoffice@examplebank.com",
+    "to": "backoffice@examplebank.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Ridgeline Enterprises requests a decrease in their credit line limit for account ending in -9210. Authorization form and financial statement attached.",
+    "confidence_score": 95,
+    "reason": "The signed authorization form specifically requests an adjustment to their existing financial agreement, 'effectively allowing a lower upper limit on funding they can access'.  The attached documentation confirms the request and provides supporting financial data.",
+    "other_comments": ""
+}

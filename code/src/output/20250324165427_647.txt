@@ -1,0 +1,65 @@
+
+
+From: Amelia Swanson <amelia.swanson@bankingsolutions.com>
+Sent: Tuesday, October 29, 2024 3:47 PM
+To: Harold Finch <harold.finch@customer.com>
+Cc: Evelyn Reed <evelyn.reed@bankingsolutions.com>
+Subject: Re: Urgent information request - Account 789012345
+
+
+
+Dear Mr. Finch,
+
+
+Thank you for providing the documentation. Everything looks good. I've forwarded your request and the related files to Evelyn Reed for processing. She'll reach out to you directly if any further information is needed.
+
+
+Best regards,
+Amelia Swanson
+Banking Solutions Inc.
+
+
+On Tue, Oct 29, 2024 at 3:31 PM Harold Finch <harold.finch@customer.com> wrote:
+
+
+
+Dear Amelia,
+
+
+Attached are the requested documents relating to transactions on account 789012345 between January 1, 2024, and September 30, 2024, specifically relating to the vendor “SecureTech Solutions” and payments exceeding $5,000. Please see attached report 1, which is a detailed transaction history. Also included is a copy of the invoice from SecureTech Solutions, attached report 2, for your reference.
+
+
+Let me know if you require anything further.
+
+
+Sincerely,
+
+
+Harold Finch
+Customer ID: 1234567
+
+Attached Documents:report_LN-275792.docxreport_LN-835977.pdf
+Detailed Narrative Report
+Transaction History for Account 789012345 (Jan 1, 2024 - Sep 30, 2024)
+This report provides a detailed transaction history for account 789012345 covering the period from January 1, 2024, to September 30, 2024. The following transactions relate to SecureTech Solutions and exceed $5,000:
+Date: February 15, 2024
+Description: Payment to SecureTech Solutions for software license renewal
+Transaction ID: TXN-20240215-001
+Amount: $7,500.00
+Date: May 20, 2024
+Description: Payment to SecureTech Solutions for consulting services
+Transaction ID: TXN-20240520-002
+Amount: $6,200.00
+Date: August 10, 2024
+Description: Payment to SecureTech Solutions for hardware maintenance
+Transaction ID: TXN-20240810-003
+Amount: $5,850.00
+The total amount paid to SecureTech Solutions during this period exceeding $5,000 is $19,550.00. All transactions were processed successfully and are reflected in the account statement.
+SecureTech Solutions Invoice
+Invoice Number: INV-2024-007
+Date: February 1, 2024
+Bill To:
+Harold Finch
+Customer ID: 1234567
+Description: Software License Renewal
+Amount: $7,500.00

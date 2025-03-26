@@ -1,0 +1,12 @@
+{
+    "request_type": "customer onboarding",
+    "sub_request_type": "identity check",
+    "from": "Eleanor Vance <eleanor.vance@frontofficebank.com>",
+    "to": "Benedict Carter <benedict.carter@backofficebank.com>",
+    "last_date": "2023-10-24",
+    "urgency": "Normal",
+    "shortened_description": "New customer application for Theodore Blackwood; requires back office processing after identity verification.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions a new customer application and identity verification completed by SecureID Solutions. Eleanor is forwarding the documentation for final processing, which aligns with the customer onboarding process.",
+    "other_comments": "Confidence score > 90 for request_type 'customer onboarding' and sub_request_type 'identity check'"
+}

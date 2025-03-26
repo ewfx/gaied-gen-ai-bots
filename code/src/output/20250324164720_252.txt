@@ -1,0 +1,48 @@
+
+From: Janice Rodriguez <janice.rodriguez@bankexample.com>Sent: Tuesday, October 27, 2023 3:45 PMTo: BackOffice Team <backoffice@bankexample.com>Subject: FW: Query on Account 1234567890 - Revision Needed
+
+
+
+Hi Back Office Team,Forwarding this request from Mr. Abernathy regarding account 1234567890. I've gathered all the supporting documentation as requested, including the transaction history and the invoice copies. He's hoping we can take another look at the charges applied to his account on October 15th. Please see attached "Customer_Request_Details.txt" and "Supporting_Invoice.pdf". Let me know if you need anything else from my end. Thanks!Best,Janice RodriguezFront Office
+
+
+
+
+From: Gregory Abernathy <gregory.abernathy@example.com>Sent: Tuesday, October 27, 2023 10:15 AMTo: Janice Rodriguez <janice.rodriguez@bankexample.com>Subject: Query on Account 1234567890
+
+
+
+Dear Janice,Hope you're having a good week. Following up on my call from yesterday regarding account 1234567890. I'm still a little unclear about a specific debit appearing on my recent statement. The transaction, dated October 15th, shows a deduction of $750 identified as "Service Fee." While I understand fees are sometimes necessary, I'd like to request a review of this particular charge, as it seems unusually high compared to our typical service agreements.I've attached the relevant invoice from AlphaCorp (dated October 2023-10-01) for your reference. Could you please look into this and let me know what options are available? Appreciate your help!Sincerely,Gregory Abernathy
+
+
+
+Attached Documents:report_LN-499564.pdfreport_LN-435723.png
+Customer Request Details:
+Customer Name: Gregory Abernathy
+Account Number: 1234567890
+Date of Request: 2023-10-27
+Request Details: Review of $750 "Service Fee" charged on 2023-10-15. Customer believes the
+charge is higher than expected based on agreed service levels. Invoice from AlphaCorp
+(2023-10-01) provided for reference.
+Supporting Documents Attached: Supporting_Invoice.pdf
+Internal Notes:
+- Initial call received on 2023-10-26.
+- Customer provided context that typical fees are lower.
+- Forwarding to back office for review and resolution.
+JPMorgan Cha:
+Supporting Invoite - AlphaCorp
+
+Invoice Number: INV-20231001-789
+Invoice Date: 2023-10-01
+Customer: Gregory Abernathy
+
+Description: Consulting Services for Q3 2023
+Details: Project planning and strategy sessions.
+
+Subtotal: $5000.00
+Tax: $250.00
+Total: $5250.00
+
+Note: Please remit payment within 30 days.
+
+AlphaCorp Contact: Sarah Miller (sarah.miller@alphacorp.com)

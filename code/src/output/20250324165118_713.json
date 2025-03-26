@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "timebound",
+    "from": "adambennett@bankingservices.com",
+    "to": "operations@bankingservices.com",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Transfer request from Cedar Ridge Holdings for $765,375.00, including principal, interest, and fee, to vendor account ending in -2345, scheduled for November 5th.",
+    "confidence_score": 95,
+    "reason": "The email explicitly mentions a transfer of funds to a vendor with a specific amount and a defined due date (November 5th).",
+    "other_comments": ""
+}

@@ -1,0 +1,36 @@
+From: backoffice@examplebank.comDate: Tue, Oct 27, 2023 at 10:45 AMTo: frontoffice@examplebank.comHi Team,Received the request and documentation below. Everything looks in order. We've processed the adjustments to account #7890-1234-5678. The new available balance should reflect within 24 hours.Let me know if you need anything else.Thanks,David MillerBack Office Operations---------- Forwarded message ----------From: frontoffice@examplebank.comDate: Tue, Oct 27, 2023 at 10:15 AMTo: backoffice@examplebank.comHi David,Attached are all the documents provided by Ms. Eleanor Vance regarding her account. She's requested a modification to her current arrangements. Please see attached report 1, attached report 2, and attached report 3 for her statement and updated financials. Her business, Vance Industries, has been quite stable, and the request seems reasonable given the provided cash flow analysis. Please let me know if you require any further information from our end.Thanks,Sarah JohnsonFront Office Representative---------- Forwarded message ----------From: eleanor.vance@vanceindustries.comDate: Tue, Oct 27, 2023 at 9:00 AMTo: frontoffice@examplebank.comDear Sarah,Following our conversation last week, I'm formally requesting a review of my current financial setup with Example Bank. As Vance Industries continues to streamline operations, we find that we no longer require the same level of financial flexibility we previously needed. A recent internal audit revealed that we have significant excess capacity within our current arrangements. This capacity is just sitting there and not being utilized so we want to align things to our current projections. Could you please guide me through the process of adjusting this to better suit our present needs?Specifically, we're looking at potentially reducing the parameters linked to account #7890-1234-5678. Our Q3 report, which I can happily provide, indicates a surplus of approximately $75,000, demonstrating our solid financial standing. I'm available to discuss this further at your earliest convenience.Thank you for your time and assistance.Sincerely,Eleanor VanceCEO, Vance IndustriesAttached Documents:report_LN-219108.pngreport_LN-798957.pdfreport_LN-281817.pdf
+JPMorgan Cha:
+“Report 1: Accojint Statement™*
+
+Account Holder: Eleanor Vance, Vance Industries
+Account Number: 7890-1234-5678
+Statement Period: October 1, 2023 - October 27, 2023
+
+Beginning Balance (Oct 1, 2023): $500,000.00
+
+Transactions:
+- Oct 05: Deposit - Vendor Payment (Acme Corp): $25,000.00
+- Oct 12: Withdrawal - Payroll: $40,000.00
+- Oct 19: Deposit - Sales Revenue: $60,000.00
+- Oct 26: Withdrawal - Vendor Payment (Beta Solutions):
+$30,000.00
+
+Ending Balance (Oct 27, 2023): $515,000.00
+**Report 2: Updated Financial Projections**
+Vance Industries - Financial Projections (Next 12 Months)
+Revenue: Projected stable revenue growth of 2% annually.
+Expenses: Anticipate a reduction in operating expenses due to streamlining initiatives.
+Cash Flow: Expected increase in free cash flow, estimated at $75,000 surplus.
+Impact of Adjustment: Reduction in required available resource not expected to negatively
+impact business operations or solvency. The business is doing great and is very liquid at
+the moment. This change is only to better fit the needs and make operations more seamless.
+**Report 3: Cash Flow Analysis**
+Vance Industries - Cash Flow Analysis
+Period: January 1, 2023 - September 30, 2023
+Net Income: $200,000.00
+Depreciation & Amortization: $20,000.00
+Changes in Working Capital: $10,000.00
+Net Cash Flow from Operations: $230,000.00
+Capital Expenditures: $50,000.00
+Dividends Paid: $25,000.00
+Net Free Cash Flow: $155,000.00

@@ -1,0 +1,12 @@
+{
+    "request_type": "portfolio rebalancing",
+    "sub_request_type": "liquidity adjustment",
+    "from": "elara.findley@frontofficebank.com",
+    "to": "processing.unit@backofficebank.com",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Mr. Harrison needs an adjustment to his portfolio to free up $75,000 in capital. Recommendation to sell Stock ABC holding.",
+    "confidence_score": 95,
+    "reason": "Client request for portfolio adjustment to free up capital, documented in attached reports including liquidation analysis and reconciliation reports. Urgency explicitly stated in the subject line.",
+    "other_comments": ""
+}

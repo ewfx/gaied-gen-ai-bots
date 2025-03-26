@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "asset allocation",
+    "from": "Eleanor.Davison@continentalbank.com",
+    "to": "BackOffice.Operations@continentalbank.com",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Harrison is looking to adjust his portfolio allocation due to market volatility and wants a more conservative approach.",
+    "confidence_score": 95,
+    "reason": "Client questionnaire and statement of investment objectives indicate a desire for lower risk and a change in asset allocation.",
+    "other_comments": "High confidence in Investment Advisory and Asset Allocation Request types."
+}

@@ -1,0 +1,23 @@
+---------- Forwarded message ---------From: <backoffice.loans@examplebank.com>Date: Thu, Oct 26, 2023 at 3:15 PMSubject: Re: Client Inquiry - Account 7894561230To: <frontoffice.teamlead@examplebank.com>Hi Amelia,Thanks for forwarding this. We've received the documentation and will review the request. Please allow 3-5 business days for processing. We will keep you updated on the status. I have reviewed the reports, attached below, and it aligns to the request from the Client.Regards,David MillerLoan Processing DepartmentExample Bank---------- Forwarded message ---------From: <frontoffice.teamlead@examplebank.com>Date: Thu, Oct 26, 2023 at 2:45 PMSubject: Fwd: Client Inquiry - Account 7894561230To: <backoffice.loans@examplebank.com>Hi David,Forwarding the request from Mr. Thompson regarding account 7894561230. He's looking to increase the available funds. Please see attached report 1 from our initial assessment and the client-provided statement, attached report 2. Let me know if you need anything else.Thanks,Amelia ChenFront Office Team LeadExample Bank---------- Forwarded message ---------From: <john.thompson@example.com>Date: Thu, Oct 26, 2023 at 2:00 PMSubject: Client Inquiry - Account 7894561230To: <frontoffice.teamlead@examplebank.com>Dear Amelia,I hope this email finds you well.I am writing to inquire about potentially augmenting my financial arrangement associated with account number 7894561230. My business, Thompson Industries, is experiencing a period of growth, and I foresee a need for greater financial flexibility in the coming months. Last quarter, we recorded a significant increase in transaction volume, with numerous payments processed through vendor AlphaTech Solutions (Transaction IDs: AT-20231026-1, AT-20231026-2, AT-20231026-3) totaling $75,000. This growth is projected to continue, with anticipated contracts from BetaCorp and Gamma Dynamics in November. I’m expecting increased costs over the next three months. Would this be something you are able to assist with?Thank you for your time and consideration. I look forward to hearing from you soon.Sincerely,John ThompsonThompson IndustriesAttached Documents:report_LN-352394.pdfreport_LN-362913.pdf
+Report 1: Preliminary Assessment
+Client: Thompson Industries
+Account: 7894561230
+Date: 2023-10-26
+This report summarizes the initial assessment of Mr. Thompson's request. The account has
+been in good standing for the past 5 years with consistent monthly payments and no history
+of overdrafts. Current available funds: $50,000. Average monthly expenditure: $20,000.
+Recent transactions indicate a surge in business activity, particularly with AlphaTech
+Solutions. Recommendation: Forward to loan processing for further review.
+Report 2: Client-Provided Statement
+Account Holder: Thompson Industries
+Account Number: 7894561230
+Reporting Period: September 1, 2023 - September 30, 2023
+Beginning Balance: $35,000
+Credits:
+  * 2023-09-05: Deposit - BetaCorp: $15,000
+  * 2023-09-18: Deposit - Gamma Dynamics: $20,000
+Debits:
+  * 2023-09-01: Payment - Rent: $5,000
+  * 2023-09-15: Payment - AlphaTech Solutions: $10,000
+  * 2023-09-22: Payment - Salaries: $12,000
+Ending Balance: $43,000

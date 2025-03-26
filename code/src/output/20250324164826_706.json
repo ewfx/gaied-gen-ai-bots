@@ -1,0 +1,12 @@
+{
+    "request_type": "closing notice",
+    "sub_request_type": "post-closing",
+    "from": "James Kim",
+    "to": "Back Office Team",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Customer request to finalize loan account 7890-1234-5678 with vendor payment confirmation and invoice.",
+    "confidence_score": 95,
+    "reason": "The request is to 'wrap things up' on the loan account which maps to closing request.  The provision of final invoice and proof of payment maps to post-closing confirmation. James Kim and Brenda Song are involved.",
+    "other_comments": ""
+}

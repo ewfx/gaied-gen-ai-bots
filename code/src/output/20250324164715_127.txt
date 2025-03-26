@@ -1,0 +1,14 @@
+From: bernice.herrera@bankdomain.comDate: Tue, Oct 27, 2023 10:35 AMTo: finance.backoffice@bankdomain.comHi Team,Attached are the documents and email thread regarding Mr. Davies' request. It looks like he was charged a fee relating to a modification of his loan agreement. Could you please review and see if an exception can be made, given his long-standing relationship with the bank? The initial application was processed on July 15th, 2023. He flagged it on October 20th.Thanks,Bernice HerreraFront Office Associate-------- Original message --------From: william.davies@emailprovider.comDate: Tue, Oct 27, 2023 09:50 AMTo: bernice.herrera@bankdomain.comHi Bernice,Following up on our conversation from last week. As promised, I've attached a copy of my account statement showing the questionable charge of $350 which I believe is related to some paperwork needed on loan number 789012345. I've been a loyal customer for over 15 years and never had any issues before. It would be great if we could get this sorted out. Please see the attached statement. I also included a copy of the original loan agreement for your reference (attached).Thanks,William DaviesAttached Documents:report_LN-984535.docx
+Detailed Narrative Report
+**Loan Modification Fee Review - Account 789012345**
+This document summarizes the details regarding a fee assessed on account 789012345, belonging to William Davies, following modifications to the original loan agreement.
+**Original Loan Details:**
+*   Loan Amount: $150,000
+*   Origination Date: July 15, 2023
+*   Interest Rate: 4.5%
+**Modification Details:**
+The client requested adjustments to the repayment schedule, requiring updated documentation.
+**Fee Assessment:**
+A fee of $350 was applied to the account on October 18, 2023 (Transaction ID: TXN-20231018-9876). This fee covers the administrative costs associated with processing the modification request and generating the updated loan documentation.
+**Recommendation:**
+Given Mr. Davies' history as a long-standing customer, a one-time waiver of the fee is recommended. This decision aligns with our customer retention strategy and recognizes his loyalty to the bank. Approving this exception would require manual override code 1234. Please proceed accordingly.

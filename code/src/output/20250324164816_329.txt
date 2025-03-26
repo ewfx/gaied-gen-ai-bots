@@ -1,0 +1,67 @@
+
+
+Hi Team,
+Forwarding along all the documentation from Mr. Harrison. Please proceed with the request and let me know if you need anything else.
+Thanks,Alice JohnsonFront Office Associate
+
+On Tue, Oct 27, 2023 at 10:15 AM Alice Johnson <alice.johnson@bankemail.com> wrote:
+
+
+
+Hi Robert,
+
+Okay, I have finally got all the documents that you requested. 
+
+Attached are the wire instruction forms, the account statement for account number 555-1234567-890, and the compliance check report. Please see attached report 1 and attached report 2. The compliance team gave the go-ahead, thankfully. Let me know if you need anything else!
+
+Thanks,
+Alice Johnson
+Front Office Associate
+
+
+On Tue, Oct 27, 2023 at 09:00 AM Robert Harrison <robert.harrison@customeremail.com> wrote:
+
+
+
+Dear Alice,
+
+Thanks for the update. Please find the signed letter of authorization attached. Also, just to confirm, the beneficiary bank is located overseas. The receiving bank is in Zurich, Switzerland. Beneficiary Name is Glarus AG, with beneficiary account number CH93 0076 2011 6238 5295 7. The SWIFT/BIC Code is GLKBCHZZ80A. I'm looking to transfer $250,000 USD.
+
+Thanks,
+Robert Harrison
+
+
+Attached Documents:report_LN-415351.docxreport_LN-175081.png
+Detailed Narrative Report
+Compliance Check Report:
+Date: October 27, 2023
+Customer: Robert Harrison
+Account Number: 555-1234567-890
+Transaction Type: Funds Transfer Request
+Transaction Amount: $250,000 USD
+Beneficiary: Glarus AG, CH93 0076 2011 6238 5295 7
+Originating Country: United States
+Destination Country: Switzerland
+Sanctions Screening: Negative match found for all parties. No potential sanctions violations detected.
+AML Review: Transaction flagged for enhanced monitoring due to the size and international nature of the transfer. Further investigation recommended. Source of funds documentation reviewed and deemed acceptable. KYC profile updated.
+Conclusion: Transaction approved with enhanced monitoring protocols in place. Regular review of the customer's activity is required.
+JPMorgan Chase|
+Wire Transfer Ingtructions:
+
+Date: October 27, 2023
+
+Originating Bank: BankEmail
+
+Originating Account: 555-1234567-890 (Robert Harrison)
+Beneficiary Bank: Glarus Kantonalbank
+
+Beneficiary Account: CH93 0076 2011 6238 5295 7 (Glarus AG)
+
+SWIFT Code: GLKBCHZZ80A
+
+Amount: 250000 USD
+
+Purpose: Business Transaction
+
+Sender's Address: Robert Harrison, 123 Main Street, Anytown,
+USA

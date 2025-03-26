@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "timebound",
+    "from": "Sarah Miller <sarah.miller@petersoninvestments.com>",
+    "to": "Back Office Operations <backoffice.operations@bankofnorthamerica.com>",
+    "last_date": "2024-10-29",
+    "urgency": "High",
+    "shortened_description": "Urgent wire transfer request for $175,500 to Sterling Supplies, needs to be processed today.",
+    "confidence_score": 95,
+    "reason": "Email explicitly requests an urgent wire transfer to be processed same day due to supplier deadline.",
+    "other_comments": ""
+}

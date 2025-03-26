@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "frontoffice@examplebank.com",
+    "to": "backoffice@examplebank.com",
+    "last_date": "2024-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Harrison's request for credit line adjustment, including updated business plan, cash flow projections, and account summary.",
+    "confidence_score": 95,
+    "reason": "Attachments include business plan (Harrison_BusinessPlan_Oct2024.pdf) and cash flow projections (Harrison_CashFlow_Q4_2024.xlsx). Front office team assesses creditworthiness. Business showing 'a lot of promise'. Account number and agreement ID provided.",
+    "other_comments": "High confidence in credit line adjustment request type."
+}

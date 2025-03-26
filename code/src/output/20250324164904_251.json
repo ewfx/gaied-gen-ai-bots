@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation fees",
+    "from": "amelia.rodriguez@bankwest.com",
+    "to": "leo.maxwell@maximcorp.com",
+    "last_date": "2023-11-09",
+    "urgency": "Normal",
+    "shortened_description": "Request to process vendor payment adjustments for MaximCorp account 7894561230, including revised amortization schedule and vendor adjustment details.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly discusses adjustments to vendor payment schedules for MaximCorp's account, and attached documents outline the specifics of these adjustments. The terms 'vendor adjustments' and 'revised amortization schedule' are direct indicators.",
+    "other_comments": "High confidence in 'adjustment' request type and 'reallocation fees' sub request type."
+}

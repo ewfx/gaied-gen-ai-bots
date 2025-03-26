@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement inbound",
+    "sub_request_type": "principal",
+    "from": "Anya Sharma <anya.sharma@email.com>",
+    "to": "BackOffice Team <backofficeteam@bankalpha.com>",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Ms. Anya Sharma is requesting confirmation of an inbound funds transfer (earnings distribution) of approximately $250 on or around September 15, 2023, into her account 98765-43210, originating from Veritas Investments.",
+    "confidence_score": 95,
+    "reason": "Customer is inquiring about an 'inbound funds request' with supporting documents indicating it is earnings distribution/principal from an investment firm.",
+    "other_comments": ""
+}

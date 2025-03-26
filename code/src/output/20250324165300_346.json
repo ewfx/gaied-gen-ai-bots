@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "address change",
+    "from": "alistair.davies@email.com",
+    "to": "backoffice.processing@examplebank.com",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Mr. Alistair Davies requests address update for checking account ending in 4321 from 123 Oak Street, Anytown, USA to 456 Maple Avenue, Anytown, USA. Requires clearer driver's license copy and confirmation regarding address update for savings account ending in 7890.",
+    "confidence_score": 95,
+    "reason": "Customer email, attached documents, and internal communication confirm address change request.",
+    "other_comments": "Address change is related to an upcoming mortgage application."
+}

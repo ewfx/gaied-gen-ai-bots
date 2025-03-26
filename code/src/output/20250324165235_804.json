@@ -1,0 +1,12 @@
+{
+    "request_type": "account update",
+    "sub_request_type": "address change",
+    "from": "elisabeth.miller@bankofthefuture.com",
+    "to": "processing.team@bankofthefuture.com",
+    "last_date": "2024-04-24",
+    "urgency": "Normal",
+    "shortened_description": "Address and contact number update request for account 9876543210, customer Julia Ramirez.",
+    "confidence_score": 95,
+    "reason": "Customer provided updated address and phone number; verified against multiple data sources (Credit Bureau, Utility Company, and Postal Service).",
+    "other_comments": ""
+}

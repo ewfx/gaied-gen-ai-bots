@@ -1,0 +1,65 @@
+
+-------- Original Message --------
+Date: Tue, 15 Aug 2023 14:35:22 -0400
+From: Amelia Rodriguez <amelia.rodriguez@bankabc.com>
+To: BackOffice Team <backoffice@bankabc.com>
+
+Hi Back Office Team,
+
+Forwarding the request from Mr. Thompson along with all the supporting documents we collected. He seems quite keen on getting this finalized soonest. 
+
+Attached are the signed authorization form, a copy of his driver's license, and a detailed payment summary. We confirmed his identity and validated all details against our records. Please let me know if you require anything further from our end. 
+
+Thanks,
+Amelia Rodriguez
+Front Office | Bank ABC
+
+
+-------- Original Message --------
+Date: Tue, 15 Aug 2023 10:12:58 -0400
+From: Thomas Thompson <thomas.thompson@email.com>
+To: Amelia Rodriguez <amelia.rodriguez@bankabc.com>
+
+Good morning Amelia,
+
+Following our discussion yesterday, I am forwarding the signed authorization documents you requested. As promised, I have included a scanned copy of my driver's license as well. Account number is 8765-4321-0987, which should align with the information in your system.
+
+Please confirm receipt, and let me know if there's anything else needed from my side.
+
+Thank you for your assistance.
+
+Best Regards,
+Thomas Thompson
+Attached Documents:report_LN-866488.pngreport_LN-524017.pdf
+Wells Fargo
+Authorization Report - Account: 8765-4321-0987
+
+Client: Thomas Thompson
+Date: August 15, 2023
+Request initiated: August 14, 2023
+
+Details:
+Mr. Thompson has requested formal written notification
+regarding the status of his loan (Loan ID: LN2023-08-14-TT).
+Specifically, he requires a comprehensive summary outlining
+the outstanding balance, any pending fees, and the expected
+payoff amount. All necessary client verification protocols
+
+have been adhered to, including a successful cross-reference
+check against government-issued identification.
+
+Relevant Transaction Details
+Recent Payment (August 10, 2023): $2,500.00 (Transaction ID:
+TXN-1234567)
+
+Original Loan Amount: $250,000.00
+
+Outstanding Balance as of August 15, 2023: $187,345.87
+Expected Payoff (Estimate): $188,000.00 (Includes projected
+interest and any applicable administrative costs). This is
+only an estimate and may vary depending on the actual
+closing date.
+Account Activity - 8765-4321-0987
+Date: August 15, 2023
+Customer: Thomas Thompson
+Latest Transaction: August 10, 2023 - $2,500.00 Payment (TXN-1234567)

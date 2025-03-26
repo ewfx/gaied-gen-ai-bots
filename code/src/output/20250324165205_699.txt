@@ -1,0 +1,63 @@
+
+
+
+Thanks,
+
+Eleanor
+
+
+
+On Tue, Oct 24, 2023 at 3:14 PM, Front Office <frontoffice@examplebank.com> wrote:
+
+
+
+Hi Back Office Team,
+
+Attached are the documents and details for Eleanor's request. I've confirmed the address and contact number. Let me know if you need anything else from my end.
+
+Please see attached report 1, attached report 2, and attached report 3.
+
+Best,
+
+Michael
+Front Office
+
+
+
+On Tue, Oct 24, 2023 at 2:58 PM, Eleanor Vance <e.vance@email.com> wrote:
+
+
+
+Hi Michael,
+
+Following up on my request from yesterday regarding verifying some account information. I need confirmation that my current address and phone number on file with you are correct. My account number is 7894561230. I'm trying to finalize some paperwork for a loan application with Crestline Financial, and they require this information directly from my bank.
+
+Thanks for your help!
+
+Eleanor Vance
+Attached Documents:report_LN-578742.docxreport_LN-424157.pdfreport_LN-416436.docx
+Detailed Narrative Report
+Account Verification Report for Eleanor Vance
+Date: October 24, 2023
+Account Number: 7894561230
+Address on File: 123 Oak Street, Anytown, CA 91234
+Phone Number on File: 555-123-4567
+Confirmed by: Michael (Front Office)
+Document Checklist:
+Client Name: Eleanor Vance
+Account Number: 7894561230
+Request Type: Address and Phone Number Verification
+Documents Received:
+  - Copy of Driver's License: Verified.
+  - Utility Bill: Verified.
+Confirmation Complete: True
+Detailed Narrative Report
+Transaction History Summary for Account 7894561230 (Past 30 Days)
+Starting Balance (September 24, 2023): $12,542.87
+Deposits:
+  - October 5, 2023: $2,500.00 (Payroll - Acme Corp)
+  - October 19, 2023: $1,000.00 (Transfer from Savings Account)
+Withdrawals:
+  - October 12, 2023: $500.00 (Rent - Check #1234)
+  - October 20, 2023: $200.00 (ATM Withdrawal)
+Ending Balance (October 24, 2023): $15,342.87

@@ -1,0 +1,12 @@
+{
+    "request_type": "au transfer",
+    "sub_request_type": "international",
+    "from": "john.smith@examplecustomer.com",
+    "to": "Emily Carter",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Request to process international fund transfer of AUD 150,000 to Australian Business Consulting Pty Ltd.",
+    "confidence_score": 95,
+    "reason": "Email mentions 'movement of funds', 'beneficiary account', amount, and BSB/Account Number indicating an international AU transfer is requested.",
+    "other_comments": ""
+}

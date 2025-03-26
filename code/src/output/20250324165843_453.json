@@ -1,0 +1,12 @@
+{
+    "request_type": "customer onboarding",
+    "sub_request_type": "document submission",
+    "from": "Amelia.Chen@bankofnorthgate.com",
+    "to": "BackOfficeTeam@bankofnorthgate.com",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Review attached documents for Sterling Innovations' new business account application and verification materials.",
+    "confidence_score": 95,
+    "reason": "Request for review of submitted documents (Vendor Reconciliation Report and Financial Statements) for a new business account application, which aligns with document submission in customer onboarding.",
+    "other_comments": ""
+}

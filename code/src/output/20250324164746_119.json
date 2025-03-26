@@ -1,0 +1,12 @@
+{
+    "request_type": "adjustment",
+    "sub_request_type": "reallocation principal",
+    "from": "Charles Davison",
+    "to": "Sandra Lee",
+    "last_date": "2023-10-27",
+    "urgency": "Normal",
+    "shortened_description": "Request to review and adjust fund allocation for account 7890-1234-5678-9012 related to transactions with AlphaTech Solutions. Proposing shifting funds from Capital Expenditures to Operational Expenses/Marketing budget.",
+    "confidence_score": 95,
+    "reason": "The email explicitly requests a 'review of how the funds for account are currently allocated' and explores 'shifting the funds differently' to cover costs related to specific transactions.",
+    "other_comments": ""
+}

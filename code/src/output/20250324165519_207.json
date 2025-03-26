@@ -1,0 +1,12 @@
+{
+    "request_type": "investment advisory",
+    "sub_request_type": "asset allocation",
+    "from": "Amelia Rodriguez",
+    "to": "Back Office Team",
+    "last_date": "2023-10-26",
+    "urgency": "Normal",
+    "shortened_description": "Request to adjust portfolio allocation for Richard Davies (Account: 12345-67890) based on updated investment guidelines and risk tolerance. Rebalancing portfolio to reduce equity exposure and increase fixed income exposure.",
+    "confidence_score": 95,
+    "reason": "The email chain explicitly discusses adjusting the asset allocation of a portfolio (Richard Davies') to align with updated investment guidelines and the client's (Richard Davies') moderate risk tolerance. Terms like 'shift a bit more towards fixed income', 'selling a portion of existing equity holdings', 'asset allocation', and 'portfolio rebalancing' are strong indicators of investment advisory, specifically asset allocation.",
+    "other_comments": ""
+}

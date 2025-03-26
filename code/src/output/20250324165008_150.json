@@ -1,0 +1,12 @@
+{
+    "request_type": "money movement outbound",
+    "sub_request_type": "timebound",
+    "from": "Blooming Orchards LLC",
+    "to": "Global Trade Solutions",
+    "last_date": "2024-09-18",
+    "urgency": "Normal",
+    "shortened_description": "Client Blooming Orchards LLC requests payment of $3,500.00 to Global Trade Solutions, Transaction ID LOC2024-0915-AX.",
+    "confidence_score": 95,
+    "reason": "Client authorization for payment to beneficiary is attached. Amount and beneficiary are clearly stated.",
+    "other_comments": null
+}

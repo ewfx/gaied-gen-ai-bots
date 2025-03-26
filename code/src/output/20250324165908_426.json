@@ -1,0 +1,12 @@
+{
+    "request_type": "customer onboarding",
+    "sub_request_type": "document submission",
+    "from": "elena.volkov@bankalpha.com",
+    "to": "processing.team@bankalpha.com",
+    "last_date": "2023-10-27",
+    "urgency": "High",
+    "shortened_description": "Expedite onboarding for Davies Corp, account activation needed by next week.",
+    "confidence_score": 95,
+    "reason": "Request for processing documents for new business banking customer Davies Corp with urgency for account activation by next week; multiple documents mentioned (corporate filings, personal identification, application form).",
+    "other_comments": ""
+}

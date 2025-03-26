@@ -1,0 +1,12 @@
+{
+    "request_type": "credit line adjustment",
+    "sub_request_type": "increase limit",
+    "from": "Harrison Corp",
+    "to": "FinanceDepartmentProcessing",
+    "last_date": "2024-10-29",
+    "urgency": "Normal",
+    "shortened_description": "Harrison Corp requests modification to revolving credit facility (RCF-2023-001) due to anticipated operational changes, requesting updated repayment options.",
+    "confidence_score": 95,
+    "reason": "Request to modify revolving credit facility and explore restructuring for long-term investment, potentially requiring an increased limit.",
+    "other_comments": ""
+}
