@@ -48,6 +48,8 @@ def analyze_with_llm(email_body, request_types):
 
         The request and sub request types are listed below:
         REQUEST_TYPES = {request_types}
+        
+        Do not give any additional information other than the JSON Requested above.
      """
     )
     print(response.text)
