@@ -23,6 +23,12 @@ It includes functionalities for managing request types and sub-request types, vi
 
 📺 [Slideshow explaining architecture](artifacts/arch/Gen-AI_Based_Email_Classification_and_OCR_Solution.pptx)
 
+  [Architecture Reference](https://github.com/ewfx/gaied-gen-ai-bots/blob/main/artifacts/arch/Architecture_Diagram.jpg)
+ 
+ [Architecture Future State Reference](https://github.com/ewfx/gaied-gen-ai-bots/blob/main/artifacts/arch/Architecture_Diagram_TargetState.jpg)
+
+ [Flow Diagram](https://github.com/ewfx/gaied-gen-ai-bots/blob/main/artifacts/arch/Flow_Diagram_GenAIBots.jpg)
+  
 📄 [High Level Design Document](artifacts/arch/Design_Document.pdf)
 
 🖼️ Screenshots:
